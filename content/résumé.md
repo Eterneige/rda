@@ -6,7 +6,7 @@ Date:  2013-06-25 21:01:21
 Avant-propos de l’éditeur-traducteur
 ====================================
 
-Ce livre est un livre de remix. Il compile des argumentaires et revendications portées par différentes associations et collectifs français. Il n’est pas nécessaire de le lire dans l’ordre. Les plus pressés iront directement à l’index des mesures situé en page . J’enjoins le lecteur à essayer de découvrir les différents chapitres sans préjuger immédiatement de leur source originelle.
+Ce livre est un livre de remix. Il compile des argumentaires et revendications portées par différentes associations et collectifs français. Il n’est pas nécessaire de le lire dans l’ordre. Les plus pressés iront directement à l’index des mesures [dans la version PDF](http://fichiers.sploing.fr/résumé.pdf). J’enjoins le lecteur à essayer de découvrir les différents chapitres sans préjuger immédiatement de leur source originelle.
 
 La croyance fondamentale qui guide les mesures proposées est que la libre circulation de l’information qu’a permis Internet devrait permettre un monde meilleur. C’est pourquoi le droit d’auteur dans sa forme actuelle est un frein au progrès. L’État doit abandonner une législation obsolète pour entrer avec fracas dans le nouveau millénaire. Ouverture et liberté doivent être les maîtres mots de la nouvelle société de l’information pour que nous en tirions le meilleur parti.
 
@@ -49,7 +49,7 @@ Les propositions que nous faisons sont résumées par les lignes directrices sui
 
 5.  Protéger et promouvoir le domaine public et l’accès libre à des œuvres et données libres.
 
-Il reste aux politiques à s’emparer de ces idées pour les transformer en lois. Les plus pressés trouveront un index des réformes proposées en page .
+Il reste aux politiques à s’emparer de ces idées pour les transformer en lois. Les plus pressés trouveront un index des réformes [dans la version PDF](http://fichiers.sploing.fr/résumé.pdf).
 
 L’allégorie du cycliste
 =======================
@@ -537,11 +537,6 @@ Nous proposons de {@style=border:2px solid #7FC6BC;} :
 Les sociétés de gestion devraient dans tous les cas continuer à être agréées par l’État car leurs agents doivent être assermentés pour pouvoir constater la matérialité des infractions au droit d’auteur. L’existence d’un registre comme proposé au chapitre sur le registre doit permettre de limiter les perceptions abusives.
 
 Dans le cas de la libéralisation du marché de la perception des droits d’auteurs, un éclatement complet du marché est impossible car une société de gestion ne peut correctement faire respecter les droits de ses sociétaires que lorsqu’elle obtient une taille suffisante. En revanche la scission des sociétés de gestion actuelles en plusieurs sociétés moins prônes aux abus et plus à l’écoute de leurs sociétaires et des besoins du public serait le résultat souhaité de la libéralisation.
-
-Index des mesures
-=================
-
-
 
 Sources
 =======
