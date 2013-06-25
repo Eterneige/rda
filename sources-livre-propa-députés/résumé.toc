@@ -1,0 +1,35 @@
+\select@language {french}
+\contentsline {chapter}{Avant-propos de l'éditeur-traducteur}{3}{chapter*.1}
+\contentsline {chapter}{Introduction}{5}{chapter*.2}
+\contentsline {chapter}{\numberline {1}L'allégorie du cycliste}{9}{chapter.1}
+\contentsline {chapter}{\numberline {2}Conserver le droit à la paternité et au repentir}{11}{chapter.2}
+\contentsline {chapter}{\numberline {3}Bannir les verrous numériques}{13}{chapter.3}
+\contentsline {chapter}{\numberline {4}Préserver et promouvoir le domaine public}{15}{chapter.4}
+\contentsline {section}{\numberline {4.1}Le domaine public est un bien commun qui a besoin d'être défendu}{15}{section.4.1}
+\contentsline {section}{\numberline {4.2}Quatre mesures pour que rien ne puisse être soustrait au domaine public}{16}{section.4.2}
+\contentsline {chapter}{\numberline {5}Reconnaître et promouvoir les licences libres}{19}{chapter.5}
+\contentsline {section}{\numberline {5.1}Inscrire la définition d'une licence libre dans la loi}{19}{section.5.1}
+\contentsline {section}{\numberline {5.2}Libérer toutes les données et œuvres qui peuvent l'être}{19}{section.5.2}
+\contentsline {subsection}{La sécurité des citoyens comme limite}{20}{section*.4}
+\contentsline {subsection}{Libérer les travaux de recherche}{21}{section*.5}
+\contentsline {section}{\numberline {5.3}Rendre accessibles les données libérées}{21}{section.5.3}
+\contentsline {chapter}{\numberline {6}Créer un droit à la transformation des œuvres}{23}{chapter.6}
+\contentsline {chapter}{\numberline {7}Enregistrer les œuvres tous les cinq ans}{25}{chapter.7}
+\contentsline {section}{\numberline {7.1}Qu'est-ce qu'une œuvre orpheline~?}{25}{section.7.1}
+\contentsline {section}{\numberline {7.2}Le trou noir du vingtième siècle}{26}{section.7.2}
+\contentsline {section}{\numberline {7.3}Un registre bénéficierait à tous}{26}{section.7.3}
+\contentsline {section}{\numberline {7.4}Une réponse conforme à la Convention de Berne}{27}{section.7.4}
+\contentsline {section}{\numberline {7.5}Des accords actuellement défavorables aux auteurs}{27}{section.7.5}
+\contentsline {chapter}{\numberline {8}Dépénalisation du partage sans but lucratif}{29}{chapter.8}
+\contentsline {section}{\numberline {8.1}Il faut s'adapter au sens de l'histoire}{29}{section.8.1}
+\contentsline {section}{\numberline {8.2}La différence entre le lucratif et le non-lucratif}{30}{section.8.2}
+\contentsline {section}{\numberline {8.3}Une exception pédagogique de facto pour l'Éducation nationale}{31}{section.8.3}
+\contentsline {chapter}{\numberline {9}Vingt ans de monopole commercial}{33}{chapter.9}
+\contentsline {section}{\numberline {9.1}À productions différentes, durées différentes~?}{33}{section.9.1}
+\contentsline {section}{\numberline {9.2}Une durée rationnelle pour un investisseur}{33}{section.9.2}
+\contentsline {section}{\numberline {9.3}Pourquoi pas moins~?}{34}{section.9.3}
+\contentsline {chapter}{\numberline {10}Remodeler le financement de la culture}{37}{chapter.10}
+\contentsline {section}{\numberline {10.1}Trois sources d'investissement principales}{37}{section.10.1}
+\contentsline {section}{\numberline {10.2}Les sociétés de gestion des droits}{37}{section.10.2}
+\contentsline {chapter}{\numberline {A}Index des mesures}{41}{appendix.A}
+\contentsline {chapter}{\numberline {B}Sources}{43}{appendix.B}

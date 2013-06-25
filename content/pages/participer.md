@@ -1,15 +1,11 @@
 Title: Participer
 
-Ce blog est hébergé chez [Gandi](https://www.gandi.net/hebergement/simple) pour une trentaine d’euros par an avec d'autres sites. Je ne gagne bien sûr pas d'argent avec, mais si vous pensez que les articles qui sont traduits sur ce blog ont de la valeur, ou que vous voulez aider à la pérennité du site, voici mon [RIB](http://reformedroitauteur.sploing.fr/rib-courant.pdf).
+Ce site sert à soutenir mon projet d'envoyer aux députés un contre-rapport Lescure, pour lequel [j'appelle au financement sur Ulule](http://fr.ulule.com/ref-da). 
 
-Ceci dit, ce qui m'intéresserait le plus serait que vous contribuiez en fournissant vos propres traductions, ou en corrigeant ou commentant les miennes. Si vous proposez de nouvelles traductions vers le français, prenez les langues sources qui vous intéressent. Je ne parle qu’allemand, français et anglais.
+Le texte envoyé aux députés contient un résumé de l'essentiel des mesures et est ici complété par un rassemblement de témoignages en faveur de la réforme du droit d'auteur. 
 
-À ces fins, vous pouvez 
+Les deux textes peuvent être modifiés et étendus avant la fin du projet, donc n'hésitez pas. À cette fin, vous pouvez passer par [le wiki](http://rda.sploing.fr/wiki/), [github](https://github.com/sploinga/rda) ou m'envoyer directement un mail à <xavier@sploing.fr>.
 
-*	directement m'envoyer vos contributions à <trads@sploing.fr>
-*	vous inscrire à <https://traductions.piratenpad.de> pour traduire à plusieurs les textes qui vous intéressent et me signaler à l'adresse mail citée ce que vous avez traduit/ce qui reste à faire. J'ai en cours [cette liste](/pages/a-traduire.html) de suggestions si vous n'avez pas d'idée.
-*	m'envoyer une requête de merge sur [le dépôt github des sources de ce blog](https://github.com/sploinga/traductions). [Les articles](https://github.com/sploinga/traductions/tree/master/content) sont écrits en markdown avant d'être moulinés par [Pelican](https://github.com/getpelican/pelican).
-*	me contacter sur les réseaux sociaux affichés à droite.
+Sinon, ce site est hébergé chez [Gandi](https://www.gandi.net/hebergement/simple) pour une trentaine d’euros par an avec d'autres petits sites. Je ne gagne bien sûr pas d'argent avec, mais si vous vous voulez aider à la pérennité du site, voici mon [RIB](http://reformedroitauteur.sploing.fr/rib-courant.pdf).
 
-Ce blog pourrait devenir [multilingue](http://docs.getpelican.com/en/3.1.1/getting_started.html#translations), donc vous pouvez aussi me proposer des traductions des textes publiés ici vers d'autres langues que le français. 
 

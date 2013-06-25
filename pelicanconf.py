@@ -58,9 +58,8 @@ SOCIAL = (('twitter', 'https://twitter.com/sploinga'),
 			("senscritique", "http://senscritique.com/sploinga"),
 			('facebook', 'https://facebook.com/xavierlunon'))
 
-APROPOS = (('Quels textes ?', '/pages/quels-textes.html', "icon-question-sign"),
-			("Licence", "/pages/licence.html", "icon-legal"),
-			("Participer", "/pages/participer.html", "icon-beer"))
+APROPOS = (("Participer", "/pages/participer.html", "icon-beer"),
+			("Licence", "/pages/licence.html", "icon-legal"))
 
 LIVRES = ((u"Sur la réforme du droit d'auteur", 'http://reformedroitauteur.sploing.fr/'),
 			(u"Contre la propriété intellectuelle", "http://contrelaproprieteintellectuelle.sploing.fr/"))

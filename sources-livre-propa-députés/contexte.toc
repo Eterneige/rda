@@ -1,0 +1,59 @@
+\select@language {french}
+\contentsline {chapter}{Avant-propos de l'éditeur-traducteur}{3}{chapter*.1}
+\contentsline {chapter}{\numberline {1}L'allégorie du cycliste}{7}{chapter.1}
+\contentsline {chapter}{\numberline {2}Le manifeste du poète}{9}{chapter.2}
+\contentsline {section}{\numberline {2.1}Nous avons grandi avec Internet et sur Internet}{9}{section.2.1}
+\contentsline {section}{\numberline {2.2}La participation à la culture n’est pas notre occupation des jours de fête}{11}{section.2.2}
+\contentsline {section}{\numberline {2.3}Ce qui nous importe le plus, c’est la liberté}{12}{section.2.3}
+\contentsline {chapter}{\numberline {3}Le plaidoyer de l'amoureux de la liberté d'expression}{13}{chapter.3}
+\contentsline {section}{\numberline {3.1}Des 0 et des 1}{13}{section.3.1}
+\contentsline {section}{\numberline {3.2}Le droit d’auteur menace le droit au secret de la correspondance}{13}{section.3.2}
+\contentsline {section}{\numberline {3.3}La riposte graduée, ou l’art de débrancher les gens par caprice}{16}{section.3.3}
+\contentsline {section}{\numberline {3.4}De toute manière, la répression ne marche pas}{17}{section.3.4}
+\contentsline {section}{\numberline {3.5}Partage de fichiers et droits fondamentaux – la ligne de tension}{18}{section.3.5}
+\contentsline {chapter}{\numberline {4}La colère du propriétaire}{21}{chapter.4}
+\contentsline {section}{\numberline {4.1}Biens tangibles et intangibles}{21}{section.4.1}
+\contentsline {section}{\numberline {4.2}Droit de propriété et rareté}{21}{section.4.2}
+\contentsline {section}{\numberline {4.3}Le versant patrimonial du droit d'auteur}{22}{section.4.3}
+\contentsline {section}{\numberline {4.4}Pourquoi un droit de propriété sur les idées~?}{23}{section.4.4}
+\contentsline {subsection}{Les idées ne sont pas rares}{23}{section*.3}
+\contentsline {subsection}{Créer ne suffit pas pour s'approprier}{23}{section*.4}
+\contentsline {subsection}{Protéger l'originalité c'est empêcher la créativité}{24}{section*.5}
+\contentsline {section}{\numberline {4.5}Peut-on justifier cette infraction à mes droits de propriété par son utilité~?}{25}{section.4.5}
+\contentsline {chapter}{\numberline {5}La déception du conservateur}{27}{chapter.5}
+\contentsline {section}{\numberline {5.1}Le domaine public est en danger en France}{27}{section.5.1}
+\contentsline {section}{\numberline {5.2}La marchandisation du domaine public par les institutions publiques}{28}{section.5.2}
+\contentsline {section}{\numberline {5.3}Mépris des recommandations européennes}{29}{section.5.3}
+\contentsline {section}{\numberline {5.4}Une dégradation encore renforcée par la crise et les coupes budgétaires}{30}{section.5.4}
+\contentsline {chapter}{\numberline {6}L'intérêt du développeur et la satisfaction de l'administration}{31}{chapter.6}
+\contentsline {section}{\numberline {6.1}La liberté et les données publiques}{31}{section.6.1}
+\contentsline {section}{\numberline {6.2}Les bases de données sont les nouvelles matières premières}{32}{section.6.2}
+\contentsline {section}{\numberline {6.3}La valeur économique des données libres}{32}{section.6.3}
+\contentsline {section}{\numberline {6.4}Améliorer l'administration par la libération des données}{33}{section.6.4}
+\contentsline {section}{\numberline {6.5}Les derniers freins à l'essor d'une nouvelle ère dans les administrations}{34}{section.6.5}
+\contentsline {chapter}{\numberline {7}L'enthousiasme du chercheur}{35}{chapter.7}
+\contentsline {section}{\numberline {7.1}La recherche de la vérité n'est pas celle du profit financier}{35}{section.7.1}
+\contentsline {section}{\numberline {7.2}La libre diffusion et réutilisation permet une meilleure reconnaissance}{36}{section.7.2}
+\contentsline {section}{\numberline {7.3}Les œuvres en accès libre sont en croissance exponentielle}{37}{section.7.3}
+\contentsline {chapter}{\numberline {8}Le commentaire de l'historien}{39}{chapter.8}
+\contentsline {section}{\numberline {8.1}15\up {\lowercase {e}}\xspace siècle~: L'invention de l'imprimerie met fin aux moines-copistes}{39}{section.8.1}
+\contentsline {subsection}{Le prix du livre}{39}{section*.6}
+\contentsline {subsection}{L'Église perd le contrôle de l'information}{39}{section*.7}
+\contentsline {section}{\numberline {8.2}17\up {\lowercase {e}}\xspace siècle~: Marie la Sanguinaire censure grâce au droit de copie}{40}{section.8.2}
+\contentsline {subsection}{Une bâtarde répudiée}{40}{section*.8}
+\contentsline {subsection}{Rétablissement du catholicisme}{41}{section*.9}
+\contentsline {subsection}{Le droit de copie se maintient grâce aux éditeurs}{41}{section*.10}
+\contentsline {section}{\numberline {8.3}19\up {\lowercase {e}}\xspace siècle~: De Jefferson à Hugo}{42}{section.8.3}
+\contentsline {subsection}{Le copyright américain sert le progrès de la science et des arts utiles}{42}{section*.11}
+\contentsline {subsection}{Invention des bibliothèques publiques en Angleterre}{43}{section*.12}
+\contentsline {subsection}{L'industrialisation allemande dépasse l'anglaise}{44}{section*.13}
+\contentsline {subsection}{Les droits moraux se répandent sur le continent}{44}{section*.14}
+\contentsline {section}{\numberline {8.4}Les quatre droits essentiels d'un auteur}{45}{section.8.4}
+\contentsline {section}{\numberline {8.5}Années 1930~: l'industrie musicale entre dans la danse}{46}{section.8.5}
+\contentsline {subsection}{L'Italie fasciste et la naissance de l'IFPI}{46}{section*.15}
+\contentsline {subsection}{Lumières et puissance financière}{47}{section*.16}
+\contentsline {section}{\numberline {8.6}1980~: deuxième piratage des droits de copie et d'auteur, par Pfizer}{47}{section.8.6}
+\contentsline {subsection}{Les invasions barbares}{48}{section*.17}
+\contentsline {subsection}{La réponse pharmaceutique}{48}{section*.18}
+\contentsline {subsection}{Naissance de l'OMC}{49}{section*.19}
+\contentsline {chapter}{Sources}{51}{chapter*.20}
