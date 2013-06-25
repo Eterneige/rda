@@ -5,7 +5,7 @@
 	$prefix = "/wiki";
 
 //Relative Path from server dir
-	$md_dir = "./files"; // Default
+	$md_dir = "~/files"; // Default
 
 
 
