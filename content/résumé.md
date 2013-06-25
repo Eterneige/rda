@@ -19,8 +19,6 @@ Ces deux livres, le recueil de propositions et celui de témoignages, se veulent
 Introduction
 ============
 
-[premintro]
-
 Le système du droit d’auteur est aujourd’hui déphasé. Il criminalise une génération entière dans une tentative désespérée d’arrêter le progrès technologique. Pourtant le partage de fichiers continue à s’accroître et les remix continuent à fleurir. Ni la propagande ni les techniques d’intimidation ni le durcissement des lois n’ont pu arrêter ce développement.
 
 Il n’est plus possible de renforcer les mesures de protection du droit d’auteur sans violer des droits humains fondamentaux. Tant que les individus pourront communiquer en privé, ils s’en serviront pour partager des contenus soumis au droit d’auteur. Le seul moyen de limiter le partage de fichiers c’est de supprimer le droit à la communication privée.
@@ -56,8 +54,6 @@ Il reste aux politiques à s’emparer de ces idées pour les transformer en loi
 L’allégorie du cycliste
 =======================
 
-[cycliste]
-
 Je me suis acheté un vélo. Un beau modèle. Je l’ai attendu longtemps.
 
 Aux États-Unis, ça fait déjà longtemps qu’il est sur le marché. Pas en France. L’importer aurait été illégal. Le mois dernier, on pouvait le louer auprès d’une grande chaîne de télé pendant une semaine et faire une virée. Ça m’a plu.
@@ -89,9 +85,10 @@ Tout ça m’est devenu trop périlleux. Maintenant je veux donner mon vélo à 
 Conserver le droit à la paternité et au repentir
 ================================================
 
-[pater]
+Préservation du droit à la paternité 
+-------------------------------------------------
 
-[Préservation du droit à la paternité] « Rendre à César ce qui est à César » est une maxime qui met tout le monde d’accord.
+« Rendre à César ce qui est à César » est une maxime qui met tout le monde d’accord. {: .mesure}
 
 Dans les faits, les convenances sont souvent plus strictes sur le sujet que n’importe quelle législation relative au droit d’auteur.
 

@@ -12,7 +12,6 @@ TIMEZONE = 'Europe/Paris'
 OUTPUT_PATH = "htdocs"
 DEFAULT_LANG = u'fr'
 TYPOGRIFY = True
-SUMMARY_MAX_LENGTH = ""
 ARTICLE_URL = "{category}/{date:%Y}/{date:%m}/{date:%d}/{slug}/"
 ARTICLE_SAVE_AS = "{category}/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html"
 CATEGORY_URL = 'categorie/{slug}.html'
