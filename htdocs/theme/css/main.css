@@ -189,17 +189,22 @@ footer p {
 /* line 140, ../../compass/src/main.scss */
 .pub {
   text-align: center;
-  border: 5px solid #EDF7F2;
+  border: 5px solid #7FC6BC;
   display: block;
+  color: #EDF7F2;
+  max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-/* line 145, ../../compass/src/main.scss */
+/* line 150, ../../compass/src/main.scss */
 .pagination li {
   display: inline;
   list-style-type: none;
 }
 
-/* line 149, ../../compass/src/main.scss */
+/* line 154, ../../compass/src/main.scss */
 .infos {
   display: block;
   background: #7FC6BC;
@@ -208,11 +213,11 @@ footer p {
   font-variant: small-caps;
   text-align: right;
 }
-/* line 156, ../../compass/src/main.scss */
+/* line 161, ../../compass/src/main.scss */
 .infos a {
   color: #EDF7F2;
 }
-/* line 157, ../../compass/src/main.scss */
+/* line 162, ../../compass/src/main.scss */
 .infos li {
   list-style-type: none;
 }
