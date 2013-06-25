@@ -1,3 +1,7 @@
+<li><h4><i class="icon-thumbs-up icon-large"></i>Don</h4></li>
+<li><a href="http://fr.ulule.com/ref-da"><i class="icon-book icon-large strong"></i>Participer au projet Ulule</a></li>
+<li><a href="http://fichiers.sploing.fr/rib-courant.pdf"><i class="icon-beer icon-large"></i>Relevé d'identité bancaire</a></li>
+
 <ul class="sidebar">
 <li><a href="{{ SITEURL }}"><i class="icon-home icon-large"></i>Page d'accueil</a></li>  
 {% if SOCIAL %}
@@ -11,14 +15,6 @@
 {% endif %}
 
 
-<li><h4><i class="icon-folder-close icon-large"></i>Catégories</h4></li>
-{% for cat, null in categories %}
-<li>
-<a href="{{ SITEURL }}/categorie/{{ cat }}.html"><i class="icon-folder-open icon-large"></i>{{ cat }}</a>
-</li>
-{% endfor %}
-
-
 {% if APROPOS %}
 <li><h4><i class="icon-info-sign icon-large"></i>À propos</h4></li>
 {% for name, link, icon in APROPOS %}
@@ -27,14 +23,17 @@
 {% endif %}
 
 {% if LIVRES %}
-<li><h4><i class="icon-book icon-large"></i>Livres traduits</h4></li>
+<li><h4><i class="icon-leaf icon-large"></i>Livres traduits</h4></li>
 {% for name, link in LIVRES %}
     <li><a href="{{ link }}"><i class="icon-external-link icon-large"></i>{{ name }}</a></li>
 {% endfor %}
 {% endif %}
 
-
-<li><h4><i class="icon-thumbs-up icon-large"></i>Don</h4></li>
-<li><a href="http://fichiers.sploing.fr/rib-courant.pdf"><i class="icon-beer icon-large"></i>Relevé d'identité bancaire</a></li>
+{% if SITES %}
+<li><h4><i class="icon-external-link-sign icon-large"></i>Sites</h4></li>
+{% for name, link in SITES %}
+    <li><a href="{{ link }}"><i class="icon-external-link icon-large"></i>{{ name }}</a></li>
+{% endfor %}
+{% endif %}
 
 </ul>
