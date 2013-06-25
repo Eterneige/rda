@@ -10,8 +10,8 @@ $WikiTitle = 'Il faut réformer le droit d\'auteur';
 
 ##  $ScriptUrl is your preferred URL for accessing wiki pages
 ##  $PubDirUrl is the URL for the pub directory.
-# $ScriptUrl = 'http://www.mydomain.com/path/to/pmwiki.php';
-# $PubDirUrl = 'http://www.mydomain.com/path/to/pub';
+$ScriptUrl = 'http://rda.sploing.fr/wiki/pmwiki.php';
+$PubDirUrl = 'http://http://rda.sploing.fr/wiki/pub';
 
 ##  If you want to use URLs of the form .../pmwiki.php/Group/PageName
 ##  instead of .../pmwiki.php?p=Group.PageName, try setting
