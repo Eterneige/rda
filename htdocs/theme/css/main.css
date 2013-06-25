@@ -10,7 +10,7 @@
 /* line 11, ../../compass/src/main.scss */
 body {
   background: #EDF7F2;
-  color: #EDF7F2;
+  color: #4BB5C1;
   font: 120% Ubuntu, Hoefler Text, bodyfont, serif;
   line-height: 140%;
   text-align: justify;
@@ -189,7 +189,6 @@ footer p {
 /* line 140, ../../compass/src/main.scss */
 .pub {
   border: 5px solid #7FC6BC;
-  color: #EDF7F2;
   max-width: 100%;
   display: block;
   margin-left: auto;
@@ -199,31 +198,31 @@ footer p {
 .pub h2, .pub h3, .pub h4 {
   text-align: center;
 }
-/* line 148, ../../compass/src/main.scss */
+/* line 147, ../../compass/src/main.scss */
 .pub i:after {
   content: "\00a0";
 }
 
-/* line 151, ../../compass/src/main.scss */
+/* line 150, ../../compass/src/main.scss */
 .pagination li {
   display: inline;
   list-style-type: none;
 }
 
-/* line 155, ../../compass/src/main.scss */
+/* line 154, ../../compass/src/main.scss */
 .infos {
   display: block;
   background: #7FC6BC;
-  color: #4BB5C1;
+  color: #EDF7F2;
   font-family: Ubuntu, Arial, sans-serif;
   font-variant: small-caps;
   text-align: right;
 }
-/* line 162, ../../compass/src/main.scss */
+/* line 161, ../../compass/src/main.scss */
 .infos a {
   color: #EDF7F2;
 }
-/* line 163, ../../compass/src/main.scss */
+/* line 162, ../../compass/src/main.scss */
 .infos li {
   list-style-type: none;
 }
