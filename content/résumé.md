@@ -1,4 +1,4 @@
-Title:Partie 1: Les solutions
+Title:Partie 1du contre-rapport Lescure: Les solutions
 Date:  2013-06-25 21:01:21
 
 [TOC]
