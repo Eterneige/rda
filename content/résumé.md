@@ -112,8 +112,6 @@ C’est à travers la jurisprudence que le droit moral est devenu en France auss
 Bannir les verrous numériques
 =============================
 
-[verrous]
-
 Les MTP ou Mesures Techniques de Protection, plus connues sous le sigle anglais DRM pour Digital Rights Management, visent à restreindre les usages possibles des consommateurs d’œuvres «achetées» légalement et sur lesquelles ils devraient donc pouvoir exercer tous leurs droits.
 
 Nous proposons deux mesures les concernant. La première n’est réalisable qu’à long terme et la deuxième peut être immédiatement débattue et votée par le Parlement.
@@ -141,7 +139,6 @@ Il existe déjà un régime d’exceptions aux mesures techniques de protection 
 Préserver et promouvoir le domaine public
 =========================================
 
-[dompub]
 
 Le domaine public est un bien commun qui a besoin d’être défendu
 ----------------------------------------------------------------
@@ -180,7 +177,6 @@ Enfin les œuvres créées par les agents publics dans le cadre de leurs mission
 Reconnaître et promouvoir les licences libres
 =============================================
 
-[licencelibre]
 
 Inscrire la définition d’une licence libre dans la loi
 ------------------------------------------------------
