@@ -23,14 +23,14 @@ TRADUCTEUR_URL = 'traducteur/{slug}.html'
 TRADUCTEUR_SAVE_AS = 'traducteur/{slug}.html'
 DISQUS_SITENAME = "refda"
 
-RELATIVE_URLS = True
+RELATIVE_URLS = False
 LOCALE = "fr_FR.UTF-8"
 FEED_DOMAIN = SITEURL
 #CATEGORY_FEED_ATOM = "feeds/{category}.atom.xml"
 FEED_MAX_ITEMS = "15"
 DISPLAY_PAGES_ON_MENU = False
 DEFAULT_PAGINATION = 10
-
+MD_EXTENSIONS = (['toc',"footnotes"])
 #fonction jinja supplémentaire
 
 from urllib import quote_plus
