@@ -188,14 +188,16 @@ footer p {
 
 /* line 140, ../../compass/src/main.scss */
 .pub {
-  text-align: center;
   border: 5px solid #7FC6BC;
-  display: block;
   color: #EDF7F2;
   max-width: 100%;
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+/* line 141, ../../compass/src/main.scss */
+.pub h2, .pub h3, .pub h4 {
+  text-align: center;
 }
 
 /* line 150, ../../compass/src/main.scss */
