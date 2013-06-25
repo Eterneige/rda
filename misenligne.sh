@@ -2,7 +2,7 @@
 ##
 find . -name "*~" -exec rm {} \;
 make html
-cp -a .htaccess htdocs/
+cp -a .htaccess wiki htdocs/
 git add htdocs
 git add content
 git commit -a
