@@ -1,0 +1,155 @@
+/*
+    Theme Name: mnmlist
+    Theme URI: http://mathieu.agopian.info/mnmlist/theme.html
+    Description: Theme adapted from http://mnmlist.com/theme/ from Leo Babauta, a very clean minimalist theme, without comments, search, archives or other features.
+    Author: Mathieu Agopian
+    Autor URI: http://mathieu.agopian.info
+
+    This theme is uncopyrighted, free, and offered as is.
+*/
+
+body {
+  background: #EDF7F2;
+  color: #4BB5C1;
+    font: 120% Ubuntu, Hoefler Text, bodyfont, serif;
+    line-height: 140%;
+text-align: justify;
+}
+img,iframe{
+max-width:100%;
+ display: block;
+    margin-left: auto;
+    margin-right: auto ;
+border:none;}
+
+@mixin heading ($font-size, $color: #B5E655) {
+    color: $color;
+    font-family: Ubuntu, Arial, sans-serif;
+    font-size: $font-size;
+font-weight:bold;
+text-rendering:optimizelegibility;
+line-height:1.2em;
+text-align:left;}
+
+h1 {
+    @include heading(2.5em);
+color: #96CA2D; 
+font-weight: normal;
+}
+
+
+h2 {
+    @include heading(1.5em);
+}
+
+h3 {
+    @include heading(1.3em);
+}
+
+h4 {
+    @include heading(0.9em);
+}
+
+
+blockquote {
+    border-left: 5px solid #FCFAE1;
+    padding: .2em 0em .2em .2em;
+font-size:120%;
+}
+
+p {
+text-indent:2em;
+    &.caption {
+        font-size: 80%;
+    }
+}
+
+a {
+    color:  #B5E655;
+    text-decoration: none;
+    &:hover { color:#96CA2D; }
+}
+
+ul, ol {
+    padding: .5em 0em 1em 3.2em;
+    li {
+        line-height: 140%;
+    }
+}
+
+strong {
+    font-weight: bold;
+}
+
+tt, pre {
+    background-color: #7FC6BC;
+    font-family: Inconsolata, Monaco, monospace;
+    line-height: 1.2em;
+}
+
+pre {
+    font-size: 0.8em;
+    overflow: auto;
+}
+
+header {
+    a {
+        border-bottom: none;
+        &#page-title { font-weight: bold; }
+    }
+}
+
+#article-list {
+    ol li {
+        line-height: 1.2em;
+        list-style-type: none;
+    }
+}
+
+footer {
+  background: #7FC6BC;
+  color: #BD8D46;
+    font-family: Ubuntu, helvetica, sans-serif;
+    font-size:80%;
+    a {
+        border-bottom: none;
+        color: #4BB5C1;
+    }
+    li {
+        display: inline;
+list-style-type: none;
+    }
+    p {
+        text-align: right;
+    }
+}
+
+.sidebar {
+float: right;
+display: block;
+background:#B5E655;
+i:after { content:"\00a0"; }
+a{color:#4BB5C1;}
+h4{color:#4BB5C1;}
+li    {
+line-height:140%;
+list-style-type: none;}
+}
+
+.pagination{li    {
+display: inline;
+list-style-type: none;}}
+
+.infos{
+display:block;
+background:#7FC6BC;
+color:#EDF7F2;
+    font-family: Ubuntu, Arial, sans-serif;
+    font-variant:small-caps;
+text-align:right;
+a{color:#EDF7F2;}
+li    {
+list-style-type: none;}}
+
+@import "font-awesome";
+

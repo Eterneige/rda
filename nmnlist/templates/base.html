@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html   lang="fr"
+	prefix="fb: http://www.facebook.com/2008/fbml"
+	xmlns="http://www.w3.org/1999/xhtml" 
+>
+  <head>
+	<meta charset="utf-8">
+  <link rel="stylesheet" href="{{ SITEURL }}/theme/css/{{ CSS_FILE }}" type="text/css" />
+  <link href="{{ SITEURL }}/{{ FEED }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Flux Atom" />
+
+    <title>{% block title %}{{ SITENAME }}{%endblock%}</title>
+
+{% block headers %}
+    <meta name="author" content="{{ AUTHOR }}" />
+    <meta name="author" content="{{ TRADUCTEUR }}" />
+    <meta name="description" content="Rassemblement de diverses traductions effectuées pour tout ou partie par Xavier Gillard" />
+
+    {% set open_graph = { 
+        'fb:admins': FACEBOOK_USERNAME, 
+	'og:site_name': SITENAME,
+	'og:type': 'website',
+        'og:title': SITENAME,
+        'og:url': SITEURL
+        }
+    %}
+{% for property, content in open_graph.iteritems() %}
+    <meta property="{{ property }}" content="{{ content|e }}"/>
+{% endfor %}
+{% endblock headers %}
+
+  </head>
+<body>
+{% include 'sidebar.html' %}
+
+        {% block content %}
+        {% endblock %}
+
+        <footer>
+                <ul>
+                {% for page in PAGES %}
+                    <li><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a>{% if not loop.last %} {% endif %}</li>
+                {% endfor %}
+		<li><a href="{{ SITEURL }}/archives.html">Archives</a></li>
+                </ul>
+        </footer>
+
+</body>
+</html>

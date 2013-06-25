@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block content %}
+<a href="{{ SITEURL }}"><h1>Catégories de {{ SITENAME }}</h1></a>
+<ul>
+{% for category, articles in categories %}
+	<li><a href="{{ category.url }}">{{ category }}</a></li>
+{% endfor %}
+</ul>
+{% endblock %}
