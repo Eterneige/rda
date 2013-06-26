@@ -14,7 +14,7 @@ Ce discours a déjà été répété à l’envi par de multiples personnes. Par
 
 Pour ceux qui ne sont pas convaincus par les arguments développés dans ce livre, nous avons compilé en ligne un recueil[^1] de témoignages de personnages, qui vise à mieux leur faire comprendre les enjeux de la nouvelle ère et à leur donner un avant-goût des bienfaits que ces libertés nous apporteront. Pour ceux qui doutent même de la pertinence de remettre en cause le droit d’auteur à l’heure actuelle, nous avons inclus une courte allégorie cycliste au tout début du livre.
 
-Ces deux livres, le recueil de propositions et celui de témoignages, se veulent une bouteille à la mer : les lira qui voudra pour en tirer les enseignements qu’il voudra. Nous, internautes qui avons financé l’impression et l’envoi à nos députés du premier livre de mesures, nous enjoignons nos députés à lire les deux livres avec attention et à transformer nos propositions en lois.
+Ces deux livres, le recueil de propositions et celui de témoignages, se veulent une bouteille à la mer : les lira qui voudra pour en tirer les enseignements qu’il voudra. Nous, internautes qui avons financé l’impression et l’envoi à nos députés du premier livre de mesures, nous enjoignons à nos députés de lire les deux livres avec attention et à transformer nos propositions en lois.
 
 Introduction
 ============
