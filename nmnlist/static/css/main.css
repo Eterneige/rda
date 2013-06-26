@@ -2271,21 +2271,6 @@ a [class*=" icon-"] {
 }
 
 /* line 382, ../../compass/src/_icons.scss */
-.icon-lastfm-sign:before {
-  content: "\f001";
-}
-
-/* line 383, ../../compass/src/_icons.scss */
-.icon-foursquare-sign:before {
-  content: "\f041";
-}
-
-/* line 384, ../../compass/src/_icons.scss */
-.icon-flickr-sign:before {
-  content: "\f03e";
-}
-
-/* line 385, ../../compass/src/_icons.scss */
-.icon-senscritique-sign:before {
+.icon-senscritique:before {
   content: "\f02e";
 }
