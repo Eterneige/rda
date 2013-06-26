@@ -9,8 +9,8 @@
 */
 /* line 11, ../../compass/src/main.scss */
 body {
-  background: #FFFCC4;
-  color: #00585F;
+  background: #FFFFFF;
+  color: #225378;
   font: 120% Ubuntu, Hoefler Text, bodyfont, serif;
   line-height: 140%;
   text-align: justify;
@@ -27,20 +27,20 @@ img, iframe {
 
 /* line 34, ../../compass/src/main.scss */
 h1 {
-  color: #009393;
+  color: #1695a3;
   font-family: Ubuntu, Arial, sans-serif;
   font-size: 2.5em;
   font-weight: bold;
   text-rendering: optimizelegibility;
   line-height: 1.2em;
   text-align: left;
-  color: #FF3800;
+  color: #EB7F00;
   font-weight: normal;
 }
 
 /* line 41, ../../compass/src/main.scss */
 h2 {
-  color: #009393;
+  color: #1695a3;
   font-family: Ubuntu, Arial, sans-serif;
   font-size: 1.5em;
   font-weight: bold;
@@ -51,7 +51,7 @@ h2 {
 
 /* line 45, ../../compass/src/main.scss */
 h3 {
-  color: #009393;
+  color: #1695a3;
   font-family: Ubuntu, Arial, sans-serif;
   font-size: 1.3em;
   font-weight: bold;
@@ -62,7 +62,7 @@ h3 {
 
 /* line 49, ../../compass/src/main.scss */
 h4 {
-  color: #009393;
+  color: #1695a3;
   font-family: Ubuntu, Arial, sans-serif;
   font-size: 0.9em;
   font-weight: bold;
@@ -73,7 +73,7 @@ h4 {
 
 /* line 54, ../../compass/src/main.scss */
 blockquote {
-  border-left: 5px solid #009393;
+  border-left: 5px solid #1695A3;
   padding: .2em 0em .2em .2em;
   font-size: 120%;
 }
@@ -89,12 +89,12 @@ p.caption {
 
 /* line 67, ../../compass/src/main.scss */
 a {
-  color: #009393;
+  color: #1695A3;
   text-decoration: none;
 }
 /* line 70, ../../compass/src/main.scss */
 a:hover {
-  color: #00585F;
+  color: #225378;
 }
 
 /* line 73, ../../compass/src/main.scss */
@@ -112,121 +112,113 @@ strong {
 }
 
 /* line 84, ../../compass/src/main.scss */
-tt, pre {
-  background-color: #009393;
-  color: #F0EDBB;
-  font-family: Inconsolata, Monaco, monospace;
-  line-height: 1.2em;
-}
-
-/* line 91, ../../compass/src/main.scss */
 pre {
   font-size: 0.8em;
   overflow: auto;
 }
 
-/* line 97, ../../compass/src/main.scss */
+/* line 90, ../../compass/src/main.scss */
 header a {
   border-bottom: none;
 }
-/* line 99, ../../compass/src/main.scss */
+/* line 92, ../../compass/src/main.scss */
 header a#page-title {
   font-weight: bold;
 }
 
-/* line 104, ../../compass/src/main.scss */
+/* line 97, ../../compass/src/main.scss */
 #article-list ol li {
   line-height: 1.2em;
   list-style-type: none;
 }
 
-/* line 110, ../../compass/src/main.scss */
+/* line 103, ../../compass/src/main.scss */
 footer {
-  background: #009393;
-  color: #F0EDBB;
+  background: #ACF0F2;
+  color: #1695A3;
   font-family: Ubuntu, helvetica, sans-serif;
   font-size: 80%;
 }
-/* line 115, ../../compass/src/main.scss */
+/* line 108, ../../compass/src/main.scss */
 footer a {
   border-bottom: none;
-  color: #F0EDBB;
+  color: #1695A3;
 }
-/* line 119, ../../compass/src/main.scss */
+/* line 112, ../../compass/src/main.scss */
 footer li {
   display: inline;
   list-style-type: none;
 }
-/* line 123, ../../compass/src/main.scss */
+/* line 116, ../../compass/src/main.scss */
 footer p {
   text-align: right;
 }
 
-/* line 128, ../../compass/src/main.scss */
+/* line 121, ../../compass/src/main.scss */
 .sidebar {
   float: right;
   display: block;
-  background: #00585F;
+  background: #225378;
 }
-/* line 132, ../../compass/src/main.scss */
+/* line 125, ../../compass/src/main.scss */
 .sidebar i:after {
   content: "\00a0";
 }
-/* line 133, ../../compass/src/main.scss */
+/* line 126, ../../compass/src/main.scss */
 .sidebar a {
-  color: #FFFCC4;
+  color: #FFFFFF;
 }
-/* line 134, ../../compass/src/main.scss */
+/* line 127, ../../compass/src/main.scss */
 .sidebar h4 {
-  color: #FFFCC4;
+  color: #FFFFFF;
 }
-/* line 135, ../../compass/src/main.scss */
+/* line 128, ../../compass/src/main.scss */
 .sidebar li {
   line-height: 140%;
   list-style-type: none;
 }
 
-/* line 140, ../../compass/src/main.scss */
+/* line 133, ../../compass/src/main.scss */
 .pub {
-  border: 5px solid #FF3800;
+  border: 5px solid #EB7F00;
   max-width: 100%;
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
-/* line 141, ../../compass/src/main.scss */
+/* line 134, ../../compass/src/main.scss */
 .pub h2, .pub h3, .pub h4 {
   text-align: center;
 }
-/* line 147, ../../compass/src/main.scss */
+/* line 140, ../../compass/src/main.scss */
 .pub i:after {
   content: "\00a0";
 }
-/* line 148, ../../compass/src/main.scss */
+/* line 141, ../../compass/src/main.scss */
 .pub li {
   list-style-type: none;
 }
 
-/* line 151, ../../compass/src/main.scss */
+/* line 144, ../../compass/src/main.scss */
 .pagination li {
   display: inline;
   list-style-type: none;
 }
 
-/* line 155, ../../compass/src/main.scss */
+/* line 148, ../../compass/src/main.scss */
 .infos {
   display: block;
-  background: #009393;
-  color: #FFFCC4;
+  background: #1695A3;
+  color: #FFFFFF;
   font-family: Ubuntu, Arial, sans-serif;
   font-variant: small-caps;
   text-align: right;
 }
-/* line 162, ../../compass/src/main.scss */
+/* line 155, ../../compass/src/main.scss */
 .infos a {
-  color: #F0EDBB;
+  color: #FFFFFF;
 }
-/* line 163, ../../compass/src/main.scss */
+/* line 156, ../../compass/src/main.scss */
 .infos li {
   list-style-type: none;
 }

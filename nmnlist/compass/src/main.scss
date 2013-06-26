@@ -9,8 +9,8 @@
 */
 
 body {
-  background: #FFFCC4;
-  color: #00585F;
+  background: #FFFFFF;
+  color: #225378;
     font: 120% Ubuntu, Hoefler Text, bodyfont, serif;
     line-height: 140%;
 text-align: justify;
@@ -22,7 +22,7 @@ max-width:100%;
     margin-right: auto ;
 border:none;}
 
-@mixin heading ($font-size, $color: #009393) {
+@mixin heading ($font-size, $color: #1695A3) {
     color: $color;
     font-family: Ubuntu, Arial, sans-serif;
     font-size: $font-size;
@@ -33,7 +33,7 @@ text-align:left;}
 
 h1 {
     @include heading(2.5em);
-color: #FF3800; 
+color: #EB7F00; 
 font-weight: normal;
 }
 
@@ -52,7 +52,7 @@ h4 {
 
 
 blockquote {
-    border-left: 5px solid #009393;
+    border-left: 5px solid #1695A3;
     padding: .2em 0em .2em .2em;
 font-size:120%;
 }
@@ -65,9 +65,9 @@ text-indent:2em;
 }
 
 a {
-    color:  #009393;
+    color:  #1695A3;
     text-decoration: none;
-    &:hover { color:#00585F; }
+    &:hover { color:#225378; }
 }
 
 ul, ol {
@@ -79,13 +79,6 @@ ul, ol {
 
 strong {
     font-weight: bold;
-}
-
-tt, pre {
-    background-color: #009393;
-color:#F0EDBB;
-    font-family: Inconsolata, Monaco, monospace;
-    line-height: 1.2em;
 }
 
 pre {
@@ -108,13 +101,13 @@ header {
 }
 
 footer {
-  background: #009393;
-color:#F0EDBB;
+  background: #ACF0F2;
+color:#1695A3;
     font-family: Ubuntu, helvetica, sans-serif;
     font-size:80%;
     a {
         border-bottom: none;
-        color: #F0EDBB;
+        color: #1695A3;
     }
     li {
         display: inline;
@@ -128,10 +121,10 @@ list-style-type: none;
 .sidebar {
 float: right;
 display: block;
-background:#00585F;
+background:#225378;
 i:after { content:"\00a0"; }
-a{color:#FFFCC4;}
-h4{color:#FFFCC4;}
+a{color:#FFFFFF;}
+h4{color:#FFFFFF;}
 li    {
 line-height:140%;
 list-style-type: none;}
@@ -139,7 +132,7 @@ list-style-type: none;}
 
 .pub{ 
 h2,h3,h4{text-align:center;}
-border:5px solid #FF3800;
+border:5px solid #EB7F00;
 max-width:100%;
  display: block;
     margin-left: auto;
@@ -154,12 +147,12 @@ list-style-type: none;}}
 
 .infos{
 display:block;
-background:#009393;
-color:#FFFCC4;
+background:#1695A3;
+color:#FFFFFF;
     font-family: Ubuntu, Arial, sans-serif;
     font-variant:small-caps;
 text-align:right;
-a{color:#F0EDBB;}
+a{color:#FFFFFF;}
 li    {
 list-style-type: none;}}
 
