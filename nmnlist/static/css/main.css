@@ -2274,3 +2274,8 @@ a [class*=" icon-"] {
 .icon-senscritique:before {
   content: "\f02e";
 }
+
+/* line 383, ../../compass/src/_icons.scss */
+.icon-lastfm:before {
+  content: "\f001";
+}
