@@ -85,7 +85,7 @@ Tout ça m’est devenu trop périlleux. Maintenant je veux donner mon vélo à 
 Conserver le droit à la paternité et au repentir
 ================================================
 
-[Préservation du droit à la paternité] « Rendre à César ce qui est à César » est une maxime qui met tout le monde d’accord.{@style=border:2px solid #284907;}
+[Préservation du droit à la paternité] « Rendre à César ce qui est à César » est une maxime qui met tout le monde d’accord.{@style=border:2px solid #00585F;}
 
 Dans les faits, les convenances sont souvent plus strictes sur le sujet que n’importe quelle législation relative au droit d’auteur.
 
@@ -93,11 +93,11 @@ Les scientifiques ou les blogueurs ont tendance à citer leurs sources d’une f
 
 Le droit d’être reconnu en tant qu’auteur sur Internet n’est pas menacé. Nous proposons donc de laisser inchangé ce point de la législation du droit d’auteur. Nous proposons de laisser inchangés les deux points suivants aussi :
 
-[Préservation du droit à la divulgation] Le mode et le moment de la première diffusion ne peuvent être décidés que par les auteurs des œuvres.{@style=border:2px solid #284907;}
+[Préservation du droit à la divulgation] Le mode et le moment de la première diffusion ne peuvent être décidés que par les auteurs des œuvres.{@style=border:2px solid #00585F;}
 
 Il est important pour des raisons marketing que l’auteur soit maître du calendrier de diffusion de son œuvre. C’est ce que vise à garantir le droit à la divulgation.
 
-[Préservation du droit au repentir] Outre une censure judiciairement motivée, seul l’auteur peut empêcher la diffusion ou réutilisation commerciales de son œuvre, moyennant compensation des éventuels contrats ainsi rompus. Ce repentir ne concerne que son œuvre originale et non les œuvres dérivées.{@style=border:2px solid #284907;}
+[Préservation du droit au repentir] Outre une censure judiciairement motivée, seul l’auteur peut empêcher la diffusion ou réutilisation commerciales de son œuvre, moyennant compensation des éventuels contrats ainsi rompus. Ce repentir ne concerne que son œuvre originale et non les œuvres dérivées.{@style=border:2px solid #00585F;}
 
 Il faut aussi que les auteurs puissent rompre les contrats qui les lient aux éditeurs et maisons de production, moyennant une compensation financière pour ces éditeurs et maisons d’édition, d’où le maintien du droit de repentir. Ce retrait ne concerne que la diffusion et la réutilisation **commerciale** de l’œuvre car ce droit de repentir ne doit pas servir à empêcher le public d’accéder aux œuvres ou de les réutiliser sans but lucratif. Ce serait réitérer la lutte contre le piratage des œuvres pour des motifs cette fois-ci non financiers.
 
@@ -107,7 +107,7 @@ En revanche, pour permettre l’émergence d’un droit au remix à but non lucr
 
 C’est à travers la jurisprudence que le droit moral est devenu en France aussi étendu qu’aujourd’hui, pas à travers les conventions internationales. Le législateur pourrait rectifier le droit en ajoutant un article L-210 au Code de la propriété intellectuelle :
 
-[Restriction du droit à l’intégrité de l’œuvre] L’auteur jouit du droit au respect de l’intégrité de son oeuvre. Il peut s’opposer à toute déformation, mutilation ou autre modification de cette œuvre, dans la mesure où elles sont préjudiciables à son honneur ou à sa réputation.{@style=border:2px solid #284907;}
+[Restriction du droit à l’intégrité de l’œuvre] L’auteur jouit du droit au respect de l’intégrité de son oeuvre. Il peut s’opposer à toute déformation, mutilation ou autre modification de cette œuvre, dans la mesure où elles sont préjudiciables à son honneur ou à sa réputation.{@style=border:2px solid #00585F;}
 
 Bannir les verrous numériques
 =============================
@@ -116,7 +116,7 @@ Les MTP ou Mesures Techniques de Protection, plus connues sous le sigle anglais 
 
 Nous proposons deux mesures les concernant. La première n’est réalisable qu’à long terme et la deuxième peut être immédiatement débattue et votée par le Parlement.
 
-[Interdire les mesures de protection technique] Il devrait être systématiquement légal de passer outre les MTP et nous devrions bannir les MTP qui empêchent des usages légaux. Les grandes multinationales ne devraient pas avoir le droit d’écrire leurs propres lois d’utilisation des fichiers.{@style=border:2px solid #284907;}
+[Interdire les mesures de protection technique] Il devrait être systématiquement légal de passer outre les MTP et nous devrions bannir les MTP qui empêchent des usages légaux. Les grandes multinationales ne devraient pas avoir le droit d’écrire leurs propres lois d’utilisation des fichiers.{@style=border:2px solid #00585F;}
 
 La législation doit bénéficier à la société toute entière, y compris les consommateurs. En même temps avoir le droit de faire quelque chose selon la loi n’a que peu de valeur en soi si vous n’avez pas les moyens pratiques de le faire.
 
@@ -130,7 +130,7 @@ Les aveugles et malvoyants qui ont besoin de convertir les livres numériques da
 
 Un autre exemple est le zonage régional sur les DVDs qui empêche de regarder des films légalement achetés s’ils sont achetés dans une autre zone que celle où a été acheté le lecteur.
 
-[Autorisation de contournement des verrous] Si des verrous existent, ils doivent pouvoir être légalement cassés s’ils empêchent la jouissance pleine et entière de l’œuvre et de ses usages légaux.{@style=border:2px solid #284907;}
+[Autorisation de contournement des verrous] Si des verrous existent, ils doivent pouvoir être légalement cassés s’ils empêchent la jouissance pleine et entière de l’œuvre et de ses usages légaux.{@style=border:2px solid #00585F;}
 
 Les verrous DRM ont été juridiquement sanctuarisés par les traités de l’OMPI de 1996 et la directive européenne 2001/29. La France ne peut donc espérer entraîner un changement rapide de la législation européenne et des traités qu’elle a signés. De plus il est possible qu’à l’issue des négociations la question reste ouverte et que certains pays décident de soutenir les verrous au contraire de la France. Il faut donc en attendant un consensus international autoriser le contournement des verrous au lieu de simplement les interdire.
 
@@ -154,21 +154,21 @@ Or ces partenariats sont rarement équilibrés faute de politique nationale fort
 Quatre mesures pour que rien ne puisse être soustrait au domaine public
 -----------------------------------------------------------------------
 
-[Inscription du domaine public dans la loi] Inscrire le domaine public dans la loi. Au terme du délai de validité du droit d’auteur, l’œuvre est réputée appartenir au domaine public.{@style=border:2px solid #284907;}
+[Inscription du domaine public dans la loi] Inscrire le domaine public dans la loi. Au terme du délai de validité du droit d’auteur, l’œuvre est réputée appartenir au domaine public.{@style=border:2px solid #00585F;}
 
 Cette précision permet de faire référence par la suite à des règles particulières attachées aux œuvres dans le domaine public pour le protéger.
 
-[Protection du domaine public numérisé] Les reproductions fidèles d’œuvres appartenant au domaine public doivent aussi être dans le domaine public.{@style=border:2px solid #284907;}
+[Protection du domaine public numérisé] Les reproductions fidèles d’œuvres appartenant au domaine public doivent aussi être dans le domaine public.{@style=border:2px solid #00585F;}
 
 Ce point permet d’interdire les pratiques des très nombreux musées, bibliothèques et services d’archives en France qui estiment qu’ils bénéficient d’un droit d’auteur sur les reproductions numériques d’œuvres élevées dans le domaine public. Ce principe a déjà été consacré dans la jurisprudence aux États-Unis à l’occasion de la décision Bridgeman Art library v. Corel Corp. La mesure s’appliquera principalement aux œuvres numérisées ou intégrées à des bases de données.
 
-[Le domaine public n’appartient pas à l’État] Exclure que les œuvres du domaine public puissent être considérées comme des informations appartenant à l’État.{@style=border:2px solid #284907;}
+[Le domaine public n’appartient pas à l’État] Exclure que les œuvres du domaine public puissent être considérées comme des informations appartenant à l’État.{@style=border:2px solid #00585F;}
 
 Plusieurs institutions culturelles considèrent qu’en numérisant des œuvres du domaine public, elles produisent des données (des suites de 0 et de 1) relevant du champ d’application de la loi du 17 juillet 1978 sur les informations publiques.
 
 Cette interprétation a un effet redoutable, car cette loi de 1978 , si elle n’autorise pas en principe les administrations à s’opposer à la réutilisation des informations, leur permet de la soumettre au paiement d’une redevance, notamment pour les usages commerciaux. La loi de 1978 permet d’installer un système de domaine public payant. De plus, les institutions culturelles bénéficient d’un régime dérogatoire complexe, dit exception culturelle, qui leur donne une plus grande marge de manœuvre pour poser des restrictions à la réutilisation.
 
-[Élévation volontaire dans le domaine public] Permettre aux auteurs de renoncer à tous leurs droits sur leurs œuvres pour enrichir le domaine public.{@style=border:2px solid #284907;}
+[Élévation volontaire dans le domaine public] Permettre aux auteurs de renoncer à tous leurs droits sur leurs œuvres pour enrichir le domaine public.{@style=border:2px solid #00585F;}
 
 On devrait permettre aux auteurs qui le souhaitent de verser par anticipation leurs œuvres dans le domaine public. La renonciation inclurait les droits patrimoniaux comme moraux.
 
@@ -183,7 +183,7 @@ Inscrire la définition d’une licence libre dans la loi
 
 La définition des licences libres relèvent actuellement purement du droit contractuel. La loi ne définit pas ce qu’est une licence libre. Or s’il est demandé aux services de l’État de publier leurs œuvres et données sous des licences libres, il faut qu’ils puissent se référer à des textes légaux définissant quelles licences sont considérées comme libres par l’État.
 
-[Définition administrative des licences libres] Inscrire dans la loi sur le droit d’auteur la définition suivante :{@style=border:2px solid #284907;}
+[Définition administrative des licences libres] Inscrire dans la loi sur le droit d’auteur la définition suivante :{@style=border:2px solid #00585F;}
 
 > Une œuvre est réputée libre lorsque sa licence confère à toute personne morale ou physique, en tout temps et en tout lieu, les quatre possibilités suivantes :
 >
@@ -202,7 +202,7 @@ Libérer toutes les données et œuvres qui peuvent l’être
 
 Nous proposons aussi de rendre obligatoire la libération des données et œuvres produites par les services de l’État ou subventionnés par l’État et ses services. Par exemple, un logiciel développé sur commande de l’administration devrait être libre, tout comme des cartes, des travaux de recherche ou un catalogue des métadonnées des œuvres enregistrées. Le rôle de l’État est de favoriser la diffusion de la connaissance et l’initiative individuelle, non de marchander cette connaissance déjà financée par les impôts des Français ou d’accorder des monopoles aux entreprises les plus en grâce avec ses agents.
 
-[Libération des œuvres subventionnées] Toutes les œuvres ou données immatérielles produites sur commande de l’État ou de ses services ou au moins financées à hauteur de 50% par ceux-ci doivent être publiées sous licence libre gratuitement ou pour un coût d’accès marginal. Cette libération s’effectue au plus tard dans les deux ans suivant la fin de la production de l’œuvre. Les données confidentielles ou critiques pour la sécurité publique sont les seules à ne pas devoir être publiées.{@style=border:2px solid #284907;}
+[Libération des œuvres subventionnées] Toutes les œuvres ou données immatérielles produites sur commande de l’État ou de ses services ou au moins financées à hauteur de 50% par ceux-ci doivent être publiées sous licence libre gratuitement ou pour un coût d’accès marginal. Cette libération s’effectue au plus tard dans les deux ans suivant la fin de la production de l’œuvre. Les données confidentielles ou critiques pour la sécurité publique sont les seules à ne pas devoir être publiées.{@style=border:2px solid #00585F;}
 
 L’État a tout intérêt à travailler en co-création avec ses citoyens plutôt que contre eux. Le service de l’État Étalab a déjà publié une licence libre aux termes définis ci-dessus, appelée simplement *Licence ouverte*. Cette licence pourrait être la licence standard des publications des bases de données créées par l’administration, sauf précisions spécifiques.
 
@@ -223,7 +223,7 @@ Rendre accessibles les données libérées
 
 Publier des données sous licence libre n’est pas suffisant si celles-ci ne sont pas facilement accessibles parce que leur accès est onéreux, parce que le format de diffusion n’est pas utilisable informatiquement ou est non-standard et nécessite de payer des licences logicielles élevées pour être lu.
 
-[Conditions d’accessibilité des données libérées] Les données produites et publiées par l’administration sous licence libre doivent respecter les contraintes suivantes : {@style=border:2px solid #284907;}
+[Conditions d’accessibilité des données libérées] Les données produites et publiées par l’administration sous licence libre doivent respecter les contraintes suivantes : {@style=border:2px solid #00585F;}
 
 -   Entières : Les bases de données sont intégralement publiées.
 
@@ -249,7 +249,7 @@ Créer un droit à la transformation des œuvres
 
 La législation très restrictive d’aujourd’hui est un obstacle majeur pour les musiciens et cinéastes.
 
-[Valoriser les œuvres transformatives] Nous voulons que soient reconnus trois droits à la création: {@style=border:2px solid #284907;}
+[Valoriser les œuvres transformatives] Nous voulons que soient reconnus trois droits à la création: {@style=border:2px solid #00585F;}
 
 -   Le droit de réutiliser toute œuvre dans une autre et de publier le résultat.
 
@@ -271,7 +271,7 @@ Si la mesure précédente ne peut être immédiatement consacrée comme un droit
 
 En conformité avec la directive européenne de 2001 sur le droit d’auteur, à l’article 122-5 du Code de la propriété intellectuelle peut être ajoutée l’exception suivante :
 
-[Étendre le droit de citation] Les analyses et citations concernant une oeuvre protégée au sens des articles L. 112-1 et L. 112-2 du présent Code, justifiées par le caractère critique, polémique, pédagogique, scientifique, d’information, **ou de création sans but lucratif** de l’oeuvre à laquelle elles sont incorporées et effectuées dans la mesure justifiée par le but poursuivi. {@style=border:2px solid #284907;}
+[Étendre le droit de citation] Les analyses et citations concernant une oeuvre protégée au sens des articles L. 112-1 et L. 112-2 du présent Code, justifiées par le caractère critique, polémique, pédagogique, scientifique, d’information, **ou de création sans but lucratif** de l’oeuvre à laquelle elles sont incorporées et effectuées dans la mesure justifiée par le but poursuivi. {@style=border:2px solid #00585F;}
 
 Nous précisons dans cette mesure qu’elle s’applique à toutes les sortes d’œuvres pour empêcher que la jurisprudence ne la restreigne aux textes comme c’est actuellement le cas.
 
@@ -280,7 +280,7 @@ Enregistrer les œuvres tous les cinq ans
 
 Les œuvres orphelines sont un vrai problème. Bien souvent il est difficile de localiser le propriétaire d’une œuvre mais celui-ci se manifeste quand l’œuvre dérivée est publiée. De plus la majorité des œuvres orphelines ont peu ou aucune valeur commerciale mais il est quand même impossible de les diffuser sans risquer des poursuites. 
 
-[Création d’un registre des œuvres protégées] La protection du droit d’auteur doit être accordée automatiquement dès la publication comme aujourd’hui, mais si les propriétaires veulent continuer à jouir de l’entièreté de leurs droits après les cinq premières années de publication, ils doivent se manifester régulièrement de sorte qu’ils soient facilement trouvables. {@style=border:2px solid #284907;}
+[Création d’un registre des œuvres protégées] La protection du droit d’auteur doit être accordée automatiquement dès la publication comme aujourd’hui, mais si les propriétaires veulent continuer à jouir de l’entièreté de leurs droits après les cinq premières années de publication, ils doivent se manifester régulièrement de sorte qu’ils soient facilement trouvables. {@style=border:2px solid #00585F;}
 
 Dans le cas où l’ayant-droit ne se manifeste pas et dans l’attente de son réengistrement, ses travaux sont soit placés sous une licence libre soit versés dans le domaine public. Il récupére ses droits à partir de la date de réenregistrement.
 
@@ -340,7 +340,7 @@ Les citoyens qui voulaient copier un poème et l’envoyer à leur amoureux ou e
 
 Mais le droit d’auteur n’a pas évolué depuis et impose de graves restrictions sur la vie quotidienne des individus. Alors que la technologie a rendu le partage de plus en plus simple, la législation protégeant le droit d’auteur a évolué dans le sens inverse, vers une criminalisation croissante de ce partage.
 
-[Dépénalisation du partage sans but lucratif] Nous voulons que le droit d’auteur redevienne ce pourquoi il a été conçu et rendre clair qu’il ne doit réguler que les échanges commerciaux. Publier un travail protégé sans but lucratif ne devrait jamais être interdit. La persistance du piratage d’œuvres protégées sans but lucratif est une bonne raison pour cette légalisation. {@style=border:2px solid #284907;}
+[Dépénalisation du partage sans but lucratif] Nous voulons que le droit d’auteur redevienne ce pourquoi il a été conçu et rendre clair qu’il ne doit réguler que les échanges commerciaux. Publier un travail protégé sans but lucratif ne devrait jamais être interdit. La persistance du piratage d’œuvres protégées sans but lucratif est une bonne raison pour cette légalisation. {@style=border:2px solid #00585F;}
 
 Cette mesure peut être ajoutée comme une restriction dans la législation relative au droit d’auteur, en conformité avec les traités internationaux tels que la convention de Berne ou celui de l’Organisation Mondiale de la Propriété Intellectuelle.
 
@@ -402,7 +402,7 @@ Vingt ans de monopole commercial
 
 L’essentiel de l’industrie du divertissement actuelle est bâtie sur l’exclusivité commerciale des travaux protégés. Nous voulons sauvegarder cette activité. Mais les durées d’exclusivité actuelles sont absurdes. Aucun investisseur ne voudrait attendre un retour sur investissement aussi long.
 
-[Réduction de la durée de protection] Nous souhaitons raccourcir les durées de protection à quelque chose de raisonnable à la fois du point de vue de la société et des investisseurs et nous proposons vingt années à partir de la publication. {@style=border:2px solid #284907;}
+[Réduction de la durée de protection] Nous souhaitons raccourcir les durées de protection à quelque chose de raisonnable à la fois du point de vue de la société et des investisseurs et nous proposons vingt années à partir de la publication. {@style=border:2px solid #00585F;}
 
 Nous souhaitons la même période de protection pour tous les types de création.
 
@@ -472,7 +472,7 @@ Cependant, les sociétés de gestion sont actuellement entachées par plusieurs 
 
 Ces travers dérivent à notre avis d’obligations légales de transparence trop faibles ainsi que d’un manque de concurrence entre les sociétés de gestions qui conduit à des abus de type monopolistique. Chaque société de gestion monopolise l’exploitation des droits patrimoniaux dans un domaine spécifique de la vie culturelle comme le cinéma ou la musique.
 
-[Sociétés de gestion] Nous proposons de : {@style=border:2px solid #284907;}
+[Sociétés de gestion] Nous proposons de : {@style=border:2px solid #00585F;}
 
 soit
 
