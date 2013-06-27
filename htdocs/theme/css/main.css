@@ -223,6 +223,16 @@ footer p {
   list-style-type: none;
 }
 
+/* line 159, ../../compass/src/main.scss */
+dl {
+  border: 2px solid #225378;
+}
+
+/* line 160, ../../compass/src/main.scss */
+dt {
+  font-size: 1.2em;
+}
+
 /*
  *  Font Awesome 3.2.1
  *  the iconic font designed for Bootstrap

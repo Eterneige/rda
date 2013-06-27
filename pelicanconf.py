@@ -29,7 +29,7 @@ FEED_DOMAIN = SITEURL
 FEED_MAX_ITEMS = "15"
 DISPLAY_PAGES_ON_MENU = False
 DEFAULT_PAGINATION = 10
-MD_EXTENSIONS = (['toc',"footnotes"])
+MD_EXTENSIONS = ['toc',"footnotes","def_list"]
 #fonction jinja supplémentaire
 
 from urllib import quote_plus

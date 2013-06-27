@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012/Debian) (format=xelatex 2013.4.23)  25 JUN 2013 17:59
+This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012/Debian) (format=xelatex 2013.4.23)  27 JUN 2013 11:42
 entering extended mode
- \write18 enabled.
+ restricted \write18 enabled.
  %&-line parsing enabled.
-**/home/xlage/Documents/livres/propa-députés/résumé.tex
-(/home/xlage/Documents/livres/propa-députés/résumé.tex
+**résumé.tex
+(./résumé.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, fr
 ench, basque, ngerman, german, swissgerman, ngerman-x-2012-05-30, german-x-2012
@@ -1264,12 +1264,12 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 102.
  ) 
 Here is how much of TeX's memory you used:
- 21846 strings out of 495645
- 422020 string characters out of 3185689
- 488354 words of memory out of 3000000
+ 21845 strings out of 495645
+ 421893 string characters out of 3185689
+ 487354 words of memory out of 3000000
  24648 multiletter control sequences out of 15000+200000
  8452 words of font info for 60 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 48i,9n,55p,959b,567s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 48i,9n,55p,916b,567s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on résumé.pdf (43 pages).
