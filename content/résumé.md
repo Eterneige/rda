@@ -183,18 +183,27 @@ Inscrire la définition d’une licence libre dans la loi
 
 La définition des licences libres relèvent actuellement purement du droit contractuel. La loi ne définit pas ce qu’est une licence libre. Or s’il est demandé aux services de l’État de publier leurs œuvres et données sous des licences libres, il faut qu’ils puissent se référer à des textes légaux définissant quelles licences sont considérées comme libres par l’État.
 
-[Définition administrative des licences libres] Inscrire dans la loi sur le droit d’auteur la définition suivante :{@style=border:2px solid #00585F;}
+<div style="border:2px solid #00585F;">
+[Définition administrative des licences libres] Inscrire dans la loi sur le droit d’auteur la définition suivante :
+<blockquote>
+<p>Une œuvre est réputée libre lorsque sa licence confère à toute personne morale ou physique, en tout temps et en tout lieu, les quatre possibilités&nbsp;suivantes :</p>
+<ul>
+<li>
+<p>La possibilité d’utiliser l’œuvre, pour tous les usages&nbsp;;</p>
+</li>
+<li>
+<p>La possibilité d’étudier l’œuvre&nbsp;;</p>
+</li>
+<li>
+<p>La possibilité de redistribuer des copies de l’œuvre&nbsp;;</p>
+</li>
+<li>
+<p>La possibilité de modifier l’œuvre et de publier ses&nbsp;modifications.</p>
+</li>
+</ul>
+</blockquote>
+</div>
 
-> Une œuvre est réputée libre lorsque sa licence confère à toute personne morale ou physique, en tout temps et en tout lieu, les quatre possibilités suivantes :
->
-> -   La possibilité d’utiliser l’œuvre, pour tous les usages ;
->
-> -   La possibilité d’étudier l’œuvre ;
->
-> -   La possibilité de redistribuer des copies de l’œuvre ;
->
-> -   La possibilité de modifier l’œuvre et de publier ses modifications.
->
 Bien sûr cette précision légale ne change rien pour les usages des particuliers non plus qu’elle n’impose aux communautés qui définissent leurs propres critères de liberté une définition particulière de la liberté des œuvres et données.
 
 Libérer toutes les données et œuvres qui peuvent l’être
@@ -223,21 +232,32 @@ Rendre accessibles les données libérées
 
 Publier des données sous licence libre n’est pas suffisant si celles-ci ne sont pas facilement accessibles parce que leur accès est onéreux, parce que le format de diffusion n’est pas utilisable informatiquement ou est non-standard et nécessite de payer des licences logicielles élevées pour être lu.
 
-[Conditions d’accessibilité des données libérées] Les données produites et publiées par l’administration sous licence libre doivent respecter les contraintes suivantes : {@style=border:2px solid #00585F;}
-
--   Entières : Les bases de données sont intégralement publiées.
-
--   Brutes : Leur format est directement utilisable par un ordinateur.
-
--   Documentées : Elles sont accompagnées de leurs métadonnées dans un format documenté.
-
--   Interopérables : La documentation du format de fichier est aisément accessible et complète.
-
--   Actuelles : Elles sont les plus récentes possibles.
-
--   Permanentes : Leurs adresses d’accès sont durables.
-
--   Gratuites ou peu coûteuses : Le coût d’accès est nul ou marginal.
+<div style="border:2px solid #00585F;">
+[Conditions d’accessibilité des données libérées] Les données produites et publiées par l’administration sous licence libre doivent respecter les contraintes suivantes : 
+<ul>
+<li>
+<p>Entières : Les bases de données sont intégralement&nbsp;publiées.</p>
+</li>
+<li>
+<p>Brutes : Leur format est directement utilisable par un&nbsp;ordinateur.</p>
+</li>
+<li>
+<p>Documentées : Elles sont accompagnées de leurs métadonnées dans un format&nbsp;documenté.</p>
+</li>
+<li>
+<p>Interopérables : La documentation du format de fichier est aisément accessible et&nbsp;complète.</p>
+</li>
+<li>
+<p>Actuelles : Elles sont les plus récentes&nbsp;possibles.</p>
+</li>
+<li>
+<p>Permanentes : Leurs adresses d’accès sont&nbsp;durables.</p>
+</li>
+<li>
+<p>Gratuites ou peu coûteuses : Le coût d’accès est nul ou&nbsp;marginal.</p>
+</li>
+</ul>
+</div>
 
 Le moyen technique le plus simple de remplir ces contraintes est de mettre en place via Internet des portails de dépôt qui les recensent et les mettent à disposition via des protocoles standards comme ceux utilisés pour afficher les pages web. Le gouvernement français a déjà lancé le processus via le site Étalab mais les ressources humaines, juridiques ou informatiques du portail doivent être renforcées pour améliorer la qualité de service.
 
@@ -249,13 +269,20 @@ Créer un droit à la transformation des œuvres
 
 La législation très restrictive d’aujourd’hui est un obstacle majeur pour les musiciens et cinéastes.
 
-[Valoriser les œuvres transformatives] Nous voulons que soient reconnus trois droits à la création: {@style=border:2px solid #00585F;}
-
--   Le droit de réutiliser toute œuvre dans une autre et de publier le résultat.
-
--   Le droit d’utiliser toute œuvre existante pour la modifier et de publier ces modifications.
-
--   Le droit d’utiliser lucrativement ces œuvres dérivées en échange d’un paiement équilibré aux auteurs originaux.
+<div style="border:2px solid #00585F;">
+[Valoriser les œuvres transformatives] Nous voulons que soient reconnus trois droits à la création: 
+<ul>
+<li>
+<p>Le droit de réutiliser toute œuvre dans une autre et de publier le&nbsp;résultat.</p>
+</li>
+<li>
+<p>Le droit d’utiliser toute œuvre existante pour la modifier et de publier ces&nbsp;modifications.</p>
+</li>
+<li>
+<p>Le droit d’utiliser lucrativement ces œuvres dérivées en échange d’un paiement équilibré aux auteurs&nbsp;originaux.</p>
+</li>
+</ul>
+</div>
 
 Le premier droit concerne par exemple la réutilisation d’une musique dans une vidéo amateur, le deuxième l’utilisation des images d’un film pour en faire une fausse bande-annonce et le troisième la vente de mashups sur iTunes.
 
@@ -280,9 +307,13 @@ Enregistrer les œuvres tous les cinq ans
 
 Les œuvres orphelines sont un vrai problème. Bien souvent il est difficile de localiser le propriétaire d’une œuvre mais celui-ci se manifeste quand l’œuvre dérivée est publiée. De plus la majorité des œuvres orphelines ont peu ou aucune valeur commerciale mais il est quand même impossible de les diffuser sans risquer des poursuites. 
 
-[Création d’un registre des œuvres protégées] La protection du droit d’auteur doit être accordée automatiquement dès la publication comme aujourd’hui, mais si les propriétaires veulent continuer à jouir de l’entièreté de leurs droits après les cinq premières années de publication, ils doivent se manifester régulièrement de sorte qu’ils soient facilement trouvables. {@style=border:2px solid #00585F;}
+<div style="border:2px solid #00585F;">
+[Création d’un registre des œuvres protégées] 
 
-Dans le cas où l’ayant-droit ne se manifeste pas et dans l’attente de son réengistrement, ses travaux sont soit placés sous une licence libre soit versés dans le domaine public. Il récupére ses droits à partir de la date de réenregistrement.
+<p>La protection du droit d’auteur doit être accordée automatiquement dès la publication comme aujourd’hui, mais si les propriétaires veulent continuer à jouir de l’entièreté de leurs droits après les cinq premières années de publication, ils doivent se manifester régulièrement de sorte qu’ils soient facilement trouvables.</p>
+
+<p>Dans le cas où l’ayant-droit ne se manifeste pas et dans l’attente de son réengistrement, ses travaux sont soit placés sous une licence libre soit versés dans le domaine public. Il récupére l'entièreté de ses droits à partir de la date de réenregistrement.</p>
+</div>
 
 Pour simplifier sa mise en œuvre, cette mesure peut ne s’appliquer qu’aux œuvres à venir et non aux œuvres déjà publiées.
 
@@ -472,25 +503,36 @@ Cependant, les sociétés de gestion sont actuellement entachées par plusieurs 
 
 Ces travers dérivent à notre avis d’obligations légales de transparence trop faibles ainsi que d’un manque de concurrence entre les sociétés de gestions qui conduit à des abus de type monopolistique. Chaque société de gestion monopolise l’exploitation des droits patrimoniaux dans un domaine spécifique de la vie culturelle comme le cinéma ou la musique.
 
-[Sociétés de gestion] Nous proposons de : {@style=border:2px solid #00585F;}
-
-soit
-
--   ouvrir au marché la redistribution des droits patrimoniaux des auteurs
-
--   imposer aux sociétés de gestion la transparence des critères de répartition et des statistiques de répartition selon ces critères.
-
--   sanctionner plus sévèrement les perceptions abusives
-
-soit
-
--   imposer la règle « un sociétaire pour un vote »
-
--   laisser aux sociétaires le choix de décider œuvre par œuvre des règles d’inclusion dans le catalogue des sociétés de gestion
-
--   imposer aux sociétés de gestion la transparence des critères de répartition et des statistiques de répartition selon ces critères.
-
--   sanctionner plus sévèrement les perceptions abusives
+<div style="border:2px solid #00585F;">
+[Sociétés de gestion] Nous proposons de :
+<p>soit</p>
+<ul>
+<li>
+<p>ouvrir au marché la redistribution des droits patrimoniaux des&nbsp;auteurs</p>
+</li>
+<li>
+<p>imposer aux sociétés de gestion la transparence des critères de répartition et des statistiques de répartition selon ces&nbsp;critères.</p>
+</li>
+<li>
+<p>sanctionner plus sévèrement les perceptions&nbsp;abusives</p>
+</li>
+</ul>
+<p>soit</p>
+<ul>
+<li>
+<p>imposer la règle « un sociétaire pour un&nbsp;vote »</p>
+</li>
+<li>
+<p>laisser aux sociétaires le choix de décider œuvre par œuvre des règles d’inclusion dans le catalogue des sociétés de&nbsp;gestion</p>
+</li>
+<li>
+<p>imposer aux sociétés de gestion la transparence des critères de répartition et des statistiques de répartition selon ces&nbsp;critères.</p>
+</li>
+<li>
+<p>sanctionner plus sévèrement les perceptions&nbsp;abusives</p>
+</li>
+</ul>
+</div>
 
 Les sociétés de gestion devraient dans tous les cas continuer à être agréées par l’État car leurs agents doivent être assermentés pour pouvoir constater la matérialité des infractions au droit d’auteur. L’existence d’un registre comme proposé doit permettre de limiter les perceptions abusives.
 
