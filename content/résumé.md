@@ -312,7 +312,7 @@ Les œuvres orphelines sont un vrai problème. Bien souvent il est difficile de 
 
 <p>La protection du droit d’auteur doit être accordée automatiquement dès la publication comme aujourd’hui, mais si les propriétaires veulent continuer à jouir de l’entièreté de leurs droits après les cinq premières années de publication, ils doivent se manifester régulièrement de sorte qu’ils soient facilement trouvables.</p>
 
-<p>Dans le cas où l’ayant-droit ne se manifeste pas et dans l’attente de son réengistrement, ses travaux sont soit placés sous une licence libre soit versés dans le domaine public. Il récupére l'entièreté de ses droits à partir de la date de réenregistrement.</p>
+<p>Dans le cas où l’ayant-droit ne se manifeste pas et dans l’attente de son réenregistrement, ses travaux sont soit placés sous une licence libre soit versés dans le domaine public. Il récupére l'entièreté de ses droits à partir de la date de réenregistrement.</p>
 </div>
 
 Pour simplifier sa mise en œuvre, cette mesure peut ne s’appliquer qu’aux œuvres à venir et non aux œuvres déjà publiées.
