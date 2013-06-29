@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012/Debian) (format=xelatex 2013.4.23)  27 JUN 2013 11:42
+This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012/Debian) (format=xelatex 2013.4.23)  29 JUN 2013 21:22
 entering extended mode
- restricted \write18 enabled.
+ \write18 enabled.
  %&-line parsing enabled.
-**résumé.tex
-(./résumé.tex
+**/home/xlage/Documents/sites/rda/sources-livre-propa-députés/résumé.tex
+(/home/xlage/Documents/sites/rda/sources-livre-propa-députés/résumé.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, fr
 ench, basque, ngerman, german, swissgerman, ngerman-x-2012-05-30, german-x-2012
@@ -1032,7 +1032,13 @@ Package hyperref Info: bookmark level for unknown mesure defaults to 0 on input
 
 
 
-]) [12]
+]
+Overfull \hbox (5.90363pt too wide) in paragraph at lines 31--32
+\EU1/Ubuntu(0)/m/n/10.95 qu’aujourd’hui,en consacrant un droit quasi-absolu
+ au respect de l'intégrité des oeuvres
+ []
+
+) [12]
 \openout2 = `solutions/verrous.aux'.
 
  (./solutions/verrous.tex
@@ -1054,6 +1060,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
+Overfull \hbox (2.01639pt too wide) in paragraph at lines 38--39
+\EU1/Ubuntu(0)/m/n/10.95 d’application de la directive européenne sur la ré
+utilisation des informations publiques
+ []
+
 [16]
 Overfull \hbox (6.68108pt too wide) in paragraph at lines 48--49
 \EU1/Ubuntu(0)/m/n/10.95 œuvres dans le domaine public. La renonciation inclur
@@ -1069,20 +1080,48 @@ ait les droits patrimoniaux comme
 
 ]
 Chapitre 5.
+
+Overfull \hbox (1.90689pt too wide) in paragraph at lines 18--19
+\EU1/Ubuntu(0)/m/n/10.95 tique (Share Alike) si ces administrations désirent l
+imiter les risques de réappropriation
+ []
+
+
+Overfull \hbox (16.77704pt too wide) in paragraph at lines 21--22
+\EU1/Ubuntu(0)/m/n/10.95 duites ou subventionnés par les services de l’État
+ ou des collectivités locales. Par exemple,
+ []
+
+
+Overfull \hbox (0.91043pt too wide) in paragraph at lines 21--22
+\EU1/Ubuntu(0)/m/n/10.95 un logiciel développé sur commande de l’administra
+tion devrait être libre, tout comme
+ []
+
+
+Overfull \hbox (4.97292pt too wide) in paragraph at lines 21--22
+\EU1/Ubuntu(0)/m/n/10.95 enregistrées. Le rôle des personnes publiques est de
+ favoriser la diffusion de la connais-
+ []
+
 [19]
-Overfull \hbox (1.51271pt too wide) in paragraph at lines 29--30
+Overfull \hbox (1.51271pt too wide) in paragraph at lines 27--28
 \EU1/Ubuntu(0)/m/n/10.95 dessus, appelée simplement \EU1/Ubuntu(0)/m/it/10.95 
 Licence ouverte\EU1/Ubuntu(0)/m/n/10.95 . Cette licence pourrait être la licen
 ce stan-
  []
 
-[20] [21]) [22]
+[20]
+Underfull \vbox (badness 1132) has occurred while \output is active []
+
+ [21])
+[22]
 \openout2 = `solutions/remix.aux'.
 
  (./solutions/remix.tex
 Chapitre 6.
 
-Overfull \hbox (3.46443pt too wide) in paragraph at lines 18--19
+Overfull \hbox (3.46443pt too wide) in paragraph at lines 17--18
 []\EU1/Ubuntu(0)/m/n/10.95 Dans la création originelle classique, l’ancien d
 isparaissait dans le nouveau. La culture
  []
@@ -1101,49 +1140,51 @@ Chapitre 7.
 
 
 ]
-Overfull \hbox (10.25342pt too wide) in paragraph at lines 66--67
+Overfull \hbox (0.60648pt too wide) in paragraph at lines 55--60
+[]\EU1/Ubuntu(0)/m/n/10.95 L’existence de bases de données publiques, dans l
+esquelles les détenteurs des droits
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26]
+Overfull \hbox (10.25342pt too wide) in paragraph at lines 61--62
 []\EU1/Ubuntu(0)/m/n/10.95 Inversement, cette base de donnée permettra de savo
 ir quelles œuvres appartiennent
  []
 
-[26]
-Overfull \hbox (4.3733pt too wide) in paragraph at lines 81--82
-[]\EU1/Ubuntu(0)/m/n/10.95 C'est pourquoi permettre aux auteurs de récupérer 
-leurs droits dès qu'ils se signalent
+[27]
+Overfull \hbox (4.38425pt too wide) in paragraph at lines 76--77
+[]\EU1/Ubuntu(0)/m/n/10.95 C’est pourquoi permettre aux auteurs de récupére
+r leurs droits dès qu’ils se signalent
  []
 
-) [27]
+) [28]
 \openout2 = `solutions/dépénalisationpartage.aux'.
 
- (./solutions/dépénalisationpartage.tex [28
-
-
-
-]
+ (./solutions/dépénalisationpartage.tex
 Chapitre 8.
-[29]
-Underfull \vbox (badness 1708) has occurred while \output is active []
+[29
 
- [30]
-Overfull \hbox (0.16583pt too wide) in paragraph at lines 92--93
-\EU1/Ubuntu(0)/m/n/10.95 d'auteur à leurs élèves ou collègues. En revanche 
-les entreprises d'enseignement privé
+
+
+] [30]
+Overfull \hbox (5.73941pt too wide) in paragraph at lines 85--86
+\EU1/Ubuntu(0)/m/n/10.95 cadre de leurs travaux ont les mêmes soucis. Des usag
+es innovants de recherche comme
  []
 
-) [31]
+[31]) [32]
 \openout2 = `solutions/réductiondurée.aux'.
 
- (./solutions/réductiondurée.tex [32
-
-
-
-]
+ (./solutions/réductiondurée.tex
 Chapitre 9.
-[33])
-Underfull \vbox (badness 1365) has occurred while \output is active []
+[33
 
- [34]
-[35]
+
+
+] [34]) [35]
 \openout2 = `solutions/financement.aux'.
 
  (./solutions/financement.tex [36
@@ -1155,16 +1196,16 @@ Chapitre 10.
 
 Overfull \hbox (5.61897pt too wide) in paragraph at lines 10--11
 \EU1/Ubuntu(0)/m/n/10.95 ou investissements reçus via ces plates-formes doit p
-ouvoir être facilement sanctionné.
+ouvoir être facilement sanctionné. 
  []
 
-[37]
+[37] [38]
 LaTeX Font Info:    Font shape `EU1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `EU1/lmss/m/sl' tried instead on input line 34.
+(Font)              Font shape `EU1/lmss/m/sl' tried instead on input line 44.
 LaTeX Font Info:    Font shape `EU1/lmss/bx/it' in size <10.95> not available
-(Font)              Font shape `EU1/lmss/bx/sl' tried instead on input line 34.
+(Font)              Font shape `EU1/lmss/bx/sl' tried instead on input line 44.
 
- [38]) [39]
+) [39]
 \openout2 = `sources-résumé.aux'.
 
  (./sources-résumé.tex [40
@@ -1194,55 +1235,56 @@ Overfull \hbox (0.27647pt too wide) in paragraph at lines 11--12
  []
 
 
-Overfull \hbox (4.35812pt too wide) in paragraph at lines 14--15
+Overfull \hbox (4.35812pt too wide) in paragraph at lines 15--16
 [] [] [] [] [] [] [][] [] [][][] [] [] [] [] [] [] [] [] [] [] [] [][] [] [] []
  [][][][][][][][][][] [] [] [] [] [] [] [] [] [] [] [] [][][] [] [] [] [][] [] 
 [] [] [][] [] [] [] [] [] [] [] [][][] [] [] [] [] [] [] []
  []
 
+[43]
 
-LaTeX Warning: Citation `lessig2004culture' undefined on input line 23.
-
-
-LaTeX Warning: Citation `florent2004bon' undefined on input line 24.
+LaTeX Warning: Citation `lessig2004culture' undefined on input line 24.
 
 
-LaTeX Warning: Citation `benkler2009richesse' undefined on input line 25.
+LaTeX Warning: Citation `florent2004bon' undefined on input line 25.
 
 
 LaTeX Warning: Citation `benkler2009richesse' undefined on input line 26.
 
 
-LaTeX Warning: Citation `manach2010vie' undefined on input line 27.
+LaTeX Warning: Citation `benkler2009richesse' undefined on input line 27.
 
 
-LaTeX Warning: Citation `lessig2005avenir' undefined on input line 28.
+LaTeX Warning: Citation `manach2010vie' undefined on input line 28.
 
 
-LaTeX Warning: Citation `raymond1998cathedrale' undefined on input line 29.
+LaTeX Warning: Citation `lessig2005avenir' undefined on input line 29.
 
 
-LaTeX Warning: Citation `stallman2010richard' undefined on input line 30.
+LaTeX Warning: Citation `raymond1998cathedrale' undefined on input line 30.
 
 
-LaTeX Warning: Citation `sagot2002propriete' undefined on input line 31.
+LaTeX Warning: Citation `stallman2010richard' undefined on input line 31.
 
 
-LaTeX Warning: Citation `perline2004bataille' undefined on input line 32.
+LaTeX Warning: Citation `sagot2002propriete' undefined on input line 32.
 
 
-LaTeX Warning: Citation `aigrain2008internet' undefined on input line 33.
+LaTeX Warning: Citation `perline2004bataille' undefined on input line 33.
 
 
-LaTeX Warning: Citation `hadopi' undefined on input line 34.
+LaTeX Warning: Citation `aigrain2008internet' undefined on input line 34.
 
 
-LaTeX Warning: Citation `opendata' undefined on input line 35.
+LaTeX Warning: Citation `hadopi' undefined on input line 35.
 
 
-LaTeX Warning: Citation `smiers2011monde' undefined on input line 36.
+LaTeX Warning: Citation `opendata' undefined on input line 36.
 
-) [43]
+
+LaTeX Warning: Citation `smiers2011monde' undefined on input line 37.
+
+) [44]
 No file résumé.bbl.
 \tf@thm=\write5
 \openout5 = `résumé.thm'.
@@ -1264,12 +1306,12 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 102.
  ) 
 Here is how much of TeX's memory you used:
- 21845 strings out of 495645
- 421893 string characters out of 3185689
- 487354 words of memory out of 3000000
+ 21846 strings out of 495645
+ 422071 string characters out of 3185689
+ 488496 words of memory out of 3000000
  24648 multiletter control sequences out of 15000+200000
  8452 words of font info for 60 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 48i,9n,55p,916b,567s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 48i,9n,55p,961b,567s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on résumé.pdf (43 pages).
+Output written on résumé.pdf (44 pages).
