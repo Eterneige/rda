@@ -1,5 +1,6 @@
 Title:Partie 1: Les solutions
 Date:  2013-06-25 21:01:21
+Summary: 18 mesures détaillées et argumentées pour libérer la création
 
 [TOC]
 

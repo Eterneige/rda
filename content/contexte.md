@@ -1,5 +1,6 @@
 Title:Partie 2: Les témoignages
 Date:  2013-06-25 20:01:21
+Summary: Les récits ou argumentaires de différents personnages en faveur de la réforme proposée
 
 [TOC]
 
