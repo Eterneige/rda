@@ -134,7 +134,7 @@ Dans son livre *Culture Libre*, le professeur de droit Lawrence Lessig donne l�
 
 Mais un éditeur auquel il a acheté le texte a décidé de régler les verrous DRM de telle sorte qu’il ne pouvait pas en extraire une copie ni l’imprimer ni le louer et encore moins le donner à un ami. C’est une atteinte manifeste à l’intégrité du domaine public.
 
-Les aveugles et malvoyants qui ont besoin de convertir les livres numériques dans des formats audio qui leurs soient accessibles sont souvent entravés par les verrous DRM. Un traité de l’OMPI a récemment consacré au plus niveau une exception en faveur des handicapés visuels pour l’accès aux livres protégés et la production d’œuvres adaptées. Cette exception ne pourra devenir effective que si les DRM n’en empêchent pas la mise en œuvre concrète.
+Les aveugles et malvoyants qui ont besoin de convertir les livres numériques dans des formats audio qui leurs soient accessibles sont souvent entravés par les verrous DRM. Un traité de l’OMPI a récemment consacré au plus haut niveau une exception en faveur des handicapés visuels pour l’accès aux livres protégés et la production d’œuvres adaptées. Cette exception ne pourra devenir effective que si les DRM n’en empêchent pas la mise en œuvre concrète.
 
 Un autre exemple est le zonage régional sur les DVDs qui empêche de regarder des films légalement achetés s’ils sont achetés dans une autre zone que celle où a été acheté le lecteur.
 
