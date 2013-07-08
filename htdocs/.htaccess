@@ -20,3 +20,4 @@ ExpiresByType application/javascript "access plus 1 week"
 #Polices
 ExpiresByType application/x-font-woff   "access plus 1 month"
 </IfModule>
+ErrorDocument 404 /pages/page-non-trouvee.html
