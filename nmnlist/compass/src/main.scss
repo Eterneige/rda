@@ -17,7 +17,6 @@ text-align: justify;
 }
 img,iframe{
 max-width:100%;
- display: block;
     margin-left: auto;
     margin-right: auto ;
 border:none;}
@@ -29,7 +28,11 @@ border:none;}
 font-weight:bold;
 text-rendering:optimizelegibility;
 line-height:1.2em;
-text-align:left;}
+text-align:left;
+ display: block;
+    margin-left: auto;
+    margin-right: auto ;
+max-width:80%;}
 
 h1 {
     @include heading(2.5em);
@@ -55,9 +58,17 @@ blockquote {
     border-left: 5px solid #1695A3;
     padding: .2em 0em .2em .2em;
 font-size:120%;
+    margin-left: auto;
+    margin-right: auto ;
+max-width:95%;
+max-width: 1000px;
 }
 
 p {
+    margin-left: auto;
+    margin-right: auto ;
+max-width:95%;
+max-width: 1000px;
 text-indent:2em;
     &.caption {
         font-size: 80%;
@@ -71,6 +82,10 @@ a {
 }
 
 ul, ol {
+    margin-left: auto;
+    margin-right: auto ;
+max-width:95%;
+max-width: 1000px;
     padding: .5em 0em 1em 3.2em;
     li {
         line-height: 140%;
