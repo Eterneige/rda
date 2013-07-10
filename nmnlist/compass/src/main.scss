@@ -16,10 +16,20 @@ body {
 text-align: justify;
 }
 img,iframe{
+border-radius:2em;
 max-width:100%;
-    margin-left: auto;
-    margin-right: auto ;
+display: block;
+margin-left: auto;
+margin-right: auto;
 border:none;}
+
+article{ 
+display: block;
+margin-left: auto;
+margin-right: auto;
+max-width:80%;
+max-width:1000px;
+}
 
 @mixin heading ($font-size, $color: #1695A3) {
     color: $color;
@@ -30,9 +40,7 @@ text-rendering:optimizelegibility;
 line-height:1.2em;
 text-align:left;
  display: block;
-    margin-left: auto;
-    margin-right: auto ;
-max-width:80%;}
+}
 
 h1 {
     @include heading(2.5em);
@@ -58,20 +66,14 @@ blockquote {
     border-left: 5px solid #1695A3;
     padding: .2em 0em .2em .2em;
 font-size:120%;
-    margin-left: auto;
-    margin-right: auto ;
 max-width:95%;
-max-width: 1000px;
 }
 
 p {
-    margin-left: auto;
-    margin-right: auto ;
 max-width:95%;
-max-width: 1000px;
 text-indent:2em;
     &.caption {
-        font-size: 80%;
+        font-size: 100%;
     }
 }
 
@@ -82,10 +84,7 @@ a {
 }
 
 ul, ol {
-    margin-left: auto;
-    margin-right: auto ;
 max-width:95%;
-max-width: 1000px;
     padding: .5em 0em 1em 3.2em;
     li {
         line-height: 140%;
@@ -135,7 +134,7 @@ list-style-type: none;
 
 .sidebar {
 float: right;
-display: block;
+display: block;border-radius:2em;
 background:#225378;
 i:after { content:"\00a0"; }
 a{color:#FFFFFF;}
@@ -148,6 +147,7 @@ list-style-type: none;}
 .pub{ 
 h2,h3,h4{text-align:center;}
 border:5px solid #EB7F00;
+border-radius:2em;
 max-width:100%;
  display: block;
     margin-left: auto;
@@ -161,7 +161,7 @@ display: inline;
 list-style-type: none;}}
 
 .infos{
-display:block;
+display:block;border-radius:2em;
 background:#1695A3;
 color:#FFFFFF;
     font-family: Ubuntu, Arial, sans-serif;
@@ -171,7 +171,7 @@ a{color:#FFFFFF;}
 li    {
 list-style-type: none;}}
 
-dl{border:2px solid #225378;}
+dl{border:2px solid #225378;border-radius:2em;}
 dt{font-size:1.2em}
 
 @import "font-awesome";
