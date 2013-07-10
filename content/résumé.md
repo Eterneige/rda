@@ -458,7 +458,7 @@ L’industrie du divertissement est bâtie sur l’exclusivité commerciale des 
 
 Nous souhaitons la même période de protection pour tous les types de création.
 
-Une telle réforme n’est possible qu’en obtenant la révision de la Convention de Berne, qui a fixé à la durée minimale des droits à la vie de l’auteur plus 50 ans. Au niveau de l’Union européenne, la durée des droits a été harmonisée par la directive 2011/77, qui a porté la durée des droits à la vie de l’auteur plus 70 ans. Obtenir le consensus politique nécessaire pour réviser ces textes sera un processus long et complexe, mais aucune réforme sérieuse du droit d’auteur ne peut mettre de côté la question de la durée excessive des droits.
+Une telle réforme n’est possible qu’en obtenant la révision de la Convention de Berne, qui a déterminé la durée minimale des droits comme étant celle de la vie de l’auteur plus 50 ans. Au niveau de l’Union européenne, la durée des droits a été harmonisée par la directive 2011/77, qui a porté la durée des droits à celle de la vie de l’auteur plus 70 ans. Obtenir le consensus politique nécessaire pour réviser ces textes sera un processus long et complexe, mais aucune réforme sérieuse du droit d’auteur ne peut mettre de côté la question de la durée excessive des droits.
 
 À productions différentes, durées différentes ?
 -----------------------------------------------
