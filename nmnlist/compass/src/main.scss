@@ -7,13 +7,13 @@
 
     This theme is uncopyrighted, free, and offered as is.
 */
-
 body {
-  background: #ACF0F2;
-  color: #225378;
+i:after { content:"\00a0"; }
+  background: #225378;
+  color: white;
     font: 120% Ubuntu, Hoefler Text, bodyfont, serif;
     line-height: 140%;
-text-align: justify;
+text-align: center;
 }
 img,iframe{
 border-radius:2em;
@@ -24,8 +24,12 @@ margin-right: auto;
 border:none;}
 
 article{ 
+color:#225378;
 border-radius:0.5em;
 background:white;
+text-align:justify;
+a{color:#225378;
+&:hover { color:#225378; }}
 display: block;
 margin-left: auto;
 margin-right: auto;
@@ -40,7 +44,6 @@ max-width:1000px;
 font-weight:bold;
 text-rendering:optimizelegibility;
 line-height:1.2em;
-text-align:left;
  display: block;padding: .5em .5em .5em .5em;
 }
 
@@ -82,9 +85,9 @@ text-indent:2em;
 }
 
 a {
-    color:  #1695A3;
+color:white;
     text-decoration: none;
-    &:hover { color:#225378; }
+    &:hover { color:white; }
 }
 
 ul, ol {
@@ -136,22 +139,7 @@ list-style-type: none;
     }
 }
 
-.sidebar {
-float:right;
-display:block;
-border-radius:2em;
-margin-left:2em;
-background:#225378;
-i:after { content:"\00a0"; }
-a{color:#FFFFFF;}
-h4{color:#FFFFFF;}
-li    {
-line-height:140%;
-list-style-type: none;}
-}
-
 .pub{ 
-h2,h3,h4{text-align:center;}
 border:5px solid #EB7F00;
 border-radius:2em;
 max-width:100%;
@@ -167,11 +155,12 @@ display: inline;
 list-style-type: none;}}
 
 .infos{
-margin-right:2em;
+max-width:800px;
+margin-left:auto;
+margin-right:auto;
 display:block;
 overflow:hidden;
-border-bottom-right-radius:0.5em;
-border-top-right-radius:0.5em;
+border-radius:0.5em;
 background:#1695A3;
 color:#FFFFFF;
     font-family: Ubuntu, Arial, sans-serif;
