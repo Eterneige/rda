@@ -3,7 +3,7 @@
 
 AUTHOR = u'Xavier Gillard'
 TRADUCTEUR = u'Xavier Gillard'
-SITENAME = u'Il faut réformer le droit d\'auteur'
+SITENAME = u'Il faut réformer le droit d\'auteur !'
 SITEURL = 'http://rda.sploing.fr'
 THEME = "nmnlist"
 TWITTER_USERNAME = "sploinga"
