@@ -7,9 +7,9 @@
 		<h2><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
 {% include "article_infos.html" %}
 
-<p>{{ article.summary }}</p>
+{{ article.summary }}
 
-<p><hr /></p>
+<hr />
 	{% endfor %}
 {%endif%}
 
