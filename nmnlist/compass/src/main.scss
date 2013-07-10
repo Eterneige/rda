@@ -24,6 +24,7 @@ margin-right: auto;
 border:none;}
 
 article{ 
+background:white;
 display: block;
 margin-left: auto;
 margin-right: auto;
@@ -39,7 +40,7 @@ font-weight:bold;
 text-rendering:optimizelegibility;
 line-height:1.2em;
 text-align:left;
- display: block;
+ display: block;padding: .5em .5em .5em .5em;
 }
 
 h1 {
@@ -70,6 +71,8 @@ max-width:95%;
 }
 
 p {
+margin-left:2em;
+margin-right:2em;
 max-width:95%;
 text-indent:2em;
     &.caption {
@@ -133,8 +136,9 @@ list-style-type: none;
 }
 
 .sidebar {
-float: right;
-display: block;border-radius:2em;
+float:right;
+display:block;
+border-radius:2em;
 background:#225378;
 i:after { content:"\00a0"; }
 a{color:#FFFFFF;}
@@ -161,7 +165,11 @@ display: inline;
 list-style-type: none;}}
 
 .infos{
-display:block;border-radius:2em;
+display:block;
+overflow:hidden;
+border-bottom-right-radius:0.5em;
+border-top-right-radius:0.5em;
+margin-right:2em;
 background:#1695A3;
 color:#FFFFFF;
     font-family: Ubuntu, Arial, sans-serif;
