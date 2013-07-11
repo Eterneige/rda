@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /categorie/
+Disallow: /auteur/
+Disallow: /wiki/
+Disallow: /traducteur/
+Sitemap: http://rda.sploing.fr/sitemap.xml
