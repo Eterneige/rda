@@ -21,6 +21,7 @@ list-style-type: none;}}
 
 @mixin heading ($font-size, $color: $titres) {
 @include bourre;
+@include hauteurstd;
 text-align:left;
 color: $color;
 font-family: Ubuntu, Arial, sans-serif;
@@ -64,6 +65,7 @@ max-width:$max;}
 article,comments{ 
 @include centraille;
 background:white;
+color:$fonds;
 border-radius:0.5em;
 max-width:80%;
 max-width:1000px;
@@ -109,20 +111,6 @@ footer {
 display:block;
 }
 
-.sidebar {
-float:right;
-display:block;
-margin-left:2em;
-@include bordcourbe;
-background: $titres;
-a{color: $fonds;}
-h4{color:$fonds;}
-li    {
-list-style-type: none; 
-@include hauteurstd;
-}
-}
-
 .pagination{
 @include baspage;
 }
@@ -132,7 +120,7 @@ overflow:hidden;
 margin-right:2em;
 border-bottom-right-radius:0.5em;
 border-top-right-radius:0.5em;
-background-color:$infos;
+background-color:$titres;
 font-variant:small-caps;
 display: block;
 li    {
