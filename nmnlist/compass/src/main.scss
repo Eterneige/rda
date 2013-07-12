@@ -45,7 +45,7 @@ font: $standard Ubuntu, Hoefler Text, bodyfont, serif;
 @include hauteurstd;
 color:$texte;
 background-color:$fonds;
-text-align:justify;
+text-align:center;
 h2{margin-left:1em;}
 h3{margin-left:1.5em;}
 h4{margin-left:1.8em;}
@@ -64,6 +64,7 @@ max-width:$max;}
 
 article,comments{ 
 @include centraille;
+text-align:justify;
 background:white;
 color:$fonds;
 border-radius:0.5em;
@@ -116,10 +117,8 @@ display:block;
 }
 
 .infos{
-overflow:hidden;
-margin-right:2em;
-border-bottom-right-radius:0.5em;
-border-top-right-radius:0.5em;
+@include centraille;
+border-radius:0.5em;
 background-color:$titres;
 font-variant:small-caps;
 display: block;
