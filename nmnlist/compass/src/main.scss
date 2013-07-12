@@ -36,6 +36,8 @@ margin-left: auto;
 margin-right: auto;
 max-width:80%;
 max-width:1000px;
+li{margin-left:2em;
+margin-right:2em;}
 }
 
 @mixin heading ($font-size, $color: #1695A3) {
@@ -75,7 +77,7 @@ font-size:120%;
 max-width:95%;
 }
 
-p, li{margin:none;
+p{
 margin-left:2em;
 margin-right:2em;
 max-width:95%;
