@@ -1,0 +1,14 @@
+$fonds: #225378;
+$texte: white;
+$titres:  #1695A3;
+$titreprin: #EB7F00;
+$infos: #ACF0F2;
+$max: 100%;
+$standard: 120%;
+@mixin bourre {padding: .5em .5em .5em .5em;}
+@mixin marges {margin-left: 1.5em;margin-right: 1.5em;}
+@mixin hauteurstd {line-height:1.5em;}
+@mixin bordcourbe {border-radius:2em;
+border-color:$texte;}
+dl{@include rhythm-borders(2px,1, 1.2*$base-font-size, solid);border-color:$fonds;}
+dt{@include adjust-font-size-to(1.2*$base-font-size);}
