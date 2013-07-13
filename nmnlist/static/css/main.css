@@ -245,15 +245,16 @@ footer li {
   margin-left: auto;
   margin-right: auto;
   border-radius: 0.5em;
+  color: #1695a3;
   background-color: #acf0f2;
   font-variant: small-caps;
   display: block;
 }
-/* line 129, ../../compass/src/main.scss */
+/* line 130, ../../compass/src/main.scss */
 .infos li {
   list-style-type: none;
 }
-/* line 132, ../../compass/src/main.scss */
+/* line 133, ../../compass/src/main.scss */
 .infos a {
   color: #1695a3;
 }

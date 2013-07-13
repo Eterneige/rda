@@ -123,6 +123,7 @@ display:block;
 .infos{
 @include centraille;
 border-radius:0.5em;
+color:$titres;
 background-color:$infos;
 font-variant:small-caps;
 display: block;
