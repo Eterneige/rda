@@ -7,8 +7,13 @@
 
     This theme is uncopyrighted, free, and offered as is.
 */
+@import "compass/typography/vertical_rhythm";
+$base-font-size: 1.2*$browser-default-font-size;
+$base-line-height:1.5*$base-font-size;
+@include establish-baseline;
 
 @import "couleurstailles";
+
 @mixin centraille {
 display: block;
 margin-left: auto;
@@ -19,13 +24,24 @@ li    {
 display: inline;
 list-style-type: none;}}
 
+
+body {
+font-family: Ubuntu, Hoefler Text, bodyfont, serif;
+color:$texte;
+background-color:$fonds;
+text-align:justify;
+h2{margin-left:1em;}
+h3{margin-left:1.5em;}
+h4{margin-left:1.8em;}
+i:after { content:"\00a0"; }
+}
+
 @mixin heading ($font-size, $color: $titres) {
+@include adjust-font-size-to($font-size);
 @include bourre;
-@include hauteurstd;
 text-align:left;
 color: $color;
 font-family: Ubuntu, Arial, sans-serif;
-font-size: $font-size;
 font-weight:bold;
 text-rendering:optimizelegibility;
 display:block;
@@ -34,22 +50,11 @@ display:block;
 .pub{ 
 @include bordcourbe;
 @include centraille;
+@include baspage;
+@include rhythm-borders(5px);
+.projet {@include heading(1.5*$base-font-size);text-align:center;}
+.liens {@include heading(1.2*$base-font-size);text-align:center;}
 max-width:$max;
-h2,h3,h4{text-align:center;}
-border:5px solid $texte;
-li{list-style-type:none;}
-}
-
-body {
-font: $standard Ubuntu, Hoefler Text, bodyfont, serif;
-@include hauteurstd;
-color:$texte;
-background-color:$fonds;
-text-align:center;
-h2{margin-left:1em;}
-h3{margin-left:1.5em;}
-h4{margin-left:1.8em;}
-i:after { content:"\00a0"; }
 }
 
 img{
@@ -64,7 +69,6 @@ max-width:$max;}
 
 article,comments{ 
 @include centraille;
-text-align:justify;
 background:white;
 color:$fonds;
 border-radius:0.5em;
@@ -84,25 +88,25 @@ text-decoration:none;
 }
 
 h1 {
-    @include heading(2em);
+    @include heading(2*$base-font-size);
 color:$titreprin;
 text-decoration-color: $titreprin; 
 }
 
 h2 {
-    @include heading(1.5em);
+    @include heading(1.5*$base-font-size);
 }
 
 h3 {
-    @include heading(1.3em);
+    @include heading(1.3*$base-font-size);
 }
 
 h4 {
-    @include heading(0.9em);
+    @include heading(0.9*$base-font-size);
 }
 
 pre {
-    font-size: 0.8em;
+@include adjust-font-size-to(0.8*$base-font-size);
     overflow: auto;
 }
 
@@ -118,8 +122,9 @@ display:block;
 
 .infos{
 @include centraille;
-border-radius:0.5em;
-background-color:$titres;
+border-bottom-right-radius:0.5em;
+border-top-right-radius:0.5em;
+background-color:$infos;
 font-variant:small-caps;
 display: block;
 li    {
