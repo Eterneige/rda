@@ -132,7 +132,8 @@ article, comments {
 }
 /* line 77, ../../compass/src/main.scss */
 article p, article ul, article ol, article blockquote, comments p, comments ul, comments ol, comments blockquote {
-  margin: 1.5em 1.5em;
+  margin-left: 1.5em;
+  margin-right: 1.5em;
   max-width: 95%;
 }
 /* line 80, ../../compass/src/main.scss */
