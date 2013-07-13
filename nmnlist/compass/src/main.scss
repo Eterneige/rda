@@ -122,15 +122,14 @@ display:block;
 
 .infos{
 @include centraille;
-border-bottom-right-radius:0.5em;
-border-top-right-radius:0.5em;
+border-radius:0.5em;
 background-color:$infos;
 font-variant:small-caps;
 display: block;
 li    {
 list-style-type: none;
 }
-a{color:$fonds;}
+a{color:$titres;}
 }
 
 @import "font-awesome";
