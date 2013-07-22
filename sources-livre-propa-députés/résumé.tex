@@ -1,33 +1,28 @@
-% rubber: set program xelatex
+% rubber: set program lualatex
 
-
+\RequirePackage[l2tabu, orthodox]{nag} % Avertissements contre les mauvaises pratiques et les packages obsolètes
 \documentclass[11pt,liststotoc,bibtotoc]{scrbook}
 
-% \usepackage[paperwidth=15.593cm, paperheight=23.389cm]{geometry}
-%\usepackage[paperwidth=16cm, paperheight=24cm]{geometry}
-% \usepackage[paperwidth=6in, paperheight=9in]{geometry}
+\usepackage{polyglossia}
+	\setdefaultlanguage{french}
+	\newcommand{\ieme}{\textsuperscript{e}}
+	
+%\usepackage{luatextra} % Wrapper pour les utilitaires luatex
+\usepackage{fontspec} % Permet l'utilisation des polices OpenType avec luatex
+	\setmainfont[Ligatures=TeX]{Linux Libertine O}
+	\setsansfont[Ligatures=TeX]{Linux Biolinum O}
 
-\usepackage{fontspec}
-\setmainfont{Ubuntu}
-
-%\usepackage[T1]{fontenc}
-% \usepackage[utf8]{inputenc}
-\usepackage[frenchb]{babel}
-%\usepackage{fullpage}
-% \usepackage{textgreek}
-%\usepackage{showframe}
-
-\linespread{1.05}
-%deux-trois francisations supplémentaires
-\usepackage{xspace}
+% Deux-trois francisations supplémentaires
 \addto\captionsfrench{\renewcommand{\contentsname}{Sommaire}}
 
-%règles de typo françaises
+% Typo plus propre et règles de typo françaises
+\usepackage{xspace}
+\usepackage{microtype}
 \usepackage[hyphenation,parindent,lastparline]{impnattypo}
 \usepackage[all]{nowidow}
 
 %pour énumérer différement
-\usepackage{enumerate}
+\usepackage{enumitem}
 
 % ajoute (entre autre) la bibliographie dans la table des matieres 
 \usepackage[nottoc]{tocbibind}
@@ -35,19 +30,12 @@
 \setcounter{tocdepth}{2}
 \addto\captionsfrench{\renewcommand{\bibname}{Lectures complémentaires en français}} 
 
-%graphique
-\usepackage{graphicx}
-\usepackage{ccaption}
-\usepackage{float}
-\graphicspath{{images/}}
 % urls internes et externes en noir cliquables 
 \usepackage[urlcolor=blue,linkcolor=blue,colorlinks,breaklinks=true]{hyperref}
-\renewcommand{\UrlBreaks}{
-\do\/\do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j\do\k\do\l\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t\do\u\do\v\do\w\do\x\do\y\do\z\do\A\do\B\do\C\do\D\do\E\do\F\do\G\do\H\do\I\do\J\do\K\do\L\do\M
-\do\N\do\O\do\P\do\Q\do\R\do\S\do\T\do\U\do\V\do\W\do\X\do\Y\do\Z}
+\usepackage[anythingbreaks]{breakurl}
 
-\newcommand{\livre}[1]{\textit{#1}}
-\newcommand{\site}[1]{\textit{#1}}
+\newcommand{\livre}[1]{\emph{#1}}
+\newcommand{\site}[1]{\emph{#1}}
 
 \usepackage{framed}
 \usepackage[hyperref,framed]{ntheorem}
