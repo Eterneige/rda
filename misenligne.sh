@@ -2,7 +2,7 @@
 ##
 find . -name "*~" -exec rm {} \;
 make html
-cp -a robots.txt députés.xml style.xsl favicon.ico googlea877ebc45daa60ac.html .htaccess wiki htdocs/
+cp -a robots.txt députés.xml photos style.xsl favicon.ico googlea877ebc45daa60ac.html .htaccess wiki htdocs/
 git add htdocs
 git add content
 git commit -a
