@@ -3445,10 +3445,10 @@
       <email>courrier@alaingest.info</email>
       <email>agest@assemblee-nationale.fr</email>
     </emails>
-    <pris>0</pris>
+    <pris>1</pris>
     <soutiensw></soutiensw>
-    <soutientw></soutientw>
-    <soutien></soutien>
+    <soutientw>https://twitter.com/Sureaunoir</soutientw>
+    <soutien>Sureau</soutien>
     <profession>Consultant</profession>
     <url_an>http://www.assemblee-nationale.fr/14/tribun/fiches_id/1466.asp</url_an>
     <url_image>http://rda.sploing.fr/photos/alain-gest.jpg</url_image>
@@ -3916,10 +3916,10 @@
       <email>depute.demilly@wanadoo.fr</email>
       <email>sdemilly@assemblee-nationale.fr</email>
     </emails>
-    <pris>0</pris>
+    <pris>1</pris>
     <soutiensw></soutiensw>
-    <soutientw></soutientw>
-    <soutien></soutien>
+    <soutientw>https://twitter.com/Sureaunoir</soutientw>
+    <soutien>Sureau</soutien>
     <profession>Consultant en management</profession>
     <url_an>http://www.assemblee-nationale.fr/14/tribun/fiches_id/267241.asp</url_an>
     <url_image>http://rda.sploing.fr/photos/stephane-demilly.jpg</url_image>
@@ -6086,10 +6086,10 @@
     <emails>
       <email>pboistard@assemblee-nationale.fr</email>
     </emails>
-    <pris>0</pris>
+    <pris>1</pris>
     <soutiensw></soutiensw>
-    <soutientw></soutientw>
-    <soutien></soutien>
+    <soutientw>https://twitter.com/Sureaunoir</soutientw>
+    <soutien>Sureau</soutien>
     <profession>Cadre du secteur privé</profession>
     <url_an>http://www.assemblee-nationale.fr/14/tribun/fiches_id/609513.asp</url_an>
     <url_image>http://rda.sploing.fr/photos/pascale-boistard.jpg</url_image>

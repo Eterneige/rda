@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" result-ns="html">
-<xsl:key name="couleur-deputes" match="depute" use="parti_ratt_financier" />
 <xsl:key name="deputes-par-circo" match="depute" use="nom_circo" />
 <xsl:template match="/">
 
@@ -26,12 +25,12 @@
 </div>
 
 <article>
-<header><h1>Liste des députés à prendre en charge</h1></header>
+<header><h1>Liste des député(e)s à prendre en charge</h1></header>
 
-<paragraph><p>La liste des députés est triée ci-dessous par département. </p>
-<p>Les députés qui sont déjà pris en charge sont repérés par l'icône <i class="icon-thumbs-up icon-large"></i>. </p>
-<p>Les députés restants sont repérés par <i class="icon-warning-sign icon-large"></i></p>
-<p>Pour prendre en charge un député, <a href="http://fr.ulule.com/ref-da">participez</a> puis envoyez-moi un mail à <a href="mailto:xavier@sploing.fr?Subject=Choix de député(es)">xavier@sploing.fr</a> pour me signaler votre choix.</p>
+<paragraph><p>La liste des député(e)s est triée ci-dessous par département. </p>
+<p>Les député(e)s qui sont déjà pris(es) en charge sont repéré(e)s par l'icône <i class="icon-thumbs-up icon-large"></i>. </p>
+<p>Les député(e)s restant(e)s sont repéré(e)s par <i class="icon-warning-sign icon-large"></i></p>
+<p>Pour prendre en charge un(e) député(e), <a href="http://fr.ulule.com/ref-da">participez</a> puis envoyez-moi un mail à <a href="mailto:xavier@sploing.fr?Subject=Choix de député(es)">xavier@sploing.fr</a> pour me signaler votre choix.</p>
 </paragraph>
 <ul>
 	<xsl:for-each select="deputes/depute[count(. | key('deputes-par-circo', nom_circo)[1]) = 1]">
