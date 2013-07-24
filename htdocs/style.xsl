@@ -41,7 +41,7 @@
 			<xsl:sort select="nom_de_famille" />
 			<xsl:choose>
 				<xsl:when test="pris > 0">
-					<li style="clear:both;margin-bottom:1em;">
+					<li style="clear:both;margin-bottom:1em;margin-top:1em">
 						<img style="float:left;clear:left;margin-right:1em;border-radius:0.2em">
 						<xsl:attribute name="src">
 							<xsl:value-of select="url_image"/>
