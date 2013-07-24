@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" result-ns="html">
+<xsl:key name="couleur-deputes" match="depute" use="parti_ratt_financier" />
 <xsl:key name="deputes-par-circo" match="depute" use="nom_circo" />
 <xsl:template match="/">
 
@@ -28,22 +29,47 @@
 <header><h1>Liste des députés à prendre en charge</h1></header>
 
 <paragraph><p>La liste des députés est triée ci-dessous par département. </p>
-<p>Les députés qui sont déjà pris en charge sont repérés par l'icône <i class="icon-check-sign"></i>. </p>
-<p>Les députés restants sont repérés par <i class="icon-warning-sign"></i></p>
+<p>Les députés qui sont déjà pris en charge sont repérés par l'icône <i class="icon-thumbs-up icon-large"></i>. </p>
+<p>Les députés restants sont repérés par <i class="icon-warning-sign icon-large"></i></p>
 <p>Pour prendre en charge un député, <a href="http://fr.ulule.com/ref-da">participez</a> puis envoyez-moi un mail à <a href="mailto:xavier@sploing.fr?Subject=Choix de député(es)">xavier@sploing.fr</a> pour me signaler votre choix.</p>
 </paragraph>
 <ul>
 	<xsl:for-each select="deputes/depute[count(. | key('deputes-par-circo', nom_circo)[1]) = 1]">
 		<xsl:sort select="nom_circo" />
-		<li><xsl:value-of select="nom_circo" /><ul style="list-style-type:none;">
+		<li style="clear:both;margin-bottom:1.5em"><xsl:value-of select="nom_circo" /><ul style="list-style-type:none;">
 		<xsl:for-each select="key('deputes-par-circo', nom_circo)">
 			<xsl:sort select="nom_de_famille" />
 			<xsl:choose>
 				<xsl:when test="pris > 0">
-					<li><i style="color:green" class="icon-check-sign"></i><xsl:value-of select="prenom" /><xsl:text> </xsl:text><xsl:value-of select="nom_de_famille" /></li>
+					<li style="clear:both;margin-bottom:1em;">
+						<img style="float:left;clear:left;margin-right:1em;border-radius:0.2em">
+						<xsl:attribute name="src">
+							<xsl:value-of select="url_image"/>
+						</xsl:attribute>
+						<xsl:attribute name="alt">
+							<xsl:value-of select="nom_de_famille"/>
+						</xsl:attribute>
+						</img>
+						<i style="color:green" class="icon-thumbs-up icon-large"></i><xsl:value-of select="prenom" /><xsl:text> </xsl:text><xsl:value-of select="nom_de_famille" /><xsl:text> est pris(e) en charge par </xsl:text><xsl:value-of select="soutien" /><xsl:text> </xsl:text>
+							<xsl:if test="soutientw !=''"><a><xsl:attribute name="href"><xsl:value-of select="soutientw"/></xsl:attribute><i class="icon-twitter icon-large"></i></a></xsl:if><br/>
+						<i class="icon-envelope icon-large"></i><xsl:value-of select="emails/email" /><br/>
+						<i class="icon-info icon-large"></i><xsl:value-of select="profession" /><xsl:text> </xsl:text><a><xsl:attribute name="href"><xsl:value-of select="url_an"/></xsl:attribute><i class="icon-external-link  icon-large"></i></a><br/>
+					</li> 
 				</xsl:when>
 				<xsl:otherwise>
-					<li><i style="color:red" class="icon-warning-sign"></i><xsl:value-of select="prenom" /><xsl:text> </xsl:text><xsl:value-of select="nom_de_famille" /></li>
+					<li style="margin-bottom:1em;clear:both">
+						<img style="float:left;clear:left;margin-right:1em;border-radius:0.2em">
+						<xsl:attribute name="src">
+							<xsl:value-of select="url_image"/>
+						</xsl:attribute>
+						<xsl:attribute name="alt">
+							<xsl:value-of select="nom_de_famille"/>
+						</xsl:attribute>
+						</img>
+						<i style="color:red" class="icon-warning-sign icon-large"></i><xsl:value-of select="prenom" /><xsl:text> </xsl:text><xsl:value-of select="nom_de_famille" /><br/>
+						<i class="icon-envelope icon-large"></i><xsl:value-of select="emails/email" /><br/>
+						<i class="icon-info icon-large"></i><xsl:value-of select="profession" /><xsl:text> </xsl:text><a><xsl:attribute name="href"><xsl:value-of select="url_an"/></xsl:attribute><i class="icon-external-link  icon-large"></i></a><br/>
+					</li> 
 				</xsl:otherwise>
 			</xsl:choose>
 		</xsl:for-each>
