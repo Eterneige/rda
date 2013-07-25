@@ -28,20 +28,23 @@
 <header><h1>Liste des député(e)s à prendre en charge</h1></header>
 
 <paragraph>
-<p>L'envoi des livres à tous les députés est assuré. Mais le suivi personnalisé de tous les députés n'est pas encore assuré. Vous pouvez prendre en charge maximum 25 députés en fonction du montant de <a href="http://fr.ulule.com/ref-da/">votre participation</a>. La barre suivante indique combien de députés seront pris en charge directement par des soutiens.</p>
+<p>L'envoi des livres à tous les député(e)s est assuré. Mais le suivi personnalisé de tous/toutes n'est pas encore assuré. Vous pouvez prendre en charge maximum 25 député(e)s en fonction du montant de <a href="http://fr.ulule.com/ref-da/">votre participation</a>. La barre suivante indique combien seront pris en charge directement par des soutiens.</p>
 
 <svg width="100%" height="2em" style="margin-left:20%;margin-right:20%" xmlns="http://www.w3.org/2000/svg">
-		<xsl:variable name="compteur" select="count(deputes/depute[pris = 1])" />
   <rect rx="5" ry="5" width="577" height="20" fill="red"/>
     <rect rx="5" width="306" height="20" fill="green"/>
     </svg>
 
-<p>Après avoir financé le projet, il faut que vous disiez quels députés en particulier vous intéressent. Cela sert à répartir au mieux les soutiens entre députés. La barre suivante indique le nombre de députés déjà réservés.</p>
+<p style="text-align:center">306 sur 577 à ce jour</p>
+
+<p>Après avoir financé le projet, il faut que vous disiez quels député(e)s en particulier vous intéressent. Cela sert à répartir au mieux les soutiens. La barre suivante indique le nombre de député(e)s déjà réservé(e)s.</p>
 <svg width="100%" height="2em" style="margin-left:20%;margin-right:20%" xmlns="http://www.w3.org/2000/svg">
 		<xsl:variable name="compteur" select="count(deputes/depute[pris = 1])" />
   <rect rx="5" ry="5" width="577" height="20" fill="red"/>
     <rect rx="5" width="{$compteur}" height="20" fill="green"/>
     </svg>
+
+<p  style="text-align:center"><xsl:value-of select="count(deputes/depute[pris = 1])" /> sur 577 à ce jour</p>
 
 <p>La liste ci-dessous détaille qui est pris en charge par qui. Elle est triée par département. </p>
 <ul><li>Les député(e)s qui sont déjà pris(e) en charge sont repéré(e)s par l'icône <i class="icon-thumbs-up icon-large"></i>. </li>
