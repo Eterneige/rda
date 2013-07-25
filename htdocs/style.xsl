@@ -37,7 +37,7 @@
 
 <p style="text-align:center">306 sur 577 à ce jour</p>
 
-<p>Après avoir financé le projet, il faut que vous disiez quels député(e)s en particulier vous intéressent. Cela sert à répartir au mieux les soutiens. La barre suivante indique le nombre de député(e)s déjà réservé(e)s.</p>
+<p>Après avoir financé le projet, il faut que vous disiez quel(le)s député(e)s en particulier vous intéressent. Cela sert à répartir au mieux les soutiens. La barre suivante indique le nombre de député(e)s déjà réservé(e)s.</p>
 <svg width="100%" height="2em" style="margin-left:20%;margin-right:20%" xmlns="http://www.w3.org/2000/svg">
 		<xsl:variable name="compteur" select="count(deputes/depute[pris = 1])" />
   <rect rx="5" ry="5" width="577" height="20" fill="red"/>
