@@ -409,10 +409,10 @@
     <emails>
       <email>psalen@assemblee-nationale.fr</email>
     </emails>
-    <pris>0</pris>
+    <pris>1</pris>
     <soutiensw></soutiensw>
     <soutientw></soutientw>
-    <soutien></soutien>
+    <soutien>Semche</soutien>
     <profession>Retraité</profession>
     <url_an>http://www.assemblee-nationale.fr/14/tribun/fiches_id/2664.asp</url_an>
     <url_image>http://rda.sploing.fr/photos/paul-salen.jpg</url_image>
@@ -3125,10 +3125,10 @@
       <email>michelpirondepute@wanadoo.fr</email>
       <email>mpiron@assemblee-nationale.fr</email>
     </emails>
-    <pris>0</pris>
+    <pris>1</pris>
     <soutiensw></soutiensw>
-    <soutientw></soutientw>
-    <soutien></soutien>
+    <soutientw>https://twitter.com/scesbron</soutientw>
+    <soutien>Sébastien Cesbron</soutien>
     <profession>Enseignant, puis chef d'entreprise</profession>
     <url_an>http://www.assemblee-nationale.fr/14/tribun/fiches_id/267469.asp</url_an>
     <url_image>http://rda.sploing.fr/photos/michel-piron.jpg</url_image>
