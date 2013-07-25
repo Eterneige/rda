@@ -71,17 +71,31 @@
 			<xsl:sort select="fullName" />
 			<xsl:choose>
 				<xsl:when test="pris > 0">
-					<li style="clear:both;margin-bottom:1em;margin-top:1em">
-
+					<li style="clear:both;margin-bottom:2em;margin-top:em">
+						<img style="float:left;clear:left;margin-right:1em;border-radius:0.2em">
+						<xsl:attribute name="src">
+							<xsl:value-of select="url_image"/>
+						</xsl:attribute>
+						<xsl:attribute name="alt">
+							<xsl:value-of select="fullName"/>
+						</xsl:attribute>
+						</img>
 						<i style="color:green" class="icon-thumbs-up icon-large"></i><xsl:value-of select="fullName" /><xsl:text> est pris(e) en charge par </xsl:text><xsl:value-of select="soutien" /><xsl:text> </xsl:text>
-							<xsl:if test="soutientw !=''"><a><xsl:attribute name="href"><xsl:value-of select="soutientw"/></xsl:attribute><i class="icon-twitter icon-large"></i></a></xsl:if>
+							<xsl:if test="soutientw !=''"><a><xsl:attribute name="href"><xsl:value-of select="soutientw"/></xsl:attribute><i class="icon-twitter icon-large"></i></a></xsl:if><br/>
 						
 					</li> 
 				</xsl:when>
 				<xsl:otherwise>
-					<li style="margin-bottom:1em;clear:both">
-
-						<i style="color:red" class="icon-warning-sign icon-large"></i><xsl:value-of select="fullName" />
+					<li style="margin-bottom:2em;margin-top:2em;clear:both">
+						<img style="float:left;clear:left;margin-right:1em;border-radius:0.2em">
+						<xsl:attribute name="src">
+							<xsl:value-of select="url_image"/>
+						</xsl:attribute>
+						<xsl:attribute name="alt">
+							<xsl:value-of select="fullName"/>
+						</xsl:attribute>
+						</img>
+						<i style="color:red" class="icon-warning-sign icon-large"></i><xsl:value-of select="fullName" /><br/>
 						
 					</li> 
 				</xsl:otherwise>
