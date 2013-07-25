@@ -71,7 +71,7 @@
 			<xsl:sort select="fullName" />
 			<xsl:choose>
 				<xsl:when test="pris > 0">
-					<li style="clear:both;margin-bottom:2em;margin-top:em">
+					<li style="clear:both;margin-bottom:2em;margin-top:2em">
 						<img style="float:left;clear:left;margin-right:1em;border-radius:0.2em">
 						<xsl:attribute name="src">
 							<xsl:value-of select="url_image"/>
