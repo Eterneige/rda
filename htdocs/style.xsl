@@ -54,11 +54,28 @@
 <ul>
 <li>L'un(e) d'entre vous habite dans la circonscription au contraire des autres ou a un lien particulier avec le député <br/>&#8594; Serait-il possible de lui laisser la priorité ?</li>
 <li>Vous tenez tous à contacter la/le même député(e)<br/> &#8594; On peut joindre plusieurs lettres en même temps. Ou faire une lettre commune. Discutez-en entre vous, je vous mets en contact !</li></ul></p>
+
+<p>Aller directement à un département : </p>
+<ul>
+<xsl:for-each select="deputes/depute[count(. | key('deputes-par-circo', nom_circo)[1]) = 1]">
+	<xsl:sort select="nom_circo" />
+	<li style="display:inline"><a>
+				<xsl:attribute name="href">
+					#<xsl:value-of select="nom_circo"/>
+				</xsl:attribute><xsl:value-of select="nom_circo"/></a><xsl:text> </xsl:text>
+	</li>
+</xsl:for-each>
+</ul>
 </paragraph>
+
+
 <ul>
 	<xsl:for-each select="deputes/depute[count(. | key('deputes-par-circo', nom_circo)[1]) = 1]">
 		<xsl:sort select="nom_circo" />
-		<li style="clear:both;margin-bottom:1.5em"><xsl:value-of select="nom_circo" /><ul style="list-style-type:none;">
+		<li style="clear:both;margin-bottom:1.5em">
+		<xsl:attribute name="id"><xsl:value-of select="nom_circo"/></xsl:attribute>
+		<xsl:value-of select="nom_circo" />
+		<ul style="list-style-type:none;">
 		<xsl:for-each select="key('deputes-par-circo', nom_circo)">
 			<xsl:sort select="nom_de_famille" />
 			<xsl:choose>
