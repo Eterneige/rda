@@ -31,6 +31,10 @@
 <p>Les député(e)s qui sont déjà pris(es) en charge sont repéré(e)s par l'icône <i class="icon-thumbs-up icon-large"></i>. </p>
 <p>Les député(e)s restant(e)s sont repéré(e)s par <i class="icon-warning-sign icon-large"></i></p>
 <p>Pour prendre en charge un(e) député(e), <a href="http://fr.ulule.com/ref-da">participez</a> puis envoyez-moi un mail à <a href="mailto:xavier@sploing.fr?Subject=Choix de député(es)">xavier@sploing.fr</a> pour me signaler votre choix.</p>
+<p>Si vous êtes deux ou plus à vouloir prendre en charge le même député :
+<ul>
+<li>L'un(e) des deux habite dans la circonscription ou a un lien particulier avec le député <br/> &rarr; Serait-il possible de lui laisser la priorité ?</li>
+<li>Vous tenez tous les deux à contacter la/le même député(e) <br/> &rarr; On peut joindre deux lettres en même temps. Ou faire une lettre commune. Discutez-en entre vous !</li></p>
 </paragraph>
 <ul>
 	<xsl:for-each select="deputes/depute[count(. | key('deputes-par-circo', nom_circo)[1]) = 1]">
