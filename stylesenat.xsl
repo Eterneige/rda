@@ -32,10 +32,10 @@
 <svg width="80%" height="2em" style="margin-left:10%;margin-right:10%" xmlns="http://www.w3.org/2000/svg">
 		<xsl:variable name="compteur" select="count(senateurs/senateur[pris = 1])" />
   <rect rx="5" ry="5" width="100%" height="20" fill="red"/>
-    <rect rx="5" width="{$compteur div 577 * 100}%" height="20" fill="green"/>
+    <rect rx="5" width="{$compteur div 57 * 100}%" height="20" fill="green"/>
     </svg>
 
-<p  style="text-align:center"><xsl:value-of select="count(senateurs/senateur[pris = 1])" /> sur 577 à ce jour</p>
+<p  style="text-align:center"><xsl:value-of select="count(senateurs/senateur[pris = 1])" /> sur 57 à ce jour</p>
 
 <p>La liste ci-dessous détaille qui est pris en charge par qui. Elle est triée par département. </p>
 <ul><li>Les sénateurices qui sont déjà pris(e) en charge sont repéré(e)s par l'icône <i class="icon-thumbs-up icon-large"></i>. </li>
