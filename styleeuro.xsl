@@ -28,7 +28,7 @@
 <header><h1>Liste des eurodéputé(e)s à prendre en charge</h1></header>
 
 <paragraph>
-<p>L'envoi des livres à tous les eurodéputé(e)s est assuré. Mais le suivi personnalisé de tous/toutes n'est pas encore assuré. Après avoir financé le projet, il faut que vous disiez quel(le)s eurodéputé(e)s en particulier vous intéressent. Cela sert à répartir au mieux les soutiens. La barre suivante indique le nombre de eurodéputé(e)s déjà réservé(e)s.</p>
+<p>L'envoi des livres à tous les eurodéputé(e)s est assuré. Mais le suivi personnalisé de tous/toutes n'est pas encore assuré. Après avoir financé le projet, il faut que vous disiez quel(le)s eurodéputé(e)s en particulier vous intéressent. Cela sert à répartir au mieux les soutiens. La barre suivante indique le nombre de eurodéputé(e)s déjà réservé(e)s. N'hésitez à pas vous concerter à plusieurs pour les réserver !</p>
 <svg width="80%" height="2em" style="margin-left:10%;margin-right:10%" xmlns="http://www.w3.org/2000/svg">
 		<xsl:variable name="compteur" select="count(meps/mep[pris = 1])" />
   <rect rx="5" ry="5" width="100%" height="20" fill="red"/>
@@ -41,10 +41,7 @@
 <ul><li>Les eurodéputé(e)s qui sont déjà pris(e) en charge sont repéré(e)s par l'icône <i class="icon-thumbs-up icon-large"></i>. </li>
 <li>Les eurodéputé(e)s restant(e)s sont repéré(e)s par <i class="icon-warning-sign icon-large"></i></li></ul>
 <p>Pour prendre en charge un(e) eurodéputé(e), <a href="http://fr.ulule.com/ref-da">participez</a> puis envoyez-moi un mail à <a href="mailto:xavier@sploing.fr?Subject=Choix de eurodéputé(es)">xavier@sploing.fr</a> pour me signaler votre choix.</p>
-<p>Si vous êtes deux ou plus à vouloir prendre en charge le même eurodéputé :
-<ul>
-<li>L'un(e) d'entre vous habite dans la circonscription au contraire des autres ou a un lien particulier avec le eurodéputé <br/>&#8594; Serait-il possible de lui laisser la priorité ?</li>
-<li>Vous tenez tous à contacter la/le même eurodéputé(e)<br/> &#8594; On peut joindre plusieurs lettres en même temps. Ou faire une lettre commune. Discutez-en entre vous, je vous mets en contact !</li></ul></p>
+<p>Il n'y a pas de souci si vous êtes deux ou plus à vouloir prendre en charge le même eurodéputé. Je vous mets en contact.</p>
 
 <p>Aller directement à un groupe politique : </p>
 <ul>
