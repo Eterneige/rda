@@ -32,10 +32,10 @@
 
 <svg width="80%" height="2em" style="margin-left:10%;margin-right:10%"  xmlns="http://www.w3.org/2000/svg">
   <rect rx="5" ry="5" width="100%" height="20" fill="red"/>
-    <rect rx="5" width="53%" height="20" fill="green"/>
+    <rect rx="5" width="53,5%" height="20" fill="green"/>
     </svg>
 
-<p style="text-align:center">306 sur 577 à ce jour</p>
+<p style="text-align:center">309 sur 577 à ce jour</p>
 
 <p>Après avoir financé le projet, il faut que vous disiez quel(le)s député(e)s en particulier vous intéressent. Cela sert à répartir au mieux les soutiens. La barre suivante indique le nombre de député(e)s déjà réservé(e)s.</p>
 <svg width="80%" height="2em" style="margin-left:10%;margin-right:10%" xmlns="http://www.w3.org/2000/svg">
