@@ -1,0 +1,1878 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="stylesenat.xsl" type="text/xsl"?>
+<senateurs>
+  <senateur>
+    <id>586</id>
+    <nom>Serge Andreoni</nom>
+    <nom_de_famille>Andreoni</nom_de_famille>
+    <prenom>Serge</prenom>
+    <sexe>H</sexe>
+    <date_naissance>1940-03-15</date_naissance>
+    <nom_circo>Bouches-du-Rhône</nom_circo>
+    <num_deptmt>13</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2008-09-21</mandat_debut>
+    <groupe_sigle>SOC</groupe_sigle>
+    <sites_web/>
+    <emails>
+      <email>s.andreoni@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats/>
+    <autres_mandats>
+      <mandat>Groupement d'intérêt public pour la réhabilitation de l'étang de Berre / président</mandat>
+      <mandat>Airfobep (Association agréée pour la surveillance de la qualité de l'air Etang de Berre Ouest des Bouches du Rhône) / président</mandat>
+      <mandat>Agglopole Provence / premier vice-président</mandat>
+      <mandat>Mission Locale Est Etang de Berre / président</mandat>
+      <mandat>Syndicat mixte des Transports de l'Est de l'Etang de Berre / vice-président</mandat>
+      <mandat>Berre-l'Etang / maire</mandat>
+      <mandat>Syndicat d'aménagement du Bassin de l'arc / président</mandat>
+    </autres_mandats>
+    <profession>Médecin du travail</profession>
+    <place_en_hemicycle>315</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/andreoni_serge08040s.html</url_institution>
+    <id_institution>andreoni_serge08040s</id_institution>
+    <slug>serge-andreoni</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/serge-andreoni</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/serge-andreoni.jpg</url_image>
+    <nb_mandats>8</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>349</id>
+    <nom>Jean Boyer</nom>
+    <nom_de_famille>Boyer</nom_de_famille>
+    <prenom>Jean</prenom>
+    <sexe>H</sexe>
+    <date_naissance>1937-01-04</date_naissance>
+    <nom_circo>Haute-Loire</nom_circo>
+    <num_deptmt>43</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2011-09-25</mandat_debut>
+    <groupe_sigle>UDI</groupe_sigle>
+    <sites_web/>
+    <emails>
+      <email>contact@jean-boyer.com</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats>
+      <mandat>23/09/2001 / 25/09/2011 / </mandat>
+    </anciens_mandats>
+    <autres_mandats>
+      <mandat>Haute-Loire (canton : Saint-Paulien) / vice-président du conseil général</mandat>
+    </autres_mandats>
+    <profession>Agriculteur</profession>
+    <place_en_hemicycle>265</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/boyer_jean01052r.html</url_institution>
+    <id_institution>boyer_jean01052r</id_institution>
+    <slug>jean-boyer</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/jean-boyer</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/jean-boyer.jpg</url_image>
+    <nb_mandats>2</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>303</id>
+    <nom>Jean-Claude Carle</nom>
+    <nom_de_famille>Carle</nom_de_famille>
+    <prenom>Jean-Claude</prenom>
+    <sexe>H</sexe>
+    <date_naissance>1948-06-09</date_naissance>
+    <nom_circo>Haute-Savoie</nom_circo>
+    <num_deptmt>74</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2004-09-26</mandat_debut>
+    <groupe_sigle>UMP</groupe_sigle>
+    <sites_web/>
+    <emails>
+      <email>jean-claude.carle@wanadoo.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats>
+      <mandat>24/09/1995 / 26/09/2004 / </mandat>
+    </anciens_mandats>
+    <autres_mandats>
+      <mandat>Rhône-Alpes / conseiller régional</mandat>
+    </autres_mandats>
+    <profession>Agent technique</profession>
+    <place_en_hemicycle>61</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/carle_jean_claude95015c.html</url_institution>
+    <id_institution>carle_jean_claude95015c</id_institution>
+    <slug>jean-claude-carle</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/jean-claude-carle</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/jean-claude-carle.jpg</url_image>
+    <nb_mandats>2</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>518</id>
+    <nom>Françoise Cartron</nom>
+    <nom_de_famille>Cartron</nom_de_famille>
+    <prenom>Françoise</prenom>
+    <sexe>F</sexe>
+    <date_naissance>1949-03-27</date_naissance>
+    <nom_circo>Gironde</nom_circo>
+    <num_deptmt>33</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2008-09-21</mandat_debut>
+    <groupe_sigle>SOC</groupe_sigle>
+    <sites_web>
+      <site>https://www.facebook.com/francoise.cartron</site>
+      <site>http://www.francoisecartron.fr/</site>
+    </sites_web>
+    <emails>
+      <email>f.cartron@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats/>
+    <autres_mandats>
+      <mandat>Bordeaux / vice-présidente de la communauté urbaine</mandat>
+      <mandat>Artigues-près-Bordeaux / conseillère municipale</mandat>
+    </autres_mandats>
+    <profession>Directrice d'école</profession>
+    <place_en_hemicycle>80</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/cartron_francoise08024s.html</url_institution>
+    <id_institution>cartron_francoise08024s</id_institution>
+    <slug>francoise-cartron</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/francoise-cartron</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/francoise-cartron.jpg</url_image>
+    <nb_mandats>3</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>504</id>
+    <nom>Jean-Pierre Chauveau</nom>
+    <nom_de_famille>Chauveau</nom_de_famille>
+    <prenom>Jean-Pierre</prenom>
+    <sexe>H</sexe>
+    <date_naissance>1942-11-08</date_naissance>
+    <nom_circo>Sarthe</nom_circo>
+    <num_deptmt>72</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2007-06-18</mandat_debut>
+    <groupe_sigle>UMP</groupe_sigle>
+    <sites_web/>
+    <emails>
+      <email>jp.chauveau@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats>
+      <mandat>02/11/2004 / 18/06/2007 / en remplacement de M. François Fillon, nommé membre du Gouvernement</mandat>
+    </anciens_mandats>
+    <autres_mandats>
+      <mandat>Sarthe (canton : Mamers) / vice-président du conseil général</mandat>
+      <mandat>Commerveil / maire</mandat>
+      <mandat>Saosnois / président de la communauté de communes</mandat>
+    </autres_mandats>
+    <profession>Cadre de l'industrie</profession>
+    <place_en_hemicycle>99</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/chauveau_jean_pierre04099v.html</url_institution>
+    <id_institution>chauveau_jean_pierre04099v</id_institution>
+    <slug>jean-pierre-chauveau</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/jean-pierre-chauveau</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/jean-pierre-chauveau.jpg</url_image>
+    <nb_mandats>4</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>384</id>
+    <nom>Jacques Chiron</nom>
+    <nom_de_famille>Chiron</nom_de_famille>
+    <prenom>Jacques</prenom>
+    <sexe>H</sexe>
+    <date_naissance>1949-10-03</date_naissance>
+    <nom_circo>Isère</nom_circo>
+    <num_deptmt>38</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2011-09-25</mandat_debut>
+    <groupe_sigle>SOC</groupe_sigle>
+    <sites_web/>
+    <emails>
+      <email>j.chiron@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats/>
+    <autres_mandats>
+      <mandat>Grenoble / adjoint au maire</mandat>
+    </autres_mandats>
+    <profession>Agent de la DGCCRF</profession>
+    <place_en_hemicycle>293</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/chiron_jacques11042g.html</url_institution>
+    <id_institution>chiron_jacques11042g</id_institution>
+    <slug>jacques-chiron</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/jacques-chiron</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/jacques-chiron.jpg</url_image>
+    <nb_mandats>2</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>227</id>
+    <nom>Marie-Annick Duchêne</nom>
+    <nom_de_famille>Duchêne</nom_de_famille>
+    <prenom>Marie-Annick</prenom>
+    <sexe>F</sexe>
+    <date_naissance>1940-08-23</date_naissance>
+    <nom_circo>Yvelines</nom_circo>
+    <num_deptmt>78</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2011-09-25</mandat_debut>
+    <groupe_sigle>UMP</groupe_sigle>
+    <sites_web/>
+    <emails>
+      <email>ma.duchene@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats/>
+    <autres_mandats>
+      <mandat>Versailles Grand Parc / conseillère de la communauté d'agglomération</mandat>
+      <mandat>Versailles / adjointe au maire</mandat>
+    </autres_mandats>
+    <profession>Professeur de lettres classiques</profession>
+    <place_en_hemicycle>280</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/duchene_marie_annick11091r.html</url_institution>
+    <id_institution>duchene_marie_annick11091r</id_institution>
+    <slug>marie-annick-duchene</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/marie-annick-duchene</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/marie-annick-duchene.jpg</url_image>
+    <nb_mandats>3</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>353</id>
+    <nom>Louis Duvernois</nom>
+    <nom_de_famille>Duvernois</nom_de_famille>
+    <prenom>Louis</prenom>
+    <sexe>H</sexe>
+    <date_naissance>1941-05-17</date_naissance>
+    <nom_circo>Français établis hors de France</nom_circo>
+    <num_deptmt>999</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2011-09-25</mandat_debut>
+    <groupe_sigle>UMP</groupe_sigle>
+    <sites_web/>
+    <emails>
+      <email>l.duvernois@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats>
+      <mandat>23/09/2001 / 25/09/2011 / </mandat>
+    </anciens_mandats>
+    <autres_mandats/>
+    <profession>Journaliste</profession>
+    <place_en_hemicycle>271</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/duvernois_louis01041n.html</url_institution>
+    <id_institution>duvernois_louis01041n</id_institution>
+    <slug>louis-duvernois</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/louis-duvernois</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/louis-duvernois.jpg</url_image>
+    <nb_mandats>1</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>58</id>
+    <nom>Vincent Eblé</nom>
+    <nom_de_famille>Eblé</nom_de_famille>
+    <prenom>Vincent</prenom>
+    <sexe>H</sexe>
+    <date_naissance>1957-10-15</date_naissance>
+    <nom_circo>Seine-et-Marne</nom_circo>
+    <num_deptmt>77</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2011-09-25</mandat_debut>
+    <groupe_sigle>SOC</groupe_sigle>
+    <sites_web/>
+    <emails>
+      <email>v.eble@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats/>
+    <autres_mandats>
+      <mandat>Seine-et-Marne (canton : Noisiel) / président du conseil général</mandat>
+    </autres_mandats>
+    <profession>Fonctionnaire territorial</profession>
+    <place_en_hemicycle>301</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/eble_vincent11074q.html</url_institution>
+    <id_institution>eble_vincent11074q</id_institution>
+    <slug>vincent-eble</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/vincent-eble</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/vincent-eble.jpg</url_image>
+    <nb_mandats>2</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>31</id>
+    <nom>Jacqueline Farreyrol</nom>
+    <nom_de_famille>Farreyrol</nom_de_famille>
+    <prenom>Jacqueline</prenom>
+    <sexe>F</sexe>
+    <date_naissance>1939-02-25</date_naissance>
+    <nom_circo>Réunion</nom_circo>
+    <num_deptmt>974</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2011-09-25</mandat_debut>
+    <groupe_sigle>UMP</groupe_sigle>
+    <sites_web/>
+    <emails>
+      <email>j.farreyrol@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats/>
+    <autres_mandats>
+      <mandat>Tampon (La Réunion) / adjointe au maire</mandat>
+    </autres_mandats>
+    <profession>Chargé de mission à la culture</profession>
+    <place_en_hemicycle>181</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/farreyrol_jacqueline11022c.html</url_institution>
+    <id_institution>farreyrol_jacqueline11022c</id_institution>
+    <slug>jacqueline-farreyrol</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/jacqueline-farreyrol</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/jacqueline-farreyrol.jpg</url_image>
+    <nb_mandats>2</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>163</id>
+    <nom>Françoise Férat</nom>
+    <nom_de_famille>Férat</nom_de_famille>
+    <prenom>Françoise</prenom>
+    <sexe>F</sexe>
+    <date_naissance>1949-03-05</date_naissance>
+    <nom_circo>Marne</nom_circo>
+    <num_deptmt>51</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2011-09-25</mandat_debut>
+    <groupe_sigle>UDI</groupe_sigle>
+    <sites_web>
+      <site>http://www.senateur-ferat.org/</site>
+    </sites_web>
+    <emails>
+      <email>f.ferat@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats>
+      <mandat>23/09/2001 / 25/09/2011 / </mandat>
+    </anciens_mandats>
+    <autres_mandats>
+      <mandat>Cuchery / maire</mandat>
+      <mandat>Châtillonnais / conseillère de la communauté de communes</mandat>
+      <mandat>Marne (canton : Châtillon-sur-Marne) / conseillère générale</mandat>
+    </autres_mandats>
+    <profession/>
+    <place_en_hemicycle>212</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/ferat_francoise01025n.html</url_institution>
+    <id_institution>ferat_francoise01025n</id_institution>
+    <slug>francoise-ferat</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/francoise-ferat</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/francoise-ferat.jpg</url_image>
+    <nb_mandats>4</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>33</id>
+    <nom>Maurice Antiste</nom>
+    <nom_de_famille>Antiste</nom_de_famille>
+    <prenom>Maurice</prenom>
+    <sexe>H</sexe>
+    <date_naissance>1953-06-22</date_naissance>
+    <nom_circo>Martinique</nom_circo>
+    <num_deptmt>972</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2011-09-25</mandat_debut>
+    <groupe_sigle>SOC</groupe_sigle>
+    <sites_web/>
+    <emails>
+      <email>m.antiste@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats/>
+    <autres_mandats>
+      <mandat>François / maire</mandat>
+    </autres_mandats>
+    <profession>Professeur de lettres</profession>
+    <place_en_hemicycle>306</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/antiste_maurice11109j.html</url_institution>
+    <id_institution>antiste_maurice11109j</id_institution>
+    <slug>maurice-antiste</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/maurice-antiste</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/maurice-antiste.jpg</url_image>
+    <nb_mandats>2</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>90</id>
+    <nom>Gaston Flosse</nom>
+    <nom_de_famille>Flosse</nom_de_famille>
+    <prenom>Gaston</prenom>
+    <sexe>H</sexe>
+    <date_naissance>1931-06-24</date_naissance>
+    <nom_circo>Polynésie-française</nom_circo>
+    <num_deptmt>987</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2008-09-21</mandat_debut>
+    <groupe_sigle>NI</groupe_sigle>
+    <sites_web/>
+    <emails/>
+    <adresses/>
+    <anciens_mandats>
+      <mandat>27/09/1998 / 21/09/2008 / </mandat>
+    </anciens_mandats>
+    <autres_mandats>
+      <mandat>Polynésie Française / président</mandat>
+    </autres_mandats>
+    <profession>Agent général d'assurance</profession>
+    <place_en_hemicycle>333</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/flosse_gaston98052v.html</url_institution>
+    <id_institution>flosse_gaston98052v</id_institution>
+    <slug>gaston-flosse</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/gaston-flosse</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/gaston-flosse.jpg</url_image>
+    <nb_mandats>2</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>362</id>
+    <nom>Bernard Fournier</nom>
+    <nom_de_famille>Fournier</nom_de_famille>
+    <prenom>Bernard</prenom>
+    <sexe>H</sexe>
+    <date_naissance>1946-09-13</date_naissance>
+    <nom_circo>Loire</nom_circo>
+    <num_deptmt>42</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2011-09-25</mandat_debut>
+    <groupe_sigle>UMP</groupe_sigle>
+    <sites_web/>
+    <emails>
+      <email>b.fournier@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats>
+      <mandat>23/09/2001 / 25/09/2011 / </mandat>
+      <mandat>19/11/1997 / 23/09/2001 / en remplacement de M. François Mathieu, décédé</mandat>
+    </anciens_mandats>
+    <autres_mandats>
+      <mandat>Saint-Nizier de Fornas / adjoint au maire</mandat>
+      <mandat>Syndicat Intercommunal d'énergies de la Loire / président</mandat>
+      <mandat>Union des Communes rurales de la Loire / président</mandat>
+      <mandat>Pays de Saint-Bonnet-le-Château / président de la communauté de communes</mandat>
+    </autres_mandats>
+    <profession>Conseil en entreprise</profession>
+    <place_en_hemicycle>220</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/fournier_bernard97011g.html</url_institution>
+    <id_institution>fournier_bernard97011g</id_institution>
+    <slug>bernard-fournier</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/bernard-fournier</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/bernard-fournier.jpg</url_image>
+    <nb_mandats>5</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>394</id>
+    <nom>André Gattolin</nom>
+    <nom_de_famille>Gattolin</nom_de_famille>
+    <prenom>André</prenom>
+    <sexe>H</sexe>
+    <date_naissance>1960-06-24</date_naissance>
+    <nom_circo>Hauts-de-Seine</nom_circo>
+    <num_deptmt>92</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2011-09-25</mandat_debut>
+    <groupe_sigle>ECO</groupe_sigle>
+    <sites_web>
+      <site>http://www.facebook.com/pages/Andr%C3%A9-Gattolin/279293882080708</site>
+      <site>http://www.andregattolin.net</site>
+    </sites_web>
+    <emails>
+      <email>a.gattolin@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats/>
+    <autres_mandats/>
+    <profession>Consultant</profession>
+    <place_en_hemicycle>204</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/gattolin_andre11083r.html</url_institution>
+    <id_institution>gattolin_andre11083r</id_institution>
+    <slug>andre-gattolin</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/andre-gattolin</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/andre-gattolin.jpg</url_image>
+    <nb_mandats>1</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>80</id>
+    <nom>Brigitte Gonthier-Maurin</nom>
+    <nom_de_famille>Gonthier-Maurin</nom_de_famille>
+    <prenom>Brigitte</prenom>
+    <sexe>F</sexe>
+    <date_naissance>1956-04-23</date_naissance>
+    <nom_circo>Hauts-de-Seine</nom_circo>
+    <num_deptmt>92</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2011-09-25</mandat_debut>
+    <groupe_sigle>CRC</groupe_sigle>
+    <sites_web/>
+    <emails>
+      <email>b.gonthier-maurin@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats>
+      <mandat>29/06/2007 / 25/09/2011 / en remplacement de M. Roland Muzeau, élu député</mandat>
+    </anciens_mandats>
+    <autres_mandats/>
+    <profession>Agent de maîtrise EDF</profession>
+    <place_en_hemicycle>70</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/gonthier_maurin_brigitte07026q.html</url_institution>
+    <id_institution>gonthier_maurin_brigitte07026q</id_institution>
+    <slug>brigitte-gonthier-maurin</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/brigitte-gonthier-maurin</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/brigitte-gonthier-maurin.jpg</url_image>
+    <nb_mandats>1</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>527</id>
+    <nom>Jean-Claude Gaudin</nom>
+    <nom_de_famille>Gaudin</nom_de_famille>
+    <prenom>Jean-Claude</prenom>
+    <sexe>H</sexe>
+    <date_naissance>1939-10-08</date_naissance>
+    <nom_circo>Bouches-du-Rhône</nom_circo>
+    <num_deptmt>13</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2008-09-21</mandat_debut>
+    <groupe_sigle>UMP</groupe_sigle>
+    <sites_web>
+      <site>http://www.jeanclaudegaudin.net/</site>
+    </sites_web>
+    <emails/>
+    <adresses/>
+    <anciens_mandats>
+      <mandat>24/09/1989 / 07/12/1995 / </mandat>
+      <mandat>27/09/1998 / 21/09/2008 / </mandat>
+    </anciens_mandats>
+    <autres_mandats>
+      <mandat>Marseille / maire</mandat>
+      <mandat>Marseille-Provence-Métropole / vice-président de la communauté urbaine</mandat>
+    </autres_mandats>
+    <profession>Professeur d'histoire-géographie</profession>
+    <place_en_hemicycle>93</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/gaudin_jean_claude89029v.html</url_institution>
+    <id_institution>gaudin_jean_claude89029v</id_institution>
+    <slug>jean-claude-gaudin</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/jean-claude-gaudin</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/jean-claude-gaudin.jpg</url_image>
+    <nb_mandats>3</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>34</id>
+    <nom>Samia Ghali</nom>
+    <nom_de_famille>Ghali</nom_de_famille>
+    <prenom>Samia</prenom>
+    <sexe>F</sexe>
+    <date_naissance>1968-06-10</date_naissance>
+    <nom_circo>Bouches-du-Rhône</nom_circo>
+    <num_deptmt>13</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2008-09-21</mandat_debut>
+    <groupe_sigle>SOC</groupe_sigle>
+    <sites_web/>
+    <emails>
+      <email>s.ghali@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats/>
+    <autres_mandats>
+      <mandat>Marseille (15ème et 16ème arrondissements) / maire d'arrondissement</mandat>
+      <mandat>Marseille-Provence-Métropole / vice-présidente de la communauté urbaine</mandat>
+    </autres_mandats>
+    <profession>Fonctionnaire territoriale</profession>
+    <place_en_hemicycle>115</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/ghali_samia08035v.html</url_institution>
+    <id_institution>ghali_samia08035v</id_institution>
+    <slug>samia-ghali</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/samia-ghali</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/samia-ghali.jpg</url_image>
+    <nb_mandats>3</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>423</id>
+    <nom>Dominique Gillot</nom>
+    <nom_de_famille>Gillot</nom_de_famille>
+    <prenom>Dominique</prenom>
+    <sexe>F</sexe>
+    <date_naissance>1949-07-11</date_naissance>
+    <nom_circo>Val-d'Oise</nom_circo>
+    <num_deptmt>95</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2011-09-25</mandat_debut>
+    <groupe_sigle>SOC</groupe_sigle>
+    <sites_web/>
+    <emails>
+      <email>d.gillot@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats/>
+    <autres_mandats>
+      <mandat>Cergy-Pontoise / vice-présidente de la communauté d'agglomération</mandat>
+      <mandat>Eragny-sur-Oise / maire</mandat>
+    </autres_mandats>
+    <profession>Enseignante</profession>
+    <place_en_hemicycle>146</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/gillot_dominique11089x.html</url_institution>
+    <id_institution>gillot_dominique11089x</id_institution>
+    <slug>dominique-gillot</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/dominique-gillot</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/dominique-gillot.jpg</url_image>
+    <nb_mandats>3</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>155</id>
+    <nom>Sylvie Goy-Chavent</nom>
+    <nom_de_famille>Goy-Chavent</nom_de_famille>
+    <prenom>Sylvie</prenom>
+    <sexe>F</sexe>
+    <date_naissance>1963-05-23</date_naissance>
+    <nom_circo>Ain</nom_circo>
+    <num_deptmt>01</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2008-09-21</mandat_debut>
+    <groupe_sigle>UDI</groupe_sigle>
+    <sites_web/>
+    <emails>
+      <email>s.goy-chavent@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats/>
+    <autres_mandats>
+      <mandat>Cerdon / maire</mandat>
+      <mandat>SIVU de la Basse vallée de l'Ain / vice-président</mandat>
+      <mandat>Bugey-Vallée de l'Ain / vice-présidente de la communauté de communes</mandat>
+    </autres_mandats>
+    <profession>Professeur de l'enseignement professionnel</profession>
+    <place_en_hemicycle>163</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/goy_chavent_sylvie08056b.html</url_institution>
+    <id_institution>goy_chavent_sylvie08056b</id_institution>
+    <slug>sylvie-goy-chavent</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/sylvie-goy-chavent</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/sylvie-goy-chavent.jpg</url_image>
+    <nb_mandats>4</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>230</id>
+    <nom>François Grosdidier</nom>
+    <nom_de_famille>Grosdidier</nom_de_famille>
+    <prenom>François</prenom>
+    <sexe>H</sexe>
+    <date_naissance>1961-02-25</date_naissance>
+    <nom_circo>Moselle</nom_circo>
+    <num_deptmt>57</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2011-09-25</mandat_debut>
+    <groupe_sigle>UMP</groupe_sigle>
+    <sites_web/>
+    <emails>
+      <email>grosdidier@mairie-woippy.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats/>
+    <autres_mandats>
+      <mandat>Metz-Métropole / vice-président de la communauté d'agglomération</mandat>
+      <mandat>Woippy / maire</mandat>
+    </autres_mandats>
+    <profession>Fonctionnaire territorial</profession>
+    <place_en_hemicycle>226</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/grosdidier_francois11049p.html</url_institution>
+    <id_institution>grosdidier_francois11049p</id_institution>
+    <slug>francois-grosdidier</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/francois-grosdidier</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/francois-grosdidier.jpg</url_image>
+    <nb_mandats>3</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>392</id>
+    <nom>Christiane Hummel</nom>
+    <nom_de_famille>Hummel</nom_de_famille>
+    <prenom>Christiane</prenom>
+    <sexe>F</sexe>
+    <date_naissance>1942-05-08</date_naissance>
+    <nom_circo>Var</nom_circo>
+    <num_deptmt>83</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2004-09-26</mandat_debut>
+    <groupe_sigle>UMP</groupe_sigle>
+    <sites_web>
+      <site>http://www.christianehummel.fr/</site>
+    </sites_web>
+    <emails>
+      <email>c.hummel@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats/>
+    <autres_mandats>
+      <mandat>Toulon-Provence-Méditerrannée / première vice-présidente de la communauté d'agglomération</mandat>
+      <mandat>Valette du Var / maire</mandat>
+    </autres_mandats>
+    <profession>Chimiste</profession>
+    <place_en_hemicycle>102</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/hummel_christiane04041b.html</url_institution>
+    <id_institution>hummel_christiane04041b</id_institution>
+    <slug>christiane-hummel</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/christiane-hummel</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/christiane-hummel.jpg</url_image>
+    <nb_mandats>3</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>431</id>
+    <nom>Jean-Étienne Antoinette</nom>
+    <nom_de_famille>Antoinette</nom_de_famille>
+    <prenom>Jean-Étienne</prenom>
+    <sexe>H</sexe>
+    <date_naissance>1966-01-29</date_naissance>
+    <nom_circo>Guyane</nom_circo>
+    <num_deptmt>973</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2008-09-21</mandat_debut>
+    <groupe_sigle>SOC</groupe_sigle>
+    <sites_web/>
+    <emails>
+      <email>je.antoinette@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats/>
+    <autres_mandats>
+      <mandat>Kourou / maire</mandat>
+    </autres_mandats>
+    <profession>Formateur</profession>
+    <place_en_hemicycle>252</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/antoinette_jean_etienne08072b.html</url_institution>
+    <id_institution>antoinette_jean_etienne08072b</id_institution>
+    <slug>jean-etienne-antoinette</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/jean-etienne-antoinette</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/jean-etienne-antoinette.jpg</url_image>
+    <nb_mandats>2</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>249</id>
+    <nom>Bariza Khiari</nom>
+    <nom_de_famille>Khiari</nom_de_famille>
+    <prenom>Bariza</prenom>
+    <sexe>F</sexe>
+    <date_naissance>1946-09-03</date_naissance>
+    <nom_circo>Paris</nom_circo>
+    <num_deptmt>75</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2011-09-25</mandat_debut>
+    <groupe_sigle>SOC</groupe_sigle>
+    <sites_web/>
+    <emails>
+      <email>b.khiari@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats>
+      <mandat>26/09/2004 / 25/09/2011 / </mandat>
+    </anciens_mandats>
+    <autres_mandats/>
+    <profession>Déléguée régionale au tourisme</profession>
+    <place_en_hemicycle>1</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/khiari_bariza04077p.html</url_institution>
+    <id_institution>khiari_bariza04077p</id_institution>
+    <slug>bariza-khiari</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/bariza-khiari</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/bariza-khiari.jpg</url_image>
+    <nb_mandats>1</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>395</id>
+    <nom>Françoise Laborde</nom>
+    <nom_de_famille>Laborde</nom_de_famille>
+    <prenom>Françoise</prenom>
+    <sexe>F</sexe>
+    <date_naissance>1958-07-08</date_naissance>
+    <nom_circo>Haute-Garonne</nom_circo>
+    <num_deptmt>31</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2008-09-21</mandat_debut>
+    <groupe_sigle>RDSE</groupe_sigle>
+    <sites_web>
+      <site>https://twitter.com/Laborde_Senat</site>
+      <site>http://www.francoiselaborde.fr/</site>
+    </sites_web>
+    <emails>
+      <email>f.laborde@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats/>
+    <autres_mandats>
+      <mandat>Blagnac / adjointe au maire</mandat>
+    </autres_mandats>
+    <profession>Professeur des écoles</profession>
+    <place_en_hemicycle>162</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/laborde_francoise08031r.html</url_institution>
+    <id_institution>laborde_francoise08031r</id_institution>
+    <slug>francoise-laborde</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/francoise-laborde</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/francoise-laborde.jpg</url_image>
+    <nb_mandats>2</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>207</id>
+    <nom>Jacques Legendre</nom>
+    <nom_de_famille>Legendre</nom_de_famille>
+    <prenom>Jacques</prenom>
+    <sexe>H</sexe>
+    <date_naissance>1941-12-02</date_naissance>
+    <nom_circo>Nord</nom_circo>
+    <num_deptmt>59</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2011-09-25</mandat_debut>
+    <groupe_sigle>UMP</groupe_sigle>
+    <sites_web/>
+    <emails>
+      <email>jacques.legendre@wanadoo.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats>
+      <mandat>23/09/2001 / 25/09/2011 / </mandat>
+      <mandat>27/09/1992 / 23/09/2001 / </mandat>
+    </anciens_mandats>
+    <autres_mandats>
+      <mandat>Cambrai / conseiller municipal</mandat>
+    </autres_mandats>
+    <profession>Professeur agrégé d'histoire</profession>
+    <place_en_hemicycle>89</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/legendre_jacques92031p.html</url_institution>
+    <id_institution>legendre_jacques92031p</id_institution>
+    <slug>jacques-legendre</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/jacques-legendre</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/jacques-legendre.jpg</url_image>
+    <nb_mandats>2</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>498</id>
+    <nom>Jean-Pierre Leleux</nom>
+    <nom_de_famille>Leleux</nom_de_famille>
+    <prenom>Jean-Pierre</prenom>
+    <sexe>H</sexe>
+    <date_naissance>1947-05-08</date_naissance>
+    <nom_circo>Alpes-Maritimes</nom_circo>
+    <num_deptmt>06</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2008-09-21</mandat_debut>
+    <groupe_sigle>UMP</groupe_sigle>
+    <sites_web>
+      <site>http://www.jpleleux.com/</site>
+    </sites_web>
+    <emails>
+      <email>jp.leleux@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats/>
+    <autres_mandats>
+      <mandat>Pôle touristique du Pays de Grasse / président</mandat>
+      <mandat>Pôle Azur Provence / président de la communauté d'agglomération</mandat>
+      <mandat>Grasse / maire</mandat>
+    </autres_mandats>
+    <profession>Enseignant en économie</profession>
+    <place_en_hemicycle>65</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/leleux_jean_pierre08039a.html</url_institution>
+    <id_institution>leleux_jean_pierre08039a</id_institution>
+    <slug>jean-pierre-leleux</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/jean-pierre-leleux</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/jean-pierre-leleux.jpg</url_image>
+    <nb_mandats>4</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>475</id>
+    <nom>Claudine Lepage</nom>
+    <nom_de_famille>Lepage</nom_de_famille>
+    <prenom>Claudine</prenom>
+    <sexe>F</sexe>
+    <date_naissance>1949-08-10</date_naissance>
+    <nom_circo>Français établis hors de France</nom_circo>
+    <num_deptmt>999</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2008-09-21</mandat_debut>
+    <groupe_sigle>SOC</groupe_sigle>
+    <sites_web>
+      <site>http://twitter.com/claudinelepage</site>
+      <site>http://fr-fr.facebook.com/claudinelepage</site>
+      <site>http://claudinelepage.eu/</site>
+    </sites_web>
+    <emails>
+      <email>c.lepage@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats/>
+    <autres_mandats/>
+    <profession>Cadre dans le secteur de la formation</profession>
+    <place_en_hemicycle>191</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/lepage_claudine08017t.html</url_institution>
+    <id_institution>lepage_claudine08017t</id_institution>
+    <slug>claudine-lepage</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/claudine-lepage</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/claudine-lepage.jpg</url_image>
+    <nb_mandats>1</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>1</id>
+    <nom>Michel Le Scouarnec</nom>
+    <nom_de_famille>Le Scouarnec</nom_de_famille>
+    <prenom>Michel</prenom>
+    <sexe>H</sexe>
+    <date_naissance>1949-07-12</date_naissance>
+    <nom_circo>Morbihan</nom_circo>
+    <num_deptmt>56</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2011-09-25</mandat_debut>
+    <groupe_sigle>CRC</groupe_sigle>
+    <sites_web/>
+    <emails>
+      <email>m.le-scouarnec@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats/>
+    <autres_mandats>
+      <mandat>Auray / conseiller municipal</mandat>
+    </autres_mandats>
+    <profession>Professeur des écoles</profession>
+    <place_en_hemicycle>235</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/le_scouarnec_michel11098y.html</url_institution>
+    <id_institution>le_scouarnec_michel11098y</id_institution>
+    <slug>michel-le-scouarnec</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/michel-le-scouarnec</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/michel-le-scouarnec.jpg</url_image>
+    <nb_mandats>2</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>299</id>
+    <nom>Jean-Jacques Lozach</nom>
+    <nom_de_famille>Lozach</nom_de_famille>
+    <prenom>Jean-Jacques</prenom>
+    <sexe>H</sexe>
+    <date_naissance>1954-02-08</date_naissance>
+    <nom_circo>Creuse</nom_circo>
+    <num_deptmt>23</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2008-09-21</mandat_debut>
+    <groupe_sigle>SOC</groupe_sigle>
+    <sites_web/>
+    <emails>
+      <email>jj.lozach@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats/>
+    <autres_mandats>
+      <mandat>Creuse (canton : Bourganeuf) / président du conseil général</mandat>
+    </autres_mandats>
+    <profession>Professeur d'éducation physique et sportive</profession>
+    <place_en_hemicycle>145</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/lozach_jean_jacques08012n.html</url_institution>
+    <id_institution>lozach_jean_jacques08012n</id_institution>
+    <slug>jean-jacques-lozach</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/jean-jacques-lozach</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/jean-jacques-lozach.jpg</url_image>
+    <nb_mandats>2</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>359</id>
+    <nom>Philippe Madrelle</nom>
+    <nom_de_famille>Madrelle</nom_de_famille>
+    <prenom>Philippe</prenom>
+    <sexe>H</sexe>
+    <date_naissance>1937-04-21</date_naissance>
+    <nom_circo>Gironde</nom_circo>
+    <num_deptmt>33</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2008-09-21</mandat_debut>
+    <groupe_sigle>SOC</groupe_sigle>
+    <sites_web/>
+    <emails/>
+    <adresses/>
+    <anciens_mandats>
+      <mandat>24/09/1989 / 27/09/1998 / </mandat>
+      <mandat>28/09/1980 / 24/09/1989 / </mandat>
+      <mandat>27/09/1998 / 21/09/2008 / </mandat>
+    </anciens_mandats>
+    <autres_mandats>
+      <mandat>Gironde (canton : Carbon-Blanc) / président du conseil général</mandat>
+    </autres_mandats>
+    <profession>Professeur d'anglais</profession>
+    <place_en_hemicycle>144</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/madrelle_philippe80027e.html</url_institution>
+    <id_institution>madrelle_philippe80027e</id_institution>
+    <slug>philippe-madrelle</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/philippe-madrelle</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/philippe-madrelle.jpg</url_image>
+    <nb_mandats>2</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>341</id>
+    <nom>Jacques-Bernard Magner</nom>
+    <nom_de_famille>Magner</nom_de_famille>
+    <prenom>Jacques-Bernard</prenom>
+    <sexe>H</sexe>
+    <date_naissance>1952-06-01</date_naissance>
+    <nom_circo>Puy-de-Dôme</nom_circo>
+    <num_deptmt>63</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2011-09-25</mandat_debut>
+    <groupe_sigle>SOC</groupe_sigle>
+    <sites_web/>
+    <emails>
+      <email>jb.magner@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats/>
+    <autres_mandats/>
+    <profession>Professeur des écoles</profession>
+    <place_en_hemicycle>298</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/magner_jacques_bernard11104d.html</url_institution>
+    <id_institution>magner_jacques_bernard11104d</id_institution>
+    <slug>jacques-bernard-magner</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/jacques-bernard-magner</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/jacques-bernard-magner.jpg</url_image>
+    <nb_mandats>1</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>530</id>
+    <nom>Colette Mélot</nom>
+    <nom_de_famille>Mélot</nom_de_famille>
+    <prenom>Colette</prenom>
+    <sexe>F</sexe>
+    <date_naissance>1947-04-20</date_naissance>
+    <nom_circo>Seine-et-Marne</nom_circo>
+    <num_deptmt>77</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2011-09-25</mandat_debut>
+    <groupe_sigle>UMP</groupe_sigle>
+    <sites_web/>
+    <emails>
+      <email>c.melot@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats>
+      <mandat>26/09/2004 / 25/09/2011 / </mandat>
+    </anciens_mandats>
+    <autres_mandats>
+      <mandat>Melun / adjointe au maire</mandat>
+      <mandat>Melun - Val-de-Seine / conseillère de la communauté d'agglomération</mandat>
+    </autres_mandats>
+    <profession>Professeur d'anglais</profession>
+    <place_en_hemicycle>170</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/melot_colette04057k.html</url_institution>
+    <id_institution>melot_colette04057k</id_institution>
+    <slug>colette-melot</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/colette-melot</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/colette-melot.jpg</url_image>
+    <nb_mandats>3</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>44</id>
+    <nom>David Assouline</nom>
+    <nom_de_famille>Assouline</nom_de_famille>
+    <prenom>David</prenom>
+    <sexe>H</sexe>
+    <date_naissance>1959-06-16</date_naissance>
+    <nom_circo>Paris</nom_circo>
+    <num_deptmt>75</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2011-09-25</mandat_debut>
+    <groupe_sigle>SOC</groupe_sigle>
+    <sites_web>
+      <site>http://www.david-assouline.net</site>
+      <site>https://twitter.com/dassouline</site>
+      <site>https://www.facebook.com/DavAssouline</site>
+    </sites_web>
+    <emails>
+      <email>d.assouline@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats>
+      <mandat>26/09/2004 / 25/09/2011 / </mandat>
+    </anciens_mandats>
+    <autres_mandats>
+      <mandat>Paris (20ème arrondissement) / conseiller</mandat>
+    </autres_mandats>
+    <profession>Professeur d'histoire-géographie</profession>
+    <place_en_hemicycle>114</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/assouline_david04059m.html</url_institution>
+    <id_institution>assouline_david04059m</id_institution>
+    <slug>david-assouline</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/david-assouline</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/david-assouline.jpg</url_image>
+    <nb_mandats>2</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>14</id>
+    <nom>Catherine Morin-Desailly</nom>
+    <nom_de_famille>Morin-Desailly</nom_de_famille>
+    <prenom>Catherine</prenom>
+    <sexe>F</sexe>
+    <date_naissance>1960-07-06</date_naissance>
+    <nom_circo>Seine-Maritime</nom_circo>
+    <num_deptmt>76</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2004-09-26</mandat_debut>
+    <groupe_sigle>UDI</groupe_sigle>
+    <sites_web>
+      <site>http://www.catherine-morin-desailly.com</site>
+    </sites_web>
+    <emails>
+      <email>c.morin-desailly@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats/>
+    <autres_mandats>
+      <mandat>Haute-Normandie / conseillère régionale</mandat>
+    </autres_mandats>
+    <profession>Professeur d'anglais</profession>
+    <place_en_hemicycle>123</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/morin_desailly_catherine04070g.html</url_institution>
+    <id_institution>morin_desailly_catherine04070g</id_institution>
+    <slug>catherine-morin-desailly</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/catherine-morin-desailly</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/catherine-morin-desailly.jpg</url_image>
+    <nb_mandats>2</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>361</id>
+    <nom>Philippe Nachbar</nom>
+    <nom_de_famille>Nachbar</nom_de_famille>
+    <prenom>Philippe</prenom>
+    <sexe>H</sexe>
+    <date_naissance>1950-09-26</date_naissance>
+    <nom_circo>Meurthe-et-Moselle</nom_circo>
+    <num_deptmt>54</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2011-09-25</mandat_debut>
+    <groupe_sigle>UMP</groupe_sigle>
+    <sites_web/>
+    <emails/>
+    <adresses/>
+    <anciens_mandats>
+      <mandat>23/09/2001 / 25/09/2011 / </mandat>
+      <mandat>27/09/1992 / 23/09/2001 / </mandat>
+    </anciens_mandats>
+    <autres_mandats/>
+    <profession>Avocat</profession>
+    <place_en_hemicycle>228</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/nachbar_philippe92040q.html</url_institution>
+    <id_institution>nachbar_philippe92040q</id_institution>
+    <slug>philippe-nachbar</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/philippe-nachbar</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/philippe-nachbar.jpg</url_image>
+    <nb_mandats>1</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>139</id>
+    <nom>Daniel Percheron</nom>
+    <nom_de_famille>Percheron</nom_de_famille>
+    <prenom>Daniel</prenom>
+    <sexe>H</sexe>
+    <date_naissance>1942-08-31</date_naissance>
+    <nom_circo>Pas-de-Calais</nom_circo>
+    <num_deptmt>62</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2011-09-25</mandat_debut>
+    <groupe_sigle>SOC</groupe_sigle>
+    <sites_web>
+      <site>http://danielpercheron.fr/</site>
+    </sites_web>
+    <emails>
+      <email>d.percheron@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats>
+      <mandat>23/09/2001 / 25/09/2011 / </mandat>
+      <mandat>27/09/1992 / 23/09/2001 / </mandat>
+      <mandat>25/09/1983 / 27/09/1992 / </mandat>
+    </anciens_mandats>
+    <autres_mandats>
+      <mandat>Nord-Pas-de-Calais / président du conseil régional</mandat>
+    </autres_mandats>
+    <profession>Professeur d'histoire-géographie</profession>
+    <place_en_hemicycle>186</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/percheron_daniel83047w.html</url_institution>
+    <id_institution>percheron_daniel83047w</id_institution>
+    <slug>daniel-percheron</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/daniel-percheron</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/daniel-percheron.jpg</url_image>
+    <nb_mandats>2</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>4</id>
+    <nom>Sophie Primas</nom>
+    <nom_de_famille>Primas</nom_de_famille>
+    <prenom>Sophie</prenom>
+    <sexe>F</sexe>
+    <date_naissance>1962-06-06</date_naissance>
+    <nom_circo>Yvelines</nom_circo>
+    <num_deptmt>78</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2011-09-25</mandat_debut>
+    <groupe_sigle>UMP</groupe_sigle>
+    <sites_web/>
+    <emails>
+      <email>s.primas@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats/>
+    <autres_mandats>
+      <mandat>Seine Mauldre / conseillère de communauté de communes</mandat>
+      <mandat>Aubergenville / adjointe au maire</mandat>
+    </autres_mandats>
+    <profession>Directrice commerciale</profession>
+    <place_en_hemicycle>275</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/primas_sophie11090q.html</url_institution>
+    <id_institution>primas_sophie11090q</id_institution>
+    <slug>sophie-primas</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/sophie-primas</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/sophie-primas.jpg</url_image>
+    <nb_mandats>3</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>215</id>
+    <nom>Marcel Rainaud</nom>
+    <nom_de_famille>Rainaud</nom_de_famille>
+    <prenom>Marcel</prenom>
+    <sexe>H</sexe>
+    <date_naissance>1940-04-01</date_naissance>
+    <nom_circo>Aude</nom_circo>
+    <num_deptmt>11</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2008-09-21</mandat_debut>
+    <groupe_sigle>SOC</groupe_sigle>
+    <sites_web/>
+    <emails>
+      <email>marcel.rainaud@gmail.com</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats>
+      <mandat>12/08/2006 / 21/09/2008 / en remplacement de Raymond Courrière, décédé</mandat>
+    </anciens_mandats>
+    <autres_mandats/>
+    <profession>Professeur de mathématiques</profession>
+    <place_en_hemicycle>249</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/rainaud_marcel06005f.html</url_institution>
+    <id_institution>rainaud_marcel06005f</id_institution>
+    <slug>marcel-rainaud</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/marcel-rainaud</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/marcel-rainaud.jpg</url_image>
+    <nb_mandats>1</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>64</id>
+    <nom>Jean-Pierre Plancade</nom>
+    <nom_de_famille>Plancade</nom_de_famille>
+    <prenom>Jean-Pierre</prenom>
+    <sexe>H</sexe>
+    <date_naissance>1949-08-02</date_naissance>
+    <nom_circo>Haute-Garonne</nom_circo>
+    <num_deptmt>31</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2008-09-21</mandat_debut>
+    <groupe_sigle>RDSE</groupe_sigle>
+    <sites_web>
+      <site>http://fr-fr.facebook.com/people/Jean-Pierre-Plancade/100002416394710</site>
+      <site>https://twitter.com/#!/JPPlancade</site>
+    </sites_web>
+    <emails>
+      <email>jp.plancade@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats>
+      <mandat>27/09/1998 / 21/09/2008 / </mandat>
+    </anciens_mandats>
+    <autres_mandats>
+      <mandat>Haute-Garonne (canton : Toulouse VI) / conseiller général</mandat>
+    </autres_mandats>
+    <profession>Cadre du secteur social</profession>
+    <place_en_hemicycle>121</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/plancade_jean_pierre98010k.html</url_institution>
+    <id_institution>plancade_jean_pierre98010k</id_institution>
+    <slug>jean-pierre-plancade</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/jean-pierre-plancade</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/jean-pierre-plancade.jpg</url_image>
+    <nb_mandats>2</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>553</id>
+    <nom>Michel Savin</nom>
+    <nom_de_famille>Savin</nom_de_famille>
+    <prenom>Michel</prenom>
+    <sexe>H</sexe>
+    <date_naissance>1958-11-25</date_naissance>
+    <nom_circo>Isère</nom_circo>
+    <num_deptmt>38</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2011-09-25</mandat_debut>
+    <groupe_sigle>UMP</groupe_sigle>
+    <sites_web/>
+    <emails>
+      <email>m.savin@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats/>
+    <autres_mandats>
+      <mandat>Domène / maire</mandat>
+    </autres_mandats>
+    <profession>Agent technique principal</profession>
+    <place_en_hemicycle>291</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/savin_michel11043h.html</url_institution>
+    <id_institution>savin_michel11043h</id_institution>
+    <slug>michel-savin</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/michel-savin</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/michel-savin.jpg</url_image>
+    <nb_mandats>2</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>525</id>
+    <nom>Abdourahamane Soilihi</nom>
+    <nom_de_famille>Soilihi</nom_de_famille>
+    <prenom>Abdourahamane</prenom>
+    <sexe>H</sexe>
+    <date_naissance>1959-10-04</date_naissance>
+    <nom_circo>Mayotte</nom_circo>
+    <num_deptmt>976</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2011-09-25</mandat_debut>
+    <groupe_sigle>UMP</groupe_sigle>
+    <sites_web/>
+    <emails>
+      <email>a.soilihi@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats/>
+    <autres_mandats>
+      <mandat>Mamoudzou (Mayotte) / maire</mandat>
+    </autres_mandats>
+    <profession>Enseignant</profession>
+    <place_en_hemicycle>287</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/soilihi_abdourahamane11071m.html</url_institution>
+    <id_institution>soilihi_abdourahamane11071m</id_institution>
+    <slug>abdourahamane-soilihi</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/abdourahamane-soilihi</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/abdourahamane-soilihi.jpg</url_image>
+    <nb_mandats>2</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>480</id>
+    <nom>Alain Dufaut</nom>
+    <nom_de_famille>Dufaut</nom_de_famille>
+    <prenom>Alain</prenom>
+    <sexe>H</sexe>
+    <date_naissance>1944-01-02</date_naissance>
+    <nom_circo>Vaucluse</nom_circo>
+    <num_deptmt>84</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2004-09-26</mandat_debut>
+    <groupe_sigle>UMP</groupe_sigle>
+    <sites_web/>
+    <emails>
+      <email>Alain.Dufaut@wanadoo.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats>
+      <mandat>24/09/1995 / 26/09/2004 /</mandat>
+      <mandat>
+01/10/1987 / 24/09/1995 / en remplacement de M. Maurice Charretier, décédé
+</mandat>
+    </anciens_mandats>
+    <autres_mandats>
+      <mandat>
+Vaucluse (canton : Avignon-Ouest) / conseiller général
+</mandat>
+    </autres_mandats>
+    <profession>Géomètre expert</profession>
+    <place_en_hemicycle>133</place_en_hemicycle>
+    <url_institution>
+http://www.senat.fr/senateur/dufaut_alain87003b.html
+</url_institution>
+    <id_institution>dufaut_alain87003b</id_institution>
+    <slug>alain-dufaut</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/alain-dufaut</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/alain-dufaut.jpg</url_image>
+    <nb_mandats>2</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>193</id>
+    <nom>Jean-François Humbert</nom>
+    <nom_de_famille>Humbert</nom_de_famille>
+    <prenom>Jean-François</prenom>
+    <sexe>H</sexe>
+    <date_naissance>1952-10-17</date_naissance>
+    <nom_circo>Doubs</nom_circo>
+    <num_deptmt>25</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2008-09-21</mandat_debut>
+    <groupe_sigle>UMP</groupe_sigle>
+    <sites_web/>
+    <emails/>
+    <adresses/>
+    <anciens_mandats>
+      <mandat>27/09/1998 / 21/09/2008 /</mandat>
+    </anciens_mandats>
+    <autres_mandats/>
+    <profession>Chargé de mission</profession>
+    <place_en_hemicycle>348</place_en_hemicycle>
+    <url_institution>
+http://www.senat.fr/senateur/humbert_jean_francois98028v.html
+</url_institution>
+    <id_institution>humbert_jean_francois98028v</id_institution>
+    <slug>jean-francois-humbert</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/jean-francois-humbert</url_nossenateurs>
+    <url_image>
+http://rda.sploing.fr/photosénat/jean-francois-humbert.jpg
+</url_image>
+    <nb_mandats>1</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>287</id>
+    <nom>Alex Türk</nom>
+    <nom_de_famille>Türk</nom_de_famille>
+    <prenom>Alex</prenom>
+    <sexe>H</sexe>
+    <date_naissance>1950-01-25</date_naissance>
+    <nom_circo>Nord</nom_circo>
+    <num_deptmt>59</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2011-09-25</mandat_debut>
+    <groupe_sigle>NI</groupe_sigle>
+    <sites_web/>
+    <emails>
+      <email>Alex.turk@wanadoo.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats>
+      <mandat>23/09/2001 / 25/09/2011 / </mandat>
+      <mandat>27/09/1992 / 23/09/2001 / </mandat>
+    </anciens_mandats>
+    <autres_mandats/>
+    <profession>Maître de conférences à l'université</profession>
+    <place_en_hemicycle>330</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/turk_alex92044u.html</url_institution>
+    <id_institution>turk_alex92044u</id_institution>
+    <slug>alex-turk</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/alex-turk</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/alex-turk.jpg</url_image>
+    <nb_mandats>1</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>25</id>
+    <nom>Hilarion Vendegou</nom>
+    <nom_de_famille>Vendegou</nom_de_famille>
+    <prenom>Hilarion</prenom>
+    <sexe>H</sexe>
+    <date_naissance>1941-09-04</date_naissance>
+    <nom_circo>Nouvelle-Calédonie</nom_circo>
+    <num_deptmt>988</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2011-09-25</mandat_debut>
+    <groupe_sigle>UMP</groupe_sigle>
+    <sites_web/>
+    <emails/>
+    <adresses/>
+    <anciens_mandats/>
+    <autres_mandats>
+      <mandat>Pins / maire de l'île</mandat>
+    </autres_mandats>
+    <profession>Instituteur</profession>
+    <place_en_hemicycle>180</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/vendegou_hilarion11011m.html</url_institution>
+    <id_institution>vendegou_hilarion11011m</id_institution>
+    <slug>hilarion-vendegou</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/hilarion-vendegou</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/hilarion-vendegou.jpg</url_image>
+    <nb_mandats>2</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>264</id>
+    <nom>Dominique Bailly</nom>
+    <nom_de_famille>Bailly</nom_de_famille>
+    <prenom>Dominique</prenom>
+    <sexe>H</sexe>
+    <date_naissance>1960-01-02</date_naissance>
+    <nom_circo>Nord</nom_circo>
+    <num_deptmt>59</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2011-09-25</mandat_debut>
+    <groupe_sigle>SOC</groupe_sigle>
+    <sites_web/>
+    <emails>
+      <email>d.bailly@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats/>
+    <autres_mandats>
+      <mandat>Coeur de Pévèle / président de la communauté de communes</mandat>
+      <mandat>Orchies / maire</mandat>
+    </autres_mandats>
+    <profession>Fonctionnaire du ministère des Finances</profession>
+    <place_en_hemicycle>304</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/bailly_dominique11039m.html</url_institution>
+    <id_institution>bailly_dominique11039m</id_institution>
+    <slug>dominique-bailly</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/dominique-bailly</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/dominique-bailly.jpg</url_image>
+    <nb_mandats>3</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>19</id>
+    <nom>Maurice Vincent</nom>
+    <nom_de_famille>Vincent</nom_de_famille>
+    <prenom>Maurice</prenom>
+    <sexe>H</sexe>
+    <date_naissance>1955-09-20</date_naissance>
+    <nom_circo>Loire</nom_circo>
+    <num_deptmt>42</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2011-09-25</mandat_debut>
+    <groupe_sigle>SOC</groupe_sigle>
+    <sites_web>
+      <site>http://twitter.com/#!/mauricevincent_</site>
+      <site>http://www.maurice-vincent.fr/</site>
+    </sites_web>
+    <emails>
+      <email>m.vincent@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats/>
+    <autres_mandats>
+      <mandat>Saint-Étienne Métropole / président de la communauté d'agglomération</mandat>
+      <mandat>Saint-Étienne / maire</mandat>
+    </autres_mandats>
+    <profession>Professeur des universités</profession>
+    <place_en_hemicycle>72</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/vincent_maurice11057p.html</url_institution>
+    <id_institution>vincent_maurice11057p</id_institution>
+    <slug>maurice-vincent</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/maurice-vincent</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/maurice-vincent.jpg</url_image>
+    <nb_mandats>3</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>242</id>
+    <nom>Jean-Léonce Dupont</nom>
+    <nom_de_famille>Dupont</nom_de_famille>
+    <prenom>Jean-Léonce</prenom>
+    <sexe>H</sexe>
+    <date_naissance>1955-01-31</date_naissance>
+    <nom_circo>Calvados</nom_circo>
+    <num_deptmt>14</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2008-09-21</mandat_debut>
+    <groupe_sigle>UDI</groupe_sigle>
+    <sites_web>
+      <site>http://www.jeanleoncedupont.fr</site>
+    </sites_web>
+    <emails>
+      <email>jl.dupont@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats>
+      <mandat>27/09/1998 / 21/09/2008 / </mandat>
+    </anciens_mandats>
+    <autres_mandats>
+      <mandat>Calvados (canton : Bayeux) / président du conseil général</mandat>
+    </autres_mandats>
+    <profession>Directeur d'école de commerce international</profession>
+    <place_en_hemicycle>210</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/dupont_jean_leonce98042t.html</url_institution>
+    <id_institution>dupont_jean_leonce98042t</id_institution>
+    <slug>jean-leonce-dupont</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/jean-leonce-dupont</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/jean-leonce-dupont.jpg</url_image>
+    <nb_mandats>2</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>386</id>
+    <nom>Ambroise Dupont</nom>
+    <nom_de_famille>Dupont</nom_de_famille>
+    <prenom>Ambroise</prenom>
+    <sexe>H</sexe>
+    <date_naissance>1937-05-11</date_naissance>
+    <nom_circo>Calvados</nom_circo>
+    <num_deptmt>14</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2008-09-21</mandat_debut>
+    <groupe_sigle>UMP</groupe_sigle>
+    <sites_web/>
+    <emails>
+      <email>a.dupont@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats>
+      <mandat>24/09/1989 / 27/09/1998 / </mandat>
+      <mandat>27/09/1998 / 21/09/2008 / </mandat>
+    </anciens_mandats>
+    <autres_mandats>
+      <mandat>Victot-Pontfol / maire</mandat>
+    </autres_mandats>
+    <profession>Agriculteur</profession>
+    <place_en_hemicycle>290</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/dupont_ambroise89007p.html</url_institution>
+    <id_institution>dupont_ambroise89007p</id_institution>
+    <slug>ambroise-dupont</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/ambroise-dupont</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/ambroise-dupont.jpg</url_image>
+    <nb_mandats>2</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>192</id>
+    <nom>Danielle Michel</nom>
+    <nom_de_famille>Michel</nom_de_famille>
+    <prenom>Danielle</prenom>
+    <sexe>F</sexe>
+    <date_naissance>1947-04-03</date_naissance>
+    <nom_circo>Landes</nom_circo>
+    <num_deptmt>40</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2011-09-25</mandat_debut>
+    <groupe_sigle>SOC</groupe_sigle>
+    <sites_web>
+      <site>https://twitter.com/danymichelsenat</site>
+      <site>https://www.facebook.com/danielle.michel.186</site>
+      <site>http://www.danielle-michel.fr/</site>
+    </sites_web>
+    <emails>
+      <email>d.michel@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats/>
+    <autres_mandats>
+      <mandat>Grand Dax / vice-présidente de la communauté d'agglomération</mandat>
+      <mandat>Saint-Paul-Lès-Dax / conseillère municipale</mandat>
+    </autres_mandats>
+    <profession>Coordonnateur emploi-formation</profession>
+    <place_en_hemicycle>316</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/michel_danielle11014c.html</url_institution>
+    <id_institution>michel_danielle11014c</id_institution>
+    <slug>danielle-michel</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/danielle-michel</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/danielle-michel.jpg</url_image>
+    <nb_mandats>3</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>234</id>
+    <nom>Françoise Laurent-Perrigot</nom>
+    <nom_de_famille>Laurent-Perrigot</nom_de_famille>
+    <prenom>Françoise</prenom>
+    <sexe>F</sexe>
+    <date_naissance>1950-02-27</date_naissance>
+    <nom_circo>Gard</nom_circo>
+    <num_deptmt>30</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2008-09-21</mandat_debut>
+    <groupe_sigle>SOC</groupe_sigle>
+    <sites_web/>
+    <emails>
+      <email>f.laurent-perrigot@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats/>
+    <autres_mandats>
+      <mandat>Gard (canton : Lédignan) / conseillère générale</mandat>
+    </autres_mandats>
+    <profession>Cadre administratif</profession>
+    <place_en_hemicycle>305</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/laurent_perrigot_francoise08063a.html</url_institution>
+    <id_institution>laurent_perrigot_francoise08063a</id_institution>
+    <slug>francoise-laurent-perrigot</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/francoise-laurent-perrigot</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/francoise-laurent-perrigot.jpg</url_image>
+    <nb_mandats>2</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>595</id>
+    <nom>Pierre Laurent</nom>
+    <nom_de_famille>Laurent</nom_de_famille>
+    <prenom>Pierre</prenom>
+    <sexe>H</sexe>
+    <date_naissance>1957-07-01</date_naissance>
+    <nom_circo>Paris</nom_circo>
+    <num_deptmt>75</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2012-09-20</mandat_debut>
+    <groupe_sigle>CRC</groupe_sigle>
+    <sites_web/>
+    <emails>
+      <email>p.laurent@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats/>
+    <autres_mandats/>
+    <profession>Journaliste</profession>
+    <place_en_hemicycle>105</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/laurent_pierre12041x.html</url_institution>
+    <id_institution>laurent_pierre12041x</id_institution>
+    <slug>pierre-laurent</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/pierre-laurent</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/pierre-laurent.jpg</url_image>
+    <nb_mandats>1</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>98</id>
+    <nom>Marie-Christine Blandin</nom>
+    <nom_de_famille>Blandin</nom_de_famille>
+    <prenom>Marie-Christine</prenom>
+    <sexe>F</sexe>
+    <date_naissance>1952-09-22</date_naissance>
+    <nom_circo>Nord</nom_circo>
+    <num_deptmt>59</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2011-09-25</mandat_debut>
+    <groupe_sigle>ECO</groupe_sigle>
+    <sites_web>
+      <site>http://www.facebook.com/pages/Marie-Christine-Blandin-Sénatrice/164514850245226</site>
+      <site>http://twitter.com/mcblandin</site>
+      <site>http://www.mariechristineblandin.eelv.fr/</site>
+    </sites_web>
+    <emails>
+      <email>mc.blandin@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats>
+      <mandat>23/09/2001 / 25/09/2011 / </mandat>
+    </anciens_mandats>
+    <autres_mandats/>
+    <profession>Professeur de biologie</profession>
+    <place_en_hemicycle>118</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/blandin_marie_christine01044r.html</url_institution>
+    <id_institution>blandin_marie_christine01044r</id_institution>
+    <slug>marie-christine-blandin</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/marie-christine-blandin</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/marie-christine-blandin.jpg</url_image>
+    <nb_mandats>1</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>379</id>
+    <nom>Maryvonne Blondin</nom>
+    <nom_de_famille>Blondin</nom_de_famille>
+    <prenom>Maryvonne</prenom>
+    <sexe>F</sexe>
+    <date_naissance>1947-01-20</date_naissance>
+    <nom_circo>Finistère</nom_circo>
+    <num_deptmt>29</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2008-09-21</mandat_debut>
+    <groupe_sigle>SOC</groupe_sigle>
+    <sites_web>
+      <site>http://www.maryvonne-blondin.fr/</site>
+    </sites_web>
+    <emails>
+      <email>m.blondin@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats/>
+    <autres_mandats>
+      <mandat>Finistère (canton : Quimper II - Ergué-Gabéric - Ergué-Armel) / conseillère générale</mandat>
+    </autres_mandats>
+    <profession>Enseignante</profession>
+    <place_en_hemicycle>149</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/blondin_maryvonne08043v.html</url_institution>
+    <id_institution>blondin_maryvonne08043v</id_institution>
+    <slug>maryvonne-blondin</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/maryvonne-blondin</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/maryvonne-blondin.jpg</url_image>
+    <nb_mandats>2</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>16</id>
+    <nom>Pierre Bordier</nom>
+    <nom_de_famille>Bordier</nom_de_famille>
+    <prenom>Pierre</prenom>
+    <sexe>H</sexe>
+    <date_naissance>1945-06-21</date_naissance>
+    <nom_circo>Yonne</nom_circo>
+    <num_deptmt>89</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2004-09-26</mandat_debut>
+    <groupe_sigle>UMP</groupe_sigle>
+    <sites_web/>
+    <emails>
+      <email>p.bordier@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats/>
+    <autres_mandats>
+      <mandat>Yonne (canton : Saint-Fargeau) / conseiller général</mandat>
+    </autres_mandats>
+    <profession>Docteur vétérinaire</profession>
+    <place_en_hemicycle>347</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/bordier_pierre04073k.html</url_institution>
+    <id_institution>bordier_pierre04073k</id_institution>
+    <slug>pierre-bordier</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/pierre-bordier</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/pierre-bordier.jpg</url_image>
+    <nb_mandats>2</nb_mandats>
+  </senateur>
+  <senateur>
+    <id>248</id>
+    <nom>Corinne Bouchoux</nom>
+    <nom_de_famille>Bouchoux</nom_de_famille>
+    <prenom>Corinne</prenom>
+    <sexe>F</sexe>
+    <date_naissance>1964-01-05</date_naissance>
+    <nom_circo>Maine-et-Loire</nom_circo>
+    <num_deptmt>49</num_deptmt>
+    <champs_specifique_deputes_1/>
+    <champs_specifique_deputes_2/>
+    <mandat_debut>2011-09-25</mandat_debut>
+    <groupe_sigle>ECO</groupe_sigle>
+    <sites_web/>
+    <emails>
+      <email>c.bouchoux@senat.fr</email>
+    </emails>
+    <adresses/>
+    <anciens_mandats/>
+    <autres_mandats/>
+    <profession>Chef d'établissement</profession>
+    <place_en_hemicycle>119</place_en_hemicycle>
+    <url_institution>http://www.senat.fr/senateur/bouchoux_corinne11029k.html</url_institution>
+    <id_institution>bouchoux_corinne11029k</id_institution>
+    <slug>corinne-bouchoux</slug>
+    <url_nossenateurs>http://rda.sploing.fr/photosénat/corinne-bouchoux</url_nossenateurs>
+    <url_image>http://rda.sploing.fr/photosénat/corinne-bouchoux.jpg</url_image>
+    <nb_mandats>1</nb_mandats>
+  </senateur>
+</senateurs>

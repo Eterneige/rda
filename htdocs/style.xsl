@@ -10,7 +10,7 @@
   <head>
   <link rel="stylesheet" href="http://rda.sploing.fr/theme/css/main.css" type="text/css" />
 
-    <title>Il faut réformer le droit d'auteur ! - Liste des députés à prendre en charge</title>
+    <title>Il faut réformer le droit d'auteur ! - Liste des député(e)s à prendre en charge</title>
 
   </head>
 <body>
