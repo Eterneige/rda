@@ -28,16 +28,7 @@
 <header><h1>Liste des sénateurices à prendre en charge</h1></header>
 
 <paragraph>
-<p>L'envoi des livres à tous les sénateurices est assuré. Mais le suivi personnalisé de tous/toutes n'est pas encore assuré. Vous pouvez prendre en charge maximum 25 sénateurices en fonction du montant de <a href="http://fr.ulule.com/ref-da/">votre participation</a>. La barre suivante indique combien seront pris en charge directement par des soutiens.</p>
-
-<svg width="80%" height="2em" style="margin-left:10%;margin-right:10%"  xmlns="http://www.w3.org/2000/svg">
-  <rect rx="5" ry="5" width="100%" height="20" fill="red"/>
-    <rect rx="5" width="53%" height="20" fill="green"/>
-    </svg>
-
-<p style="text-align:center">306 sur 577 à ce jour</p>
-
-<p>Après avoir financé le projet, il faut que vous disiez quel(le)s sénateurices en particulier vous intéressent. Cela sert à répartir au mieux les soutiens. La barre suivante indique le nombre de sénateurices déjà réservé(e)s.</p>
+<p>L'envoi des livres à tous les sénateurices est assuré. Mais le suivi personnalisé de tous/toutes n'est pas encore assuré. Après avoir financé le projet, il faut que vous disiez quel(le)s sénateurices en particulier vous intéressent. Cela sert à répartir au mieux les soutiens. La barre suivante indique le nombre de sénateurices déjà réservé(e)s.</p>
 <svg width="80%" height="2em" style="margin-left:10%;margin-right:10%" xmlns="http://www.w3.org/2000/svg">
 		<xsl:variable name="compteur" select="count(senateurs/senateur[pris = 1])" />
   <rect rx="5" ry="5" width="100%" height="20" fill="red"/>
